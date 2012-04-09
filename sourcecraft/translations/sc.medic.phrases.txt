@@ -1,0 +1,170 @@
+"Phrases"
+{
+	"medic"
+	{
+		"en"		"Terran Medic"
+	}
+
+	"medic_switch"
+	{
+		"en"		""
+	}
+
+	"medic_pending"
+	{
+		"en"		""
+	}
+
+	"medic_image"
+	{
+		"en"		"Terran/Medic.png"
+	}
+
+	"medic_desc"
+	{
+		"en"		"Historically Confederate marines suffered high casualties, but retained their strength through aggressive recruitment practices. Confederate medics remain at bases to care for wounded soldiers but are sometimes attached to squads/platoons. Confederate medics have a distinct appearance (white armor with a red cross). Raynor's Raiders medics operate on the front lines, at least on some occasions.  As conflict escalated to include the protoss and zerg, marine losses became prohibitive.\nThe United Earth Directorate pacification fleet includes combat medics in its front lines. Recruitment for medics drew in mostly women.  The UED's technological prowess includes the field of medical science. Medic tools have been expanded to chemical modifiers increasing marine survival rates and the use of nano-conveyed anesthetic and attenuated lasers to carry out on-site surgery. However, casualties will still occur and for dying marines, medics administer a drug known as the \"Final Protocol\".\nDespite their armor and arm-mounted shields, medics are still vulnerable. Generally, their only armament is the A-13 flash grenade launcher, which is used to provide illumination and 'blind' enemy targets. The Alliance's medics use the C-7 gauss pistol and wear CMC-405 light combat suits.  Following the Brood War, the Koprulu Sector factions continue to use medics but only sparingly, having replaced them with the medivac dropship."
+	}
+
+	"medic_infection"
+	{
+		"en"		"Infection"
+	}
+	"medic_infection_desc"
+	{
+		"en"		"Infects your victims, which can then spread the infection."
+	}
+
+	"medic_ubercharger"
+	{
+		"en"		"Uber Charger"
+	}
+	"medic_ubercharger_desc"
+	{
+		"en"		"Constantly charges Medic's Uber over time while holding the medigun.\n(1 percent per level every 3 seconds)"
+	}
+
+	"medic_training"
+	{
+		"en"		"Medic Training"
+	}
+	"medic_training_desc"
+	{
+		"en"		"Heals the teammate you are looking at when invoked:\nLevel 0 medics can heal up to 35, 1 time per life;\nLevel 1 can heal up to 45, 2 times per life and run 10%% faster;\nLevel 2 can heal up to 50, 3 times per life, run 10%% faster and is 10%% lighter;\nLevel 3 can heal up to 55, 4 times per life, run 15%% faster and is 10%% lighter;\nLevel 4 can heal up to 60, 5 times per life, run 15%% faster and is 15%% lighter"
+	}
+
+	"medic_armor"
+	{
+		"en"		"Light Armor"
+	}
+	"medic_armor_desc"
+	{
+		"en"		"A suit of Light Armor that takes damage up to 70%% until it is depleted."
+	}
+
+	"medic_medipack"
+	{
+		"en"		"Medipack"
+	}
+	"medic_medipack_desc"
+	{
+		"en"		"Provides some ubercharge on spawn and drops Medipacks on death.\nAt level 2 and above, Medipacks can be dropped and with alt fire of medigun or +ultimate 4\nMedics use ubercharge instead of energy to drop Medipacks."
+	}
+
+	"medic_healthkit"
+	{
+		"en"		"Healthkit"
+	}
+	"medic_healthkit_desc"
+	{
+		"en"		"Drop a Healthkit on death or with dropammo command (usually h)."
+	}
+
+	"medic_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"medic_regeneration_desc"
+	{
+		"en"		"Regenerates your Health."
+	}
+
+	"medic_healing"
+	{
+		"en"		"Healing Aura"
+	}
+	"medic_healing_desc"
+	{
+		"en"		"Heals all of your teammates in range (It does NOT heal you)."
+	}
+
+	"medic_restore"
+	{
+		"en"		"Restore"
+	}
+	"medic_restore_desc"
+	{
+		"en"		"Restores (removes effects of orb,bash,lockdown, etc.) continously for the teammates around you and for yourself when +ultimate 3 is hit."
+	}
+
+	"medic_flare"
+	{
+		"en"		"Optical Flare"
+	}
+	"medic_flare_desc"
+	{
+		"en"		"Launches a flare that blinds the enemies around you."
+	}
+
+	"medic_jetpack"
+	{
+		"en"		"Jetpack"
+	}
+	"medic_jetpack_desc"
+	{
+		"en"		"Allows you to fly until you run out of fuel. Additional levels increases fuel capacity and reduces the time before refueling."
+	}
+
+	"medic_bunker"
+	{
+		"en"		"Enter Bunker"
+	}
+	"medic_bunker_desc"
+	{
+		"en"		"Enter the Bunker, which provides additional armor (20-160%) that takes 100%% damage at the cost of becoming immoble while in the bunker."
+	}
+
+	"medic_combat"
+	{
+		"en"		"Combat Training"
+	}
+	"medic_combat_desc"
+	{
+		"en"		"Trains Medics in Combat, allowing the use of weapons at higher levels:\nLevel 0 medics are only equipped with pisols;\nLevel 1 gains smoke grenades;\nLevel 2 is equipped with frag grenades instead of smoke grenades;\nLevel 3 is armed with a carbine or c96 machine pistol;\nLevel 4 retains all weapons of their underlying class."
+	}
+
+	"InsufficientEnergyToDropMedipack"
+	{
+		"#format"	"{1:d}"
+		"en"		"You do not have enough {blue}Energy{default} to drop a {blue}Medipack{default}, {blue}{2}{default} is required!"
+	}
+	"PreventedFromDroppingMedipack"
+	{
+		"en"		"You have been prevented from dropping a {blue}Medipack{default}!"
+	}
+
+	"GainedXPForHealing"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You have gained {custom}{1} experience{default} for healing {olive}{2}{default}."
+	}
+	"GainedCrystalsForHealing"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You have gained {green}{1} crystals{default} healing {olive}{2}{default}."
+	}
+	"GainedVespeneForHealing"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You have gained {lightgreen}{1} vespene{default} for healing {olive}{2}{default}."
+	}
+}

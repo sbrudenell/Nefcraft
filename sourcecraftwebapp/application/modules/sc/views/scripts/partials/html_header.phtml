@@ -1,0 +1,170 @@
+<?php
+
+/**
+ * SourceWeb common page header view
+ * 
+ * @version $Id: html_header.phtml,v 1.4 2007-12-12 13:56:49 roy Exp $
+ */
+echo '<?xml version="1.0" encoding="UTF-8" ?>';
+?>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+            "http://www.w3.org/TR/html4/strict.dtd">
+
+<!-- DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" -->
+	
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+    <style type="text/css">
+        @import "http://ajax.googleapis.com/ajax/libs/dojo/1.3.2/dojo/resources/dojo.css"
+    </style>
+    
+	<script type="text/javascript"
+	        src="http://ajax.googleapis.com/ajax/libs/dojo/1.3.2/dojo/dojo.xd.js"
+	        djConfig="parseOnLoad: true">
+    </script>
+	
+	<script type="text/javascript">
+  		dojo.require("dijit.Dialog");
+  		dojo.require("dijit.form.TextBox");  
+  		dojo.require("dijit.form.Button");
+		dojo.require("dojo.parser");	// scan page for widgets and instantiate them	
+	</script>
+
+
+<?php
+	$from = Zend_Controller_Front::getInstance()->getRequest()->getParam('from');
+	if ( strlen($from) == 0) {
+       		if (isset($_SERVER['HTTP_REFERER'])) {
+			$from = strtolower($_SERVER['HTTP_REFERER']);
+		} else {
+			$from = Zend_Controller_Front::getInstance()->getBaseUrl() . "/";
+		}
+	}
+       
+	if (strpos($from, ".org") !== false) {
+		$url = "http://www.jigglysfunhouse.org/e107/e107_plugins/wrap/wrap.php?2&wrap_pass=/";
+		$from = "jigglysfunhouse.org";
+	} else {
+		$url = "http://www.jigglysfunhouse.net/nukeevo/modules.php?name=SourceCraft&route=";
+		$from = "jigglysfunhouse.net";
+	}
+
+	$dojo_theme = "/sc/scripts/dojo/dijit/themes/noir/noir.css";
+	$dojo_class = "scnoir";
+	$style = Zend_Controller_Front::getInstance()->getRequest()->getParam('style');
+	if ( strlen($style) == 0 ) {
+		if ( strpos(strtolower($url), ".org") === false) {
+			$dojo_theme = "/sc/scripts/dojo/dijit/themes/noir/noir.css";
+			$dojo_class = "scnoir";
+			$style = "style2";
+ 		} else { 
+			$dojo_theme = "http://ajax.googleapis.com/ajax/libs/dojo/1.3.2/dijit/themes/soria/soria.css";
+			$dojo_class = "scsoria";
+			$style = "style1";
+ 		}
+	} else {
+		if ($style == "style1") {
+			$dojo_theme = "http://ajax.googleapis.com/ajax/libs/dojo/1.3.2/dijit/themes/soria/soria.css";
+			$dojo_class = "scsoria";
+		} else {
+			$dojo_theme = "/sc/scripts/dojo/dijit/themes/noir/noir.css";
+			$dojo_class = "scnoir";
+		}
+	}
+
+	$lparms = "?from=" . $from . "&style=" . $style;
+	$parms = "";
+	if (strpos($url, ".org") !== false || strpos($from, ".org") || $style == "style1") {
+		$parms = $lparms;
+	} else {
+		$parms = "&from=" . $from . "&style=" . $style;
+	}
+?>
+	<style type="text/css">
+		@import "<?= $dojo_theme ?>";
+	</style>
+
+	<link rel="stylesheet" type="text/css" href="/sc/css/<?= $style ?>.css" />
+
+	<title><?= isset($this->page_title) ? $this->page_title : 'SC' ?></title>
+</head>
+
+<body>
+
+<div id="everything">
+<div id="header">
+	<table><tr>
+		<td><h1>Jiggly's Funhouse</h1></td>
+	</tr></table>
+</div>
+
+<div id="middle">
+     	<div id="navigation" class="<?= $dojo_class ?>">
+	<table><tr>
+		<td><a href="/sc/sc/player/list<?= $lparms ?>">List All Players</a></td>
+		<!-- td><button dojoType="dijit.form.Button" onclick="parent.location='<?= $url ?>sc/player/list<?= $parms ?>'">List All Players</button></td -->
+		<td><div class="<?= $dojo_class ?>" dojoType="dijit.form.DropDownButton">
+  			<span style="display:none">Find a Player</span>
+  			<div style="display:none" dojoType="dijit.TooltipDialog" id="findDlg" title="Find a Player">
+    				<form action="/sc/sc/index" method="post" validate="true" id="findFrm"><table>
+      					<tr>
+						<td><label for=pname>By Name:</label></td>
+						<td>
+							<input dojoType=dijit.form.TextBox type="text" name="pname" id="pname"
+ 								value="<?= isset($this->pname) ? $this->escape($this->pname) : '' ?>" />
+						<td/>
+      					</tr>
+      					<tr>
+						<td><label for=steamid>By Steam Id:</label></td>
+						<td>
+							<input dojoType=dijit.form.TextBox type="text" name="steamid" id="steamid"
+								 value="<?= isset($this->steamid) ? $this->escape($this->steamid) : '' ?>" />
+						</td>
+      					</tr>
+      					<tr>
+       						<td colspan="2" align="center">
+							<button dojoType=dijit.form.Button type="submit" name="submit">Search</button>
+      						</td>
+					</tr>
+				</table></form>
+			</div>
+		</div></td>
+	
+<?php if (isset($this->session) && $this->session->logged_in) : ?>
+		<!-- td><button dojoType="dijit.form.Button" onclick="parent.location='<?= $url ?>sc/player/show/user/<?= $this->session->username . $parms ?>'">Show  <?= $this->session->username ?></button></td>
+		<td><button dojoType="dijit.form.Button" onclick="parent.location='<?= $url ?>sc/user/logout<?= $parms ?>'">Logout</button></td -->
+		<td><a href="/sc/sc/player/show/user/<?= $this->session->username?><?= $lparms ?>">Show  <?= $this->session->username ?></a></td>
+		<td><a href="/sc/sc/user/logout<?= $lparms ?>">Logout</a></td>
+<?php else : ?>
+		<td><div class="<?= $dojo_class ?>" dojoType="dijit.form.DropDownButton">
+			<span style="display:none">Login</span>
+			<div style="display:none" dojoType="dijit.TooltipDialog" id="loginDlg" title="Enter Login information">
+			<form action="/sc/sc/user/login" method="post" validate="true" id="loginFrm"><table>
+				<tr>
+       					<td><label for="user">User:</label></td>
+       					<td><input dojoType=dijit.form.TextBox type="text" name="user" id="user"></td>
+				</tr>
+				<tr>
+       					<td><label for="pwd">Password:</label></td>
+       					<td><input dojoType=dijit.form.TextBox type="password" name="password" id="pwd"></td>
+				</tr>
+				<tr>
+       					<td colspan="2" align="center">
+       						<button dojoType=dijit.form.Button type="submit" name="submit">Login</button>
+       					</td>
+				</tr>
+			</table></form>
+			</div>
+		</div></td>
+<?php endif; ?>
+
+	</tr></table>
+	</div>
+	
+	<div id="middle_column">

@@ -1,0 +1,72 @@
+<?php
+/**
+ * Player display page view
+ * 
+ * @version $Id: show.phtml,v 1.4 2007-12-04 16:54:49 seva Exp $
+ */
+
+require_once 'Zend/Controller/Front.php';
+
+// Render common HTML header
+echo $this->render('partials/html_header.phtml');
+
+?>
+
+<?php if (isset($this->error)): ?>
+	<div class="error">
+		<?= $this->escape($this->error); ?>
+	</div>
+<?php elseif (! empty($this->player)): ?>
+	<table class="player_detail">
+		<tr>
+			<td><th align=right>Name :</th></td>
+			<td><?= $this->escape($this->player->name) ?></td>
+		</tr>
+		<tr>
+			<td><th align=right>Steam ID :</th></td>
+			<td><?= $this->escape($this->player->steamid) ?></td>
+		</tr>
+		<tr>
+			<td><th align=right>Overall Level :</th></td>
+			<td><?= $this->escape($this->player->overall_level) ?></td>
+		</tr>
+		<tr>
+			<td><th align=right>Crystals :</th></td>
+			<td><?= $this->escape($this->player->crystals) ?></td>
+		</tr>
+		<tr>
+			<td><th align=right>Vespene :</th></td>
+			<td><?= $this->escape($this->player->vespene) ?></td>
+		</tr>
+	</table>
+	<br>
+<?php if (! empty($this->races)): ?>
+<?php foreach ($this->races as $race): ?>
+	<table class="player_races">
+		<tr>
+			<th>Race</th>
+			<th>Level</th>
+			<th>XP</th>
+		</tr>
+		<tr>
+			<td><?= $this->escape($race['long_name']) ?></td>
+			<td><?= $this->escape($race['level']) ?></td>
+			<td><?= $this->escape($race['xp']) ?></td>
+		</tr>
+<?php foreach ($this->upgrades as $upgrade): ?>
+<?php if ($upgrade['race_ident'] == $race['race_ident'] && $upgrade['upgrade_level'] > 0): ?>
+		<tr class='player_upgrades'>
+			<td>&bull;<?= $this->escape($upgrade['long_name']) ?></td>
+			<td><?= $this->escape($upgrade['upgrade_level']) ?></td>
+			<td></td>
+		</tr>
+<?php endif; ?>
+<?php endforeach; ?>
+	</table>
+<?php endforeach; ?>
+<?php endif; ?>
+<?php else: ?>
+	No player has been selected.
+<?php endif; ?>
+
+<?= $this->render('partials/html_footer.phtml'); ?>

@@ -1,0 +1,140 @@
+<?php
+/**
+ * Player display page view
+ * 
+ * @version $Id: show.phtml,v 1.4 2007-12-04 16:54:49 seva Exp $
+ */
+
+require_once 'Zend/Controller/Front.php';
+
+// Render common HTML header
+echo $this->render('partials/html_header.phtml');
+
+?>
+
+<?php if (isset($this->error)): ?>
+	<div class="error">
+		<?= $this->escape($this->error); ?>
+	</div>
+<?php elseif (! empty($this->player)): ?>
+
+<div class="player_container">
+	<table class="player_detail">
+		<tr>
+			<th>Name :</th>
+			<td><?= $this->escape($this->player->name) ?></td>
+		</tr>
+		<tr>
+			<th>Steam ID :</th>
+			<td><?= $this->escape($this->player->steamid) ?></td>
+		</tr>
+		<tr>
+			<th>Overall Level :</th>
+			<td><?= $this->escape($this->player->overall_level) ?></td>
+		</tr>
+		<tr>
+			<th>Crystals :</th>
+			<td><?= $this->escape($this->player->crystals) ?></td>
+		</tr>
+		<tr>
+			<th>Vespene :</th>
+			<td><?= $this->escape($this->player->vespene) ?></td>
+		</tr>
+	</table>
+	<table class="alias_detail">
+		<tr>
+			<th width="200px">Date</th>
+			<th>SteamID</th>
+			<th width="100%" style="text-align: left;">Alias</th>
+		</tr>
+<?php foreach ($this->alias as $alias): ?>
+		<tr width='100%'>
+			<td width="200px"><li><?= $this->escape($alias['date']) ?></td>
+			<td><?= $this->escape($alias['steamid']) ?></td>
+			<td width="100%" style="text-align: left;"><?= $this->escape($alias['name']) ?></td>
+		</tr>
+
+<?php endforeach; ?>
+	</table>
+	<br/>
+
+<?php if (! empty($this->races)): ?>
+<?php foreach ($this->races as $race): ?>
+	<div class="race_container" width="100%">
+	<table class="race_detail" width="100%">
+		<tr>
+			<td width="100%"><img src="/sc/images/spacer.gif" width="100%" height="1"/></td>
+		</tr>
+		<tr>
+			<td width="100%"><table width="100%">
+				<tr>
+					<table width="100%">
+						<tr>
+							<td><img src="/sc/images/<?= $this->escape($race['image']) ?>" width="250" /></td>
+							<td width="100%" style="vertical-align:top">
+								<table class="race_title" width="100%">
+									<tr>
+										<th width='100%' style="text-align: center;"><?= $this->escape($race['long_name']) ?></th>
+									</tr>
+								</table>
+								<table class="race_data">
+									<tr>
+										<th width="75px">XP :</th>
+										<td><?= $this->escape($race['xp']) ?></td>
+									</tr>
+									<tr>
+										<th width="75px">Level :</th>
+										<td><?= $this->escape($race['level']) ?></td>
+									</tr>
+									<tr>
+										<th width="75px">Faction :</th>
+										<td><?= $this->escape($race['faction_name']) ?></td>
+									</tr>
+									<tr>
+										<th width="75px">Type :</th>
+										<td><?= $this->escape($race['type']) ?></td>
+									</tr>
+								</table>
+								<table width="100%">
+									<tr>
+										<td><?= $this->escape($race['description']) ?></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</tr>
+			</td></table>
+		</tr>
+	</table>
+	<ul><table class="upgrade_detail" width='100%'>
+		<tr>
+			<th width="200px">Upgrade</th>
+			<th>Level</th>
+			<th width="100%">Description</th>
+		</tr>
+<?php foreach ($this->upgrades as $upgrade): ?>
+<?php if ($upgrade['race_ident'] == $race['race_ident']): ?>
+		<tr class='player_upgrades' width='100%'>
+			<td width="200px"><li><?= $this->escape($upgrade['long_name']) ?></td>
+			<td align="center"><?= $this->escape($upgrade['upgrade_level']) ?></td>
+			<td width="100%"><?= $this->escape($upgrade['description']) ?></td>
+		</tr>
+
+<?php endif; ?>
+<?php endforeach; ?>
+		<tr>
+			<td width="200px"><img src="/images/spacer.gif" width="200px" height="1"/></td>
+			<td></td>
+			<td width="100%"></td>
+		</tr>
+	</table></ul>
+	</div>
+<?php endforeach; ?>
+<?php endif; ?>
+<?php else: ?>
+	No player has been selected.
+<?php endif; ?>
+</div>
+
+<?= $this->render('partials/html_footer.phtml'); ?>

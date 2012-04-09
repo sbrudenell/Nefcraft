@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"the_legion"
+	{
+		"en"		"The Legion"
+	}
+
+	"the_legion_crystal_sound"
+	{
+		"en"		"sc/NagaNoGold1.wav"
+	}
+
+	"the_legion_vespene_sound"
+	{
+		"en"		"sc/NagaNoLumber1.wav"
+	}
+
+	"the_legion_energy_sound"
+	{
+		"en"		"sc/NagaNoMana1.wav"
+	}
+
+	"the_legion_level_sound"
+	{
+		"en"		"sc/levelupcaster.mp3"
+	}
+
+	"the_legion_image"
+	{
+		"en"		"Alliance/humanseal.gif"
+	}
+
+	"the_legion_desc"
+	{
+		"en"		"The Legion consists of powerful cultures and groups bound not by desperation or necessity, but by their deep commitments to abstract concepts like nobility and honor that stuggles against the Scourge."
+	}
+}

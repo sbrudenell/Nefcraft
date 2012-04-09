@@ -1,0 +1,1421 @@
+"Phrases"
+{
+	"killed you"
+	{
+		"#format"	"{1:N},{2:t},{3:t},{4:i}"
+		"en"		"{teamcolor}{1} {olive}{2}{default} you with {green}{3}{default} ({olive}{4}hp{default} left)"
+		"fr"		"{teamcolor}{1} {olive}{2}{default} avec {green}{3}{default} ({olive}{4}hp{default} restants})"
+		"hu"		"{teamcolor}{1} {olive}{2}{default} Teged! Fegyver: {green}{3}{default} ({olive}{4}hp{default} hatralevo)"
+		"de"		"{teamcolor}{1} {olive}{2}{default} Dich mit {green}{3}{default} ({olive}{4}hp{default} übrig)"
+		"pl"   		"{teamcolor}{1} {olive}{2}{default} z {green}{3}{default} ({olive}{4}hp{default} pozostalo)"
+	}
+
+	"killed you @"
+	{
+		"#format"	"{1:N},{2:t},{3:t},{4:i},{5:0.1f},{6:s}"
+		"en"		"{teamcolor}{1} {olive}{2}{default} you with {green}{3}{default} ({olive}{4}hp{default} left) @{5}{6}"
+		"fr"		"{teamcolor}{1} {olive}{2}{default} avec {green}{3}{default} ({olive}{4}hp{default} restants}) @{5}{6}"
+		"hu"		"{teamcolor}{1} {olive}{2}{default} Teged! Fegyver: {green}{3}{default} ({olive}{4}hp{default} hatralevo) @{5}{6}"
+		"de"		"{teamcolor}{1} {olive}{2}{default} Dich mit {green}{3}{default} ({olive}{4}hp{default} übrig) @{5}{6}"
+		"pl"   		"{teamcolor}{1} {olive}{2}{default} z {green}{3}{default} ({olive}{4}hp{default} pozostalo) @{5}{6}"
+	}
+
+	"died before killing"
+	{
+		"#format" 	"{1:N},{2:t}"
+		"en"		"{teamcolor}{1}{default} died before killing you with {olive}{2}{default}."
+		"fr"		"{teamcolor}{1}{default} est mort avant de te tuer avec {olive}{2}{default}."
+		"hu"		"{teamcolor}{1}{default} meghalt mielott teged megolt! Fegyver: {olive}{2}{default}."
+		"de"		"{teamcolor}{1}{default} starb bevor Du getötet wurdest Dich mit {olive}{2}{default}."
+		"pl"    	"{teamcolor}{1}{default} zginal przed zabójstwem ciebie z {olive}{2}{default}"
+	}
+
+	"finished off"
+	{
+		"#format"	"{1:N}"
+		"en"		"{teamcolor}{1}{default} finished you off."
+		"fr"		"{teamcolor}{1}{default} t'as achevé."
+		"hu"		"{teamcolor}{1}{default} kivegzett."
+		"de"		"{teamcolor}{1}{default} erledigte Dich."
+		"pl"  	  	"{teamcolor}{1}{default} dokonczyl dziela."
+	}	
+
+	"killed"
+	{
+		"en"	"killed"
+		"fr"	"t'as tué"
+		"hu"	"megolt"
+		"de"	"tötete"
+		"pl"	"zabity"
+	}
+
+	"dominated"
+	{
+		"en"	"DOMINATED"
+		"fr"	"t'as dominé"
+		"hu"	"DOMINALVA"
+		"de"	"dominiert"
+		"pl"    "DOMINOWANY"
+	}
+
+	"revenged"
+	{
+		"en"	"got revenge on"
+	}
+
+	"humiliated"
+	{
+		"en"	"HUMILIATED"
+		"fr"	"t'as humilié"
+		"hu"	"HUMILATED"
+		"de"	"demütigt"
+		"pl"     "UPOKORZONY"
+	}
+
+	"crit"
+	{
+		"en"	"crit"
+		"de"	"crit"
+		"hu"	"crit"
+		"pl"    "krytyczny"
+	}
+
+	"minicrit banner"
+	{
+		"en"	"mini-crit (Buff Banner)"
+		"pl"  "Sztandar leczenia"
+	}
+
+	"minicrit jarate"
+	{
+		"en"	"mini-crit (Jarate)"
+		"pl"	"Skiwondo (mini obrazenia krytyczne)"
+	}
+
+	"minicrit critcola"
+	{
+		"en"	"mini-crit (Crit-a-Cola)"
+	}
+
+	"headshot"
+	{
+		"en"	"headshot"
+		"fr"	"t'as fait un headshot"
+		"hu"	"fejloves"
+		"de"	"erlegte"
+		"pl"    "lebszot"
+	}	
+
+	"backstabbed"
+	{
+		"en"	"backstabbed"
+		"fr"	"t'as backstabbé"
+		"hu"	"hatbaszurt"
+		"de"	"erstach"
+		"pl"    "nozem"
+	}
+
+	"decapitated"
+	{
+		"en" 	"decapitated"
+	}
+	
+	"trampled"
+	{
+		"en"	"trampled"
+	}
+
+//------------------------------------------------ EVENTS
+
+	"tf_pumpkin_bomb"
+	{
+		"en" 	"a Pumpkin Bomb!"
+		"pl"    "Bomba Dyniowa"
+	}
+
+//------------------------------------------------ ADMIN
+
+	"banhammer"
+	{
+		"en" 	"the BAN Hammer!"
+	}
+
+//------------------------------------------------ MULTI CLASS
+
+	"paintrain"
+	{
+		"en"	"the Pain Train"
+		"pl"	"Pain Train"
+	}
+
+	"maxgun"
+	{
+		"en"	"a Lugermorph"
+	}
+
+	"samrevolver"
+	{
+		"en"	"The Big Kill"
+		"fr"	"son revolver de Sam"
+		"hu"	"Revolver"
+		"de"	"einem Revolver"
+	}
+	
+	"fryingpan"
+	{
+		"en"	"a frying pan"
+	}
+
+//------------------------------------------------ HEAVY
+
+	"taunt_heavy"
+	{
+		"en"	"a Heavy taunt (Showdown)"
+		"fr"    "sa raillerie d'Heavy"
+		"hu"    "Heavy taunt"
+		"de"    "einer Heavy-Verspottung"
+		"pl"    "Kpina Heavy"
+	}
+
+	"minigun"
+	{
+		"en"	"a Minigun"
+		"fr"	"son minigun"
+		"hu"	"Minigun"
+		"de"	"einer Minigun"
+		"pl"    "Minigun"
+	}
+
+	"natascha"
+	{
+		"en"    "Natascha"
+		"fr"    "Natascha"
+		"hu"    "Natascha"
+		"de"    "Natascha"
+		"pl"    "Natasza"
+	}
+
+	"iron_curtain"
+	{
+		"en"	"the Iron Curtain"
+	}
+
+	"brass_beast"
+	{
+		"en"	"the Brass Beast"
+	}
+
+	"fists"
+	{
+		"en"	"their Fists"
+		"fr"	"ses poings"
+		"hu"	"Okol"
+		"de"	"Fäusten"
+		"pl"    "Piesci"
+	}
+
+	"gloves"
+	{
+		"en"    "the K.G.B."
+		"fr"    "ses gants de boxe"
+		"hu"    "a K.G.B."
+		"de"    "Killer-Boxhandschuhen"
+		"pl"    "Rekawice bokserskie"
+	}
+
+	"shotgun_hwg"
+	{
+		"en"	"a Shotgun"
+		"fr"	"son shotgun"
+		"hu"	"Shotgun"
+		"de"	"einer Schrotflinte"
+		"pl"    "Strzelba"
+	}
+
+	"glovesurgent"
+	{
+		"en"	"the Gloves of Running Urgently"
+	}
+
+	"bear_claws"
+	{
+		"en"	"the Warrior's Spirit"
+	}
+
+	"warrior_spirit"
+	{
+		"en"	"the Warrior's Spirit"
+	}
+
+	"steel_fists"
+	{
+		"en"	"the Fists of Steel"
+	}
+
+	"lunchbox"
+	{
+		"en"	"the Sandvitch"
+	}
+
+//------------------------------------------------ ENGINEER
+
+	"obj_sentrygun"
+	{
+		"en"	"a Sentry Gun (1)"
+		"fr"	"sa tourelle (1)"
+		"hu"	"Sentry (1)"
+		"de"	"einer Sentry Gun (Stufe 1)"
+		"pl"    "Dzialko straznicze (poziom 1)"
+	}
+
+	"obj_sentrygun2"
+	{
+		"en"	"a Sentry Gun (2)"
+		"fr"	"sa tourelle (2)"
+		"hu"	"Sentry (2)"
+		"de"	"einer Sentry Gun (Stufe 2)"
+		"pl"    "Dzialko straznicze (poziom 2)"
+	}
+
+	"obj_sentrygun3"
+	{
+		"en"	"a Sentry Gun (3)"
+		"fr"	"sa tourelle (3)"
+		"hu"	"Sentry (3)"
+		"de"	"einer Sentry Gun (Stufe 3)"
+		"pl"    "Dzialko straznicze (poziom 3)"
+	}
+
+	"obj_sentrygun_mini"
+	{
+		"en"	"a Mini Sentry Gun"
+		"fr"	"sa petite tourelle"
+		"hu"	"Mini Sentry"
+		"de"	"einer Mini Sentry Gun"
+	}
+
+	"wrench"
+	{
+		"en"	"a Wrench"
+		"fr"	"sa clef à molette"
+		"hu"	"Cso-kulcs"
+		"de"	"einem Schraubenschlüssel"
+		"pl"    "Klucz"
+	}
+
+	"wrench_golden"
+	{
+		"en"	"the Golden Wrench"
+		"fr"	"sa clef à molette d'or"
+		"hu"	"Arany Cso-kulcs"
+		"de"	"einem Goldene Schraubenschlüssel"
+	}
+
+	"pistol"
+	{
+		"en"	"a Pistol"
+		"fr"	"son pistolet"
+		"hu"	"Pisztoly"
+		"de"	"einer Pistole"
+		"pl"    "Pistolet"
+	}
+
+	"shotgun_primary"
+	{
+		"en"	"a Shotgun"
+		"fr"	"son shotgun"
+		"hu"	"Shotgun"
+		"de"	"einer Schrotflinte"
+		"pl"    "Strzelba"
+	}
+
+	"telefrag"
+	{
+		"en"	"telefragged"
+		"pl"    "zabity po wyjsciu z teleportu"
+	}
+	
+	"frontier_justice"
+	{
+		"en"	"the Frountier Justice"
+	}
+	
+	"robot_arm"
+	{
+		"en"	"the Gunslinger"	
+	}
+	
+	"taunt_guitar_kill"
+	{
+		"en"	"an Engineer Taunt (Guitar)"
+	}
+	
+	"robot_arm_blender_kill"
+	{
+		"en"	"an Engineer Taunt (Organ Grinder)"
+	}
+
+	"robot_arm_combo_kill"
+	{
+		"en"	"the Gunslinger (Combo)"
+	}
+	
+	"wrangler_kill"
+	{
+		"en"	"the Wrangler"
+	}
+	
+	"southern_hospitality"
+	{
+		"en"	"a Southern Hospitality"
+	}
+	
+	"wrench_jag"
+	{
+		"en"	"the Jag"
+	}
+	
+	"laser_pointer"
+	{
+		"en"	"the Wrangler"
+	}
+
+	"builder"
+	{
+		"en"	"the Engineer's Builder Tool"
+	}
+
+	"pda_engineer_build"
+	{
+		"en"	"the Engineer's Builder Tool"
+	}
+
+//------------------------------------------------	DEMO
+
+	"taunt_demoman"
+	{
+		"en"	"a Demoman taunt (Decapitation)"
+		"pl"    "kpina Demomana"
+	}
+
+	"sticky_resistance"
+	{
+		"en"	"the Scottish Resistance"
+		"pl"    "Szkocki opór"
+	}
+
+	"demoshield"
+	{
+		"en"	"a Chargin' Targe"
+		"pl"    "Tarcza szarzy"
+	}
+
+	"sword"
+	{
+		"en"	"the Eyelander"
+		"pl"    "Eyelander"
+	}
+
+	"claidheamohmor"
+	{
+		"en"	"the Claidheamohmor"
+	}
+
+	"battleaxe"
+	{
+		"en"	"the Scotsman's Skullcutter"
+	}
+
+	"headtaker"
+	{	
+		"en"	"the Unusual Headless Horsemann's Headtaker"
+	}
+
+	"ullapool_caber"
+	{	
+		"en"	"the Ullapool Caber"
+	}
+
+	"ullapool_caber_explosion"
+	{	
+		"en"	"the Ullapool Caber Explosion"
+	}
+
+	"tf_projectile_pipe"
+	{
+		"en"	"a Grenade"
+		"fr"	"une grenade"
+		"hu"	"Granat"
+		"de"	"einer Granate"
+		"pl"    "Granat"
+	}
+
+	"tf_projectile_pipe_remote"
+	{
+		"en"	"a Sticky"
+		"fr"	"une stickybombe"
+		"hu"	"Sticky"
+		"de"	"einer Haftbombe"
+		"pl"    "Bomba samoprzylepna"
+	}
+
+	"bottle"
+	{
+		"en"	"a Bottle"
+		"fr"	"sa bouteille"
+		"hu"	"Uveg"
+		"de"	"einer Flasche"
+		"pl"    "Butelka"
+	}
+
+	"stickybomb_defender"
+	{
+		"en"	"the Sticky Bomb Defender"
+	}
+
+	"grenadelauncher"
+	{
+		"en"	"a Grenade"
+		"fr"	"une grenade"
+		"hu"	"Granat"
+		"de"	"einer Granate"
+	}
+
+	"pipebomblauncher"
+	{
+		"en"	"a Sticky"
+		"fr"	"une stickybombe"
+		"hu"	"Sticky"
+		"de"	"einer Haftbombe"
+	}
+
+//------------------------------------------------	MEDIC
+
+	"taunt_medic"
+	{
+		"en"	"a Medic taunt"
+		"pl"    "kpina Medica"
+	}
+
+	"ubersaw"
+	{
+		"en"    "an Ubersaw"
+		"fr"    "son ubersaw"
+		"hu"    "Uber-furesz"
+		"de"    "einer Übersäge"
+		"pl"    "Übersaw"
+	}
+
+	"amputator"
+	{
+		"en"    "the Amputator"
+	}
+
+	"bonesaw"
+	{
+		"en"	"a Bone Saw"
+		"fr"	"sa scie"
+		"hu"	"Csontfuresz"
+		"de"	"einer Knochensäge"
+		"pl"    "Pila do kosci"
+	}
+
+	"battleneedle"
+	{
+		"en"	"a Vita-Saw"
+	}
+
+	"blutsauger"
+	{
+		"en"	"a Blutsauger"
+		"fr"	"son blutsauger"
+		"hu"	"Blutsauger"
+		"de"    "einem Blutsauger"
+		"pl"    "Blutsauger"
+	}
+
+	"syringegun_medic"
+	{
+		"en"	"a Syringe Gun"
+		"fr"	"son lance-seringues"
+		"hu"	"Fecskendo-fegyver"
+		"de"	"einem Spritzengewehr"
+		"pl"    "Karabin strzykawkowy"
+	}
+
+	"medigun"
+	{
+		"en"	"a Medi Gun"
+	}
+
+	"tf_projectile_healing_bolt"
+	{
+		"en"	"a Crusader's Crossbow Bolt"
+	}
+
+	"crusaders_crossbow"
+	{
+		"en"	"the Crusader's Crossbow"
+	}
+
+//------------------------------------------------ SPY
+
+	"taunt_spy"
+	{
+		"en"	"a Spy taunt (Fencing)"
+		"de"	"einer Spy-Verspottung"
+		"pl"    "Kpina Spy"
+	}
+
+	"ambassador"
+	{
+		"en"	"the Ambassador"
+		"de"	"der Ambassador"
+		"pl"    "Ambassador"
+	}
+
+	"revolver"
+	{
+		"en"    "a Revolver"
+		"fr"    "son revolver"
+		"hu"    "Revolver"
+		"de"    "einem Revolver"
+		"pl"    "Rewolwer"
+	}
+
+	"knife"
+	{
+		"en"    "a Knife"
+		"fr"    "son couteau"
+		"hu"    "Kes"
+		"de"    "einem Messer"
+		"pl"    "Nóz"
+	}
+
+	"eternal_reward"
+	{
+		"en"    "the Eternal Reward"
+	}
+
+	"letranger"
+	{
+		"en"    "L'Etranger"
+	}
+
+	"pda_spy"
+	{
+		"en"	"the Spy's Disguise Kit"
+	}
+
+//------------------------------------------------ SNIPER
+
+	"taunt_sniper"
+	{
+		"en"	"a Sniper taunt (Skewering)"
+		"de"	"einer Sniper-Verspottung"
+		"pl"    "Kpina Snipera"
+	}
+
+	"jar"
+	{
+		"en"    "the Jarate"
+		"pl"    "Sikwondo"
+	}
+
+	"tf_projectile_arrow"
+	{
+		"en"	"an Arrow"
+		"de"	"dem Huntsman"
+		"pl"    "Stzala"
+	}
+
+	"tf_projectile_arrow_fire"
+	{
+		"en"	"a Flaming Arrow"
+		"pl"	"Plonaca strzala"
+	}
+
+	"compound_bow"
+	{
+		"en"	"the Huntsman"
+		"de"	"dem Huntsman"
+		"pl"    "Huntsman"
+	}
+
+	"club"
+	{
+		"en"	"a Machete"
+		"fr"	"sa machete"
+		"hu"	"Machete"
+		"de"	"einer Machete"
+		"pl"    "Maczeta"
+	}
+
+	"tribalkukri"
+	{
+		"en"	"the Tribalman's shiv"
+	}
+
+	"smg"
+	{
+		"en"	"a SMG"
+		"fr"	"sa mitrailleuse"
+		"hu"	"SMG"
+		"de"	"einer Maschinenpistole"
+		"pl"    "LKM"
+	}
+
+	"sniperrifle"
+	{
+		"en"	"a Sniper Rifle"
+		"fr"	"son fusil de snipe"
+		"hu"	"Sniper puska"
+		"de"	"einem Scharfschützengewehr"
+		"pl"    "Karabin snajperski"
+	}
+
+	"bleed_kill"
+	{
+		"en"	"bleeding"
+	}
+
+	"bushwacka"
+	{
+		"en"	"the Bushwacka"
+	}
+
+	"sydneysleeper"
+	{
+		"en"	"the Sydney Sleeper"
+	}
+
+//------------------------------------------------ SOLDIER
+
+	"taunt_soldier"
+	{
+		"en"	"a Soldier Taunt (Grenade)"
+		"pl"	"kpina Soldiera"
+	}
+
+	"taunt_soldier_lumbricus"
+	{
+		"en"	"a Soldier Taunt (Lumbricus)"
+		"pl"	"kpina Soldiera"
+	}
+
+	"rocketlauncher_directhit"
+	{
+		"en" 	"the Direct Hit"
+		"pl"    "Trafienie bezposrednie"
+	}
+
+	"unique_pickaxe"
+	{
+		"en" 	"the Equalizer"
+		"pl"    "Equalizer"
+	}
+
+	"tf_projectile_rocket"
+	{
+		"en"	"a Rocket"
+		"fr"	"son lance-roquettes"
+		"hu"	"Rocket"
+		"de"	"einer Rakete"
+		"pl"    "Rakieta"
+	}
+
+	"shotgun_soldier"
+	{
+		"en"	"a Shotgun"
+		"fr"	"son shotgun"
+		"hu"	"Shotgun"
+		"de"	"einer Schrotflinte"
+		"pl"    "Strzelba"
+	}
+
+	"shovel"
+	{
+		"en"	"a Shovel"
+		"fr"	"sa pelle"
+		"hu"	"Lapat"
+		"de"	"einer Schaufel"
+		"pl"    "Lopatka"
+	}
+
+	"blackbox"
+	{
+		"en" 	"the Black Box"
+	}
+
+	"pickaxe"
+	{
+		"en"	"an Equalizer"
+	}
+
+	"rocketlauncher_blackbox"
+	{
+		"en" 	"the Black Box"
+	}
+
+	"rocketlauncher"
+	{
+		"en"	"a Rocket"
+		"fr"	"son lance-roquettes"
+		"hu"	"Rocket"
+		"de"	"einer Rakete"
+	}
+
+	"buff_item"
+	{
+		"en"	"the Buff Banner"
+	}
+
+	"battalions_backup"
+	{
+		"en"	"the Battalion's Backup"
+	}
+
+//------------------------------------------------ SCOUT
+
+	"taunt_scout"
+	{
+		"en"	"a Scout taunt (Bonk)"
+		"fr"	"sa raillerie de Scout"
+		"hu"	"Scout taunt"
+		"de"	"einer Scout-Verspottung"
+		"pl"    "Kpina Scouta"
+	}
+
+	"ball"
+	{
+		"en"	"a Baseball"
+		"pl"    "pilka baseballowa"
+	}
+
+	"sandman"
+	{
+		"en"	"the Sandman"
+		"de"	"dem Sandman"
+		"hu"	"Sandman"
+		"pl"    "Piaskun"
+	}
+
+	"force_a_nature"
+	{
+		"en"	"the Force-A-Nature"
+		"de"	"der Force-A-Nature"
+		"pl"    "Sila wyzsza"
+	}
+
+	"scattergun"
+	{
+		"en"	"a Scatter Gun"
+		"fr"	"son fusil à canons sciés"
+		"hu"	"Scatter Gun"
+		"de"	"einer abgesägten Schrotflinte"
+		"pl"    "Scatter Gun"
+	}
+
+	"bat"
+	{
+		"en"	"a Bat"
+		"fr"	"sa batte"
+		"hu"	"Bat"
+		"de"	"einem Schläger"
+		"pl"    "Kij baseballowy"
+	}
+
+	"pistol_scout"
+	{
+		"en"	"a Pistol"
+		"fr"	"son pistolet"
+		"hu"	"Pistol"
+		"de"	"einer Pistole"
+		"pl"    "Pistolet"
+	}
+
+	"holy_mackerel"
+	{
+		"en"	"The Holy Mackerel"
+	}
+
+	"short_stop"
+	{
+		"en"	"the Shortstop"
+	}
+
+	"jar_milk"
+	{
+		"en"	"a jar of Milk"
+	}
+
+	"candy_cane"
+	{
+		"en"	"the Candy Cane"
+	}
+
+	"boston_basher"
+	{
+		"en"	"the Boston Basher"
+	}
+
+	"lunchbox_drink"
+	{
+		"en"	"the Bonk Drink"
+	}
+
+//----------------------------------------------- PYRO
+
+	"taunt_pyro"
+	{
+		"en"	"a Pyro taunt (Hadouken)"
+		"fr"	"sa raillerie de Pyro"
+		"hu"	"Pyro taunt"
+		"de"	"einer Pyro-Verspottung"
+		"pl"    "Kpina Pyro"
+	}
+
+
+	"deflect_arrow"
+	{
+		"en"	"a deflected arrow!"
+		"de"	"einem abgefälschten Pfeil"
+		"pl"    "odbita strzala"
+	}
+
+	"sledgehammer"
+	{
+		"en"	"the Homewrecker"
+		"pl"	"Homewrecker"
+	}
+
+	"flamethrower"
+	{
+		"en"	"a Flamethrower"
+		"fr"	"son lance-flammes"
+		"hu"	"Flamethrower"
+		"de"	"einem Flammenwerfer"
+		"pl"    "Miotacz ognia"
+	}
+
+	"fireaxe"
+	{
+		"en"	"a Fire Axe"
+		"fr"	"sa hache"
+		"hu"	"Balta"
+		"de"	"einer Feueraxt"
+		"pl"    "Ognisty topór"
+	}
+
+	"shotgun_pyro"
+	{
+		"en"	"a Shotgun"
+		"fr"	"son shotgun"
+		"hu"	"Shotgun"
+		"de"	"einer Schrotflinte"
+		"pl"    "Strzelba"
+	}
+
+	"backburner"
+	{
+		"en"	"a Backburner"
+		"fr"	"son backburner"
+		"hu"	"Backburner"
+		"de"	"einem Rückenschmorer"
+		"pl"    "Backburner"
+	}
+
+	"flaregun"
+	{
+		"en"	"a Flaregun"
+		"fr"	"son pistolet lance-fusées"
+		"hu"	"Flaregun"
+		"de"	"einer Signalpistole"
+		"pl"    "Rakietnica"
+	}
+
+	"axtinguisher"
+	{
+		"en"	"an Axtinguisher"
+		"fr"	"son axtinguisher"
+		"hu"	"Axtinguisher"
+		"de"	"einer Axtinator"
+		"pl"    "Axtinguisher"
+	}
+
+	"deflect_rocket"
+	{
+		"en"	"a deflected rocket!"
+		"fr"	"ta propre roquette !"
+		"hu"	"deflected rocket!"
+		"de"	"einer abgefälschten Rakete!"
+		"pl"    "odbita rakieta!"
+	}
+
+	"deflect_flare"
+	{
+		"en"	"a deflected Flare!"
+		"fr"	"un lance-fusées déviée !"
+		"hu"	"deflected Flare!"
+		"de"	"einer abgefälschten Signalkugel!"
+		"pl"    "odbity pocisk Rakietnicy!"
+	}
+
+	"deflect_sticky"
+	{
+		"en"	"a deflected Sticky!"
+		"fr"	"une stickybombe déviée !"
+		"hu"	"deflected Sticky!"
+		"de"	"einer abgefälschten Haftbombe!"
+		"pl"    "odrzucone bobmy samoprzylepne"
+	}
+
+	"deflect_promode"
+	{
+		"en"	"a deflected Grenade"
+		"fr"	"une grenade déviée !"
+		"hu"	"deflected Grenade"
+		"de"	"einer abgefälschten Granate!"
+		"pl"    "odbity granat"
+	}
+
+	"deflect_huntsman_flyingburn"
+	{
+		"en"	"a Deflected Flaming Arrow!"
+	}
+
+	"degreaser"
+	{
+		"en"	"the Degreaser"
+	}
+
+	"powerjack"
+	{
+		"en"	"the Powerjack"
+	}
+
+	"back_scratcher"
+	{
+		"en"	"the Back Scratcher"
+	}
+
+//------------------------------------------------- Entities
+
+	"entityflame"
+	{
+		"en"	"Fire"
+	}
+
+	"prop_physics"
+	{
+		"en"	"a Physics Prop"
+	}
+
+	"prop_dynamic"
+	{
+		"en"	"a Prop"
+	}
+
+	"worldspawn"
+	{
+		"en"	"the World"
+	}
+
+	"trigger_hurt"
+	{
+		"en"	"a Trigger Hurt"
+	}
+
+	"point_hurt"
+	{
+		"en"	"a Point Hurt"
+	}
+
+	"env_explosion"
+	{
+		"en"	"an Explosion"
+	}
+
+//--------------------------------------------------- PLUGIN
+
+	"output disabled"
+	{
+		"en" "Info output is now disabled."
+	}
+
+	"output enabled"
+	{
+		"en" "Info output is now enabled."
+	}
+
+//------------------------------------------------ ZTF2Nades
+
+	"tf2nade_frag"
+	{
+		"en"	"a Frag Grenade"
+	}
+
+	"tf2nade_nail"
+	{
+		"en"	"a Nail Grenade"
+	}
+
+	"tf2nade_napalm"
+	{
+		"en"	"a Napalm Grenade"
+	}
+
+	"tf2nade_mirv"
+	{
+		"en"	"a Dynamite Grenade"
+	}
+
+	"tf2nade_halluc"
+	{
+		"en"	"a Hallucination Grenade"
+	}
+
+	"tf2nade_conc"
+	{
+		"en"	"a Concussion Grenade"
+	}
+
+	"tf2nade_trap"
+	{
+		"en"	"a Beartrap Grenade"
+	}
+
+	"tf2nade_drone"
+	{
+		"en"	"a Targeting Drone"
+	}
+
+//------------------------------------------------ tripmines
+
+	"tripmine"
+	{
+		"en"	"a Tripmine"
+	}
+
+//---------------------------------------------- SourceCraft
+
+	"sc_flaming_wrath"
+	{
+		"en"	"Flaming Wrath"
+	}
+	"sc_suicide_bomb"
+	{
+		"en"	"Suicide Bomb"
+	}
+	"sc_mad_bomber"
+	{
+		"en"	"Mad Bomber"
+	}
+	"sc_explode"
+	{
+		"en"	"Explode"
+	}
+	"sc_ship_weapons"
+	{
+		"en"	"Ship Weapons"
+	}
+	"sc_barrage"
+	{
+		"en"	"Missile Barrage"
+	}
+	"sc_yamato_cannon"
+	{
+		"en"	"Yamato Cannon"
+	}
+	"sc_degeneration"
+	{
+		"en"	"Degeneration"
+	}
+	"sc_broodling_attack"
+	{
+		"en"	"Broodling Attack"
+	}
+	"sc_shockwave"
+	{
+		"en"	"Psionic Shockwave"
+	}
+	"sc_explode"
+	{
+		"en"	"Explode"
+	}
+	"sc_thorns"
+	{
+		"en"	"Thorns Aura"
+	}
+	"sc_trueshot"
+	{
+		"en"	"Trueshot Aura"
+	}
+	"sc_acute_strike"
+	{
+		"en"	"Acute Strike"
+	}
+	"sc_chain_lightning"
+	{
+		"en"	"Chain Lightning"
+	}
+	"sc_psionic_bolt"
+	{
+		"en"	"Psionic Bolt"
+	}
+	"sc_kaiser_blades"
+	{
+		"en"	"Kaiser Blades"
+	}
+	"sc_uber_blades"
+	{
+		"en"	"Uber Kaiser Blades"
+	}
+	"sc_weapons"
+	{
+		"en"	"Ground Weapons"
+	}
+	"sc_ground_weapons"
+	{
+		"en"	"Ground Weapons"
+	}
+	"sc_air_weapons"
+	{
+		"en"	"Air Weapons"
+	}
+	"sc_missile_attack"
+	{
+		"en"	"Missile Attack"
+	}
+	"sc_scarab_attack"
+	{
+		"en"	"Scarab Attack"
+	}
+	"sc_phase_cannon"
+	{
+		"en"	"Phase Cannon"
+	}
+	"sc_photon_cannon"
+	{
+		"en"	"Photon Cannon"
+	}
+	"sc_psistorm"
+	{
+		"en"	"Psionic Storm"
+	}
+	"sc_mole_reflection"
+	{
+		"en"	"Mole Reflection"
+	}
+	"sc_item_claws"
+	{
+		"en"	"Claws of Attack"
+	}
+	"sc_festering_abomination"
+	{
+		"en"	"Festering Abomination"
+	}
+	"sc_flatulence"
+	{
+		"en"	"Flatulence"
+	}
+	"sc_nuke"
+	{
+		"en"	"Nuke"
+	}
+	"sc_u238_shells"
+	{
+		"en"	"U238 Shells"
+	}
+	"sc_infantry_weapons"
+	{
+		"en"	"Infantry Weapons"
+	}
+	"sc_targeting"
+	{
+		"en"	"Targeting"
+	}
+	"sc_vehicle_weapons"
+	{
+		"en"	"Vehicle Weapons"
+	}
+	"sc_toxic_creep"
+	{
+		"en"	"Toxic Creep"
+	}
+	"sc_spines"
+	{
+		"en"	"Spines"
+	}
+	"sc_grooved_spines"
+	{
+		"en"	"Grooved Spines"
+	}
+	"sc_spine_attack"
+	{
+		"en"	"Spine Attack"
+	}
+	"sc_cleave"
+	{
+		"en"	"Cleave"
+	}
+	"sc_charge"
+	{
+		"en"	"Charge"
+	}
+	"sc_adrenal_glands"
+	{
+		"en"	"Adrenal Glands"
+	}
+	"sc_bloodlust"
+	{
+		"en"	"Bloodlust"
+	}
+	"sc_blades"
+	{
+		"en"	"Psi-Blades"
+	}
+	"sc_ultimate_feedback"
+	{
+		"en"	"Ultimate Feedback"
+	}
+	"sc_acute_grenade"
+	{
+		"en"	"Acute Grenade"
+	}
+	"sc_feedback"
+	{
+		"en"	"Feedback"
+	}
+	"sc_irradiate"
+	{
+		"en"	"Irradiate"
+	}
+	"sc_infection"
+	{
+		"en"	"Infection"
+	}
+	"sc_plague"
+	{
+		"en"	"Plague"
+	}
+	"sc_missile"
+	{
+		"en"	"Missile Attack"
+	}
+	"sc_disease"
+	{
+		"en"	"Disease"
+	}
+	"sc_poison"
+	{
+		"en"	"Poison"
+	}
+	"sc_poison_spines"
+	{
+		"en"	"Poison Spines"
+	}
+	"sc_lurker_poison"
+	{
+		"en"	"Lurker Poison"
+	}
+	"sc_spine_poison"
+	{
+		"en"	"Spine Poison"
+	}
+	"sc_vampiric_aura"
+	{
+		"en"	"Vampiric Aura"
+	}
+	"sc_consume"
+	{
+		"en"	"Consume Enemy"
+	}
+	"sc_fresca"
+	{
+		"en"	"Tastes like Fresca"
+	}
+	"sc_thermal_lance"
+	{
+		"en"	"Thermal Lance"
+	}
+	"sc_disruption"
+	{
+		"en"	"Molecular Disruption"
+	}
+	"sc_singularity"
+	{
+		"en"	"Singularity Charge"
+	}
+
+//----------------------------------------------- War3Source
+
+	"knives"
+	{
+		"en"	"Fan of Knives"
+	}
+	"locust"
+	{
+		"en"	"Locust Swarm"
+	}
+	"wards"
+	{
+		"en"	"Serpent Ward"
+	}
+	"shadowstrike"
+	{
+		"en"	"Shadow Strike"
+	}
+	"flamestrike"
+	{
+		"en"	"Flame Strike"
+	}
+	"witheringpresence"
+	{
+		"en"	"Withering Presence"
+	}
+	"electrictide"
+	{
+		"en"	"Electric Tide"
+	}
+	"overload"
+	{
+		"en"	"Overload"
+	}
+	"judgement"
+	{
+		"en"	"Judgement"
+	}
+	"demonicexecution"
+	{
+		"en"	"Demonic Execution"
+	}
+	"beetles"
+	{
+		"en"	"Carrion Beetles"
+	}
+	"rupture"
+	{
+		"en"	"Hemorrhage"
+	}
+	"spiked_carapace"
+	{
+		"en"	"Spiked Carapace"
+	}
+	"headhunter"
+	{
+		"en"	"Head Hunter"
+	}
+	"Death and Decay"
+	{
+		"en"	"Death and Decay"
+	}
+	"burningspear"
+	{
+		"en"	"Burning Spear"
+	}
+	"lifebreak"
+	{
+		"en"	"Life Break"
+	}
+}

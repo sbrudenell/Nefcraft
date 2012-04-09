@@ -1,0 +1,114 @@
+"Phrases"
+{
+	"hydralisk"
+	{
+		"en"		"Zerg Hydralisk"
+	}
+
+	"hydralisk_switch"
+	{
+		"en"		""
+	}
+
+	"hydralisk_pending"
+	{
+		"en"		""
+	}
+
+	"hydralisk_image"
+	{
+		"en"		"Zerg/Hydralisk.png"
+	}
+
+	"hydralisk_desc"
+	{
+		"en"		"The hydralisk is a zerg evolution of the slothien. While slothiens were peaceful herbivores, the hydralisk is noted as being one of the most fierce and sadistic of the zerg strains. During the initial zerg invasion of the Koprulu Sector, hydralisks commonly reached 5.5 meters in length and could draw themselves up to over 2.4 meters in height. Since the Brood War hydralisks have evolved to be much larger. Since hydralisks move relatively slowly over open terrain, it is common for hydralisks to burrow and await their prey to enter killing range before attacking, destroying their enemies in a deadly crossfire. Despite their relatively sluggish nature, hydralisks can climb vertical surfaces and continued evolution of the strain through muscular augmentation has resulted in faster hydralisks.\nHydralisks may attack directly with scythe-like arms or, more commonly, strike from a distance with volleys of armor-piercing spines. Hundreds of spines are stored in the upper carapace plates and covered by flaps. The flaps fold back before the spines fire, a process which gives a few second warning to an impending volley.  The hydralisk has 4,000 muscles, compared to a terran's 629, and a portion of these may be used to launch the spines with enough force to penetrate 2 cm. of neosteel. The spines were evolved from slothien's defensive urticating (stinging) hairs; they may be \"grooved\" for increased range and are slightly poisonous."
+	}
+
+	"hydralisk_armor"
+	{
+		"en"		"Hardened Carapace"
+	}
+	"hydralisk_armor_desc"
+	{
+		"en"		"A hardened carapace that takes damage up to 80%% until it is depleted."
+	}
+
+	"hydralisk_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"hydralisk_regeneration_desc"
+	{
+		"en"		"Regenerates your Health."
+	}
+
+	"hydralisk_augments"
+	{
+		"en"		"Muscular Augments"
+	}
+	"hydralisk_augments_desc"
+	{
+		"en"		"Gives you a speed boost, 10-25%% faster."
+	}
+
+	"hydralisk_missile_attack"
+	{
+		"en"		"Missile Attack"
+	}
+	"hydralisk_missile_attack_desc"
+	{
+		"en"		"Missiles have a 5-35%% chance to do up to 35-100% more damage."
+	}
+
+	"hydralisk_grooved_spines"
+	{
+		"en"		"Grooved Spines"
+	}
+	"hydralisk_grooved_spines_desc"
+	{
+		"en"		"Increases damage 20-40%% for longer ranged attacks."
+	}
+	"sc_grooved_spines"
+	{
+		"en"		"Grooved Spines"
+	}
+
+	"hydralisk_poison_spines"
+	{
+		"en"		"Poisonous Spines"
+	}
+	"hydralisk_poison_spines_desc"
+	{
+		"en"		"For 5-20 seconds, your ranged attacks are poisoned."
+	}
+
+	"hydralisk_lurker"
+	{
+		"en"		"Lurker Aspect"
+	}
+	"hydralisk_lurker_desc"
+	{
+		"en"		"You become an Lurker until you die."
+	}
+
+	"PreventedFromLurker"
+	{
+		"en"		"You have been prevented from {blue}Evolving{default} into a {blue}Lurker{default}!"
+	}
+
+	"PoisonActive"
+	{
+		"en"		"Your attacks are now Poisonous!"
+	}
+
+	"PoisonEnded"
+	{
+		"en"		"Your attacks are no longer Poisonous!"
+	}
+
+	"PoisonHud"
+	{
+		"en"		"*** Poison ***"
+	}
+}

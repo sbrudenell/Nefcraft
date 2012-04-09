@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"RestoreActive"
+	{
+		"#format"	"{1:2.1f}"
+		"en"		"You have {1} seconds of Restoration!"
+	}
+
+	"RestoreExpired"
+	{
+		"en"		"Restoration expired!"
+	}
+
+	"RestoreHud"
+	{
+		"en"		"*** Restore ***"
+	}
+}

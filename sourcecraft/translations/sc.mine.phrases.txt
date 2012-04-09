@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"PreventedFromPlantingMine"
+	{
+		"en"		"You have been prevented from {blue}Plant{default}ing a {blue}Mine{default}!"
+	}
+}

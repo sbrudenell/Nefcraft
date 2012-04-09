@@ -1,0 +1,152 @@
+"Phrases"
+{
+	"hive_queen"
+	{
+		"en"		"Zerg Hive Queen"
+	}
+
+	"hive_queen_switch"
+	{
+		"en"		"You have {blue}Evolved{default} into a {blue}Hive Queen{default}"
+	}
+
+	"hive_queen_pending"
+	{
+		"en"		""
+	}
+
+	"hive_queen_image"
+	{
+		"en"		"Zerg/Queen_SC2_DevRend2.png"
+	}
+
+	"hive_queen_desc"
+	{
+		"en"		"The Hive Queen is the Zerg breed that has gone through the most changes since the Brood War, and is now one of the most important units of the Zerg Swarm.  After the demise of the Cerebrates, Kerrigan made the fragile flying Queens into deadly ground-based defenders of the Hive Cluster. These improved Hive Queens reign over the cluster, and provide several defensive benefits to them. Unlike other creatures of the swarm, the Hive Queen is birthed directly from a Hatchery, bypassing the usual morphing. The Hive Queen is able to evolve alongside the Hive Cluster, retaining her power. However, if the Hive Queen is killed the swarm will lose all of her accompanying upgrades and the new Hive Queen will have to re-upgrade. Suffice to say, the Zerg must be very protective of their Queens. The Hive Queen can dig deep tunnels between Zerg outposts, a very powerful ability. The Queen is also capable of making the very creep toxic to enemy units."
+	}
+
+	"hive_queen_armor"
+	{
+		"en"		"Carapace"
+	}
+	"hive_queen_armor_desc"
+	{
+		"en"		"A carapace that takes damage up to 60%% until it is depleted."
+	}
+
+	"hive_queen_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"hive_queen_regeneration_desc"
+	{
+		"en"		"Regenerates your Health."
+	}
+
+	"hive_queen_toxic_creep"
+	{
+		"en"		"Toxic Creep"
+	}
+	"hive_queen_toxic_creep_desc"
+	{
+		"en"		"Poisons the creep around your structures, injuring any enemies in that area and draining energy from them."
+	}
+	"sc_toxic_creep"
+	{
+		"en"		"Toxic Creep"
+	}
+
+	"hive_queen_transfusion"
+	{
+		"en"		"Transfusion"
+	}
+	"hive_queen_transfusion_desc"
+	{
+		"en"		"Regenerates the Health, Metal and/or Ammo of your Structures.\nAlso regenerates the Energy, Health, Metal and/or Ammo of Teammates near your Structures."
+	}
+	"hive_queen_transfusion_nosentries_desc"
+	{
+		"en"		"Regenerates the Energy, Health, Metal and/or Ammo of Teammates near your Structures."
+	}
+
+	"hive_queen_spines"
+	{
+		"en"		"Spines"
+	}
+	"hive_queen_spines_desc"
+	{
+		"en"		"Launches spines to accompany 17-85%% of your attacks and do 19-95%% more damage."
+	}
+	"sc_spines"
+	{
+		"en"		"Spines"
+	}
+
+	"hive_queen_teleporter"
+	{
+		"en"		"Nydus Canal"
+	}
+	"hive_queen_teleporter_desc"
+	{
+		"en"		"Decreases the recharge rate of your teleporters."
+	}
+
+	"hive_queen_mutate"
+	{
+		"en"		"Mutate"
+	}
+	"hive_queen_mutate_desc"
+	{
+		"en"		"Mutate into a fully built Structure:\nNon Functioning Dispenser or Teleporter at Level 1\nor a Level 1 Sentry at Level 2\nor a Level 2 Sentry at Level 3\nor a Level 3 Sentry at level 4."
+	}
+	"hive_queen_mutate_engyonly_desc"
+	{
+		"en"		"Engineers can Mutate into a fully built Structure:\nNon Functioning Dispenser at Level 1\nor a Level 1 Sentry at Level 2\nor a Level 2 Sentry at Level 3\nor a Level 3 Sentry at level 4."
+	}
+
+	"hive_queen_spawn"
+	{
+		"en"		"Spawn Structure"
+	}
+	"hive_queen_spawn_desc"
+	{
+		"en"		"Allows any class to spawn 1-3 structures depending on level."
+	}
+	"hive_queen_spawn_engyonly_desc"
+	{
+		"en"		"Allows Engineers to spawn 1-3 structures depending on level."
+	}
+
+	"hive_queen_tunnel"
+	{
+		"en"		"Deep Tunnel"
+	}
+	"hive_queen_tunnel_desc"
+	{
+		"en"		"Tunnel to the chosen structure instantly."
+	}
+
+	"PreventedFromTunneling"
+	{
+		"en"		"You have been prevented from {blue}Tunnel{default}ing!"
+	}
+
+	"TunnelStructureTitle"
+	{
+		"en"		"Tunnel to which Structure:"
+	}
+	"NoStructuresToTunnel"
+	{
+		"en"		"You don't have any structures to {blue}Tunnel{default} to!"
+	}
+	"TunneledTo"
+	{
+		"#format"	"{1:s}"
+		"en"		"You have {blue}Tunnel{default}ed to your {blue}{1}{default}"
+	}
+
+	"SpawnTitle"
+	{
+		"en"		"Spawn Structure"
+	}
+}

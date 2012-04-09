@@ -1,0 +1,59 @@
+/* Stylesheet 1 -------------------------------*/
+
+#navigation a { background:url(/sc/images/buttons3.gif) no-repeat; width:170px; height:25px; display:block; padding-left:25px; margin:5px 0; font-size:13px; color:white; text-decoration:none; line-height:25px;}
+#navigation a:hover { background-position:0 bottom;  }
+
+/* 	dijit.form.DropDownButton */
+.scnoir .dijitButtonContents { 
+	border: 0px; 
+	text-align: center;
+	vertical-align: middle;
+	background-color: transparent; 
+} 
+
+.scnoir .dijitButtonNode {
+	background:url(/sc/images/buttons3.gif) no-repeat;
+	width:170px;
+	height:25px;
+	display:block;
+	padding-left:25px;
+	margin:5px 0;
+	font-size:13px;
+	color:white;
+	text-decoration:none;
+	line-height:25px;
+	vertical-align: top;
+	border: 0px;
+}
+
+.scnoir .dijitDropDownButtonHover .dijitButtonNode {
+	background:url(/sc/images/buttons3.gif) no-repeat;
+	background-position:0 bottom;
+	width:170px;
+	height:25px;
+	display:block;
+	padding-left:25px;
+	margin:5px 0;
+	font-size:13px;
+	color:white;
+	text-decoration:none;
+	line-height:25px;
+	vertical-align: top;
+	border: 0px;
+}
+
+.scnoir .dijitDropDownButtonActive .dijitButtonNode {
+	background:url(/sc/images/buttons3.gif) no-repeat;
+	background-position:0 bottom;
+	width:170px;
+	height:25px;
+	display:block;
+	padding-left:25px;
+	margin:5px 0;
+	font-size:13px;
+	color:white;
+	text-decoration:none;
+	line-height:25px;
+	vertical-align: top;
+	border: 0px;
+}

@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"Enabled Ammopacks"
+	{
+		"en"			"Ammopacks plugin is now enabled"
+		"de"			"Ammopacks Plugin wurde aktiviert"
+	}
+	
+	"Disabled Ammopacks"
+	{
+		"en"			"Ammopacks plugin is now disabled"
+		"de"			"Ammopacks Plugin wurde deaktiviert"
+	}
+
+	"OnDeath Ammopacks"
+	{
+		"en"			"Engineers will drop Ammopacks on death"
+		"de"			"Engineers lassen beim sterben Ammopacks fallen"
+	}
+
+	"OnCommand Ammopacks"
+	{
+		"en"			"Engineers are able to drop Ammopacks by using their Wrench's secondary fire"
+		"de"			"Engineers können durch ihr alternatives Schraubenschlüssel Feuer Ammopacks fallen lassen" 
+	}
+
+	"OnDeathAndCommand Ammopacks"
+	{
+		"en"			"Engineers are able to drop Ammopacks by using their Wrench's secondary fire. They will also drop them on death."
+		"de"			"Engineers lassen beim sterben Ammopacks oder können durch ihr alternatives Schraubenschlüssel Feuer Ammopacks fallen lassen"
+	}
+	
+	"Metal Usage"
+	{
+		"en"			"Usage: sm_metal <name|#userid> [amount]"
+		"de"			"Benutzung: sm_metal <name|#userid> [amount]"
+	}
+	
+	"Not a Engineer"
+	{
+		"#format"		"{1:s}"
+		"en"			"The client \"{1}\" is not a Engineer"
+		"de"			"Der Spieler \"{1}\" ist kein Engineer"
+	}
+	
+	"Invalid Amount"
+	{
+		"en"			"The Metal amount has to be between 0 and 100"
+		"de"			"Die Metall Menge muss zwischen 0 und 100 liegen"
+	}
+	
+	"Changed Metal"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"You changed the Metal amount of {1} to {2}!"
+		"de"			"Du hast die Metall Menge von {1} auf {2} gesetzt!"
+	}
+}

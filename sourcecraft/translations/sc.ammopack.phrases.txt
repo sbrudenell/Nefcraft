@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"PreventedFromDroppingAmmopack"
+	{
+		"en"		"You have been prevented from {blue}Drop{default}ping an {blue}Ammopack{default}!"
+	}
+
+	"InsufficientEnergyToDropAmmopack"
+	{
+		"#format"	"{1:d}"
+		"en"		"You do not have enough {blue}Energy{default} to {blue}Drop{default} an {blue}Ammopack{default}, {blue}{1}{default} is required!"
+	}
+}

@@ -1,0 +1,24 @@
+"Phrases"
+{
+	"YouHaveBeenCloaked"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} has {blue}Cloaked{default} you!"
+	}
+	"InsufficientHealthForStimpacks"
+	{
+		"en"		"You are not healthy enough to use {blue}Stimpacks{default}!"
+	}
+	"StimpackHud"
+	{
+		"en"		"*** Stimpack ***"
+	}
+	"StimpacksActive"
+	{
+		"en"		"Stimpacks are active!"
+	}
+	"StimpacksDissipated"
+	{
+		"en"		"Stimpacks have dissipated!"
+	}
+}

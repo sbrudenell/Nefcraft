@@ -1,0 +1,61 @@
+"Phrases"
+{
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// DoD Restock Source
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////	
+	"AnnounceRestock"
+	{
+		"en"			"If you run out of Ammo, say %s and your Ammo will be refreshed!"
+		"de"			"Wenn Du kaum noch Munition hast, schreibe %s in den Chat und deine Munition wird aufgefüllt!"
+	}
+
+	"PluginDisabled"
+	{
+		"en"			"Sorry, Plugin is disabled!"
+		"de"			"Sorry, das Plugin ist ausgeschaltet!"
+	}
+
+	"NoMeleeRestock"
+	{
+		"en"			"You cannot restock your %s!"
+		"de"			"Du kannst deine Nahkampfwaffe '%s' nicht auffüllen!"
+	}
+
+	"WeaponDisabled"
+	{
+		"en"			"Restocking weapon %s is disabled!"
+		"de"			"Waffe '%s' darf nicht nachgefüllt werden!"
+	}
+
+	"RecentlyRestocked"
+	{
+		"en"			"Sorry, you recently restocked your ammo! Try again in %i seconds"
+		"de"			"Du hast deine Munition soeben nachgefüllt! Versuch es erneut in %i Sekunden"
+	}
+
+	"RestockLimit"
+	{
+		"en"			"Sorry, you already restocked your ammo %i times! Try again after respawn!"
+		"de"			"Du hast deine Munition bereits %i mal nachgefüllt! Versuch es erneut im nächsten Leben!"
+	}
+
+	"RestockEnoughAmmo"
+	{
+		"en"			"Restocking %s denied! You have enough Ammo!"
+		"de"			"Du hast genügend Munition für diese Waffe! Nachfüllung abgebrochen!"
+	}
+
+	"RestockSuccess"
+	{
+		"en"			"Restocked Ammo for your %s!"
+		"de"			"Munition für Waffe '%s' wurde nachgefüllt!"
+	}
+
+	"DeadRestock"
+	{
+		"en"			"You cannot restock when you are dead!"
+		"de"			"Du kannst keine Munition bekommen wenn Du tot bist!"
+	}
+}

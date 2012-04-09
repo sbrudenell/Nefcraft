@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"the_night_elf"
+	{
+		"en"		"Night Elf"
+	}
+
+	"the_night_elf_crystal_sound"
+	{
+		"en"		"sc/SentinelNoGold1.wav"
+	}
+
+	"the_night_elf_vespene_sound"
+	{
+		"en"		"sc/SentinelNoLumber1.wav"
+	}
+
+	"the_night_elf_energy_sound"
+	{
+		"en"		"sc/SentinelNoEnergy1.wav"
+	}
+
+	"the_night_elf_level_sound"
+	{
+		"en"		"sc/levelupcaster.mp3"
+	}
+
+	"the_night_elf_image"
+	{
+		"en"		"NightElf/nightelfseal.gif"
+	}
+
+	"the_night_elf_desc"
+	{
+		"en"		"The reclusive Night Elves were the first race to awaken in the World. These shadowy, immortal beings were the first to study magic and let it loose throughout the world nearly ten thousand years ago. The Night Elves' reckless use of magic drew the Burning Legion into the world and led to a catastrophic war between the two titanic races. The Night Elves barely managed to banish the Legion from the world, but their wondrous homeland was shattered and drowned by the sea. Ever since, the Night Elves refused to use magic for fear that the dreaded Legion would return. The Night Elves closed themselves off from the rest of the world and remained hidden atop their holy mountain of Hyjal for many thousands of years. As a race, Night Elves are typically honorable and just, but they are very distrusting of the 'lesser races' of the world. They are nocturnal by nature and their shadowy powers often elicit the same distrust that they have for their mortal neighbors."
+	}
+}

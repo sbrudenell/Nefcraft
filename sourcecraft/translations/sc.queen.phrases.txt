@@ -1,0 +1,161 @@
+"Phrases"
+{
+	"queen"
+	{
+		"en"		"Zerg Queen"
+	}
+
+	"queen_switch"
+	{
+		"en"		""
+	}
+
+	"queen_pending"
+	{
+		"en"		""
+	}
+
+	"queen_image"
+	{
+		"en"		"Zerg/Queen_SC1.png"
+	}
+
+	"queen_desc"
+	{
+		"en"		"The queen is derived from the Arachnis brood-keeper. It possesses numerous tentacles, a sinuous head, and a stretched skin membrane. As with the overlords, queens are subordinated to the cerebrates to help administrate the Swarm. Queens usuall stayed near the hives where they oversee maturing zerg and drone activities.  On the battlefield, one of the queen's primary functions is to implant parasites in it's enemies. Able to be launched from a distance, a tiny, remora-like parasite attaches itself to the target, 'bonding' with it should the target be organic. The parasite allows higher zerg strains to see whatever the target sees and at the time of it's use in the Koprulu Sector, could not be removed without killing it's host.\nThe parasite can also provide a link for the zerg to \"talk\" to the host. With the arrival of the United Earth Directorate in the Koprulu Sector however and the introduction of nano-conveyed anesthetic and attenuated laser technology they brought with them, the parasites can now be safely removed, if detected. The queen can also infest other creatures, causing them to expire and broodlings to emerge from them.\nIt takes time for the queen to produce these creatures, though the rate of reproduction is able to be increased through the use of gamete meiosis. In the meantime, the queen is able to spray it's victims with a thick mucus, slowing them down drastically before dissolving. Most feared of the queen's abilities however, is its ability to produce parasitic bio-toxins. Once released onto a structure (usually a terran command center), these toxins quickly infest the facility, bringing the structure and those inside it under the control of the zerg. The only safeguard against this ability is that the structure has to be in a state of disrepair before the toxins can be deployed."
+	}
+
+	"queen_armor"
+	{
+		"en"		"Flyer Carapace"
+	}
+	"queen_armor_desc"
+	{
+		"en"		"A light carapace that that takes damage up to 40%% until it is depleted."
+	}
+
+	"queen_pneumatized"
+	{
+		"en"		"Pneumatized Carapace"
+	}
+	"queen_pneumatized_desc"
+	{
+		"en"		"Gives you a speed boost, 10-25%% faster."
+	}
+
+	"queen_meiosis"
+	{
+		"en"		"Gamete Meiosis"
+	}
+	"queen_meiosis_desc"
+	{
+		"en"		"Increases the amount of energy you start with."
+	}
+
+	"queen_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"queen_regeneration_desc"
+	{
+		"en"		"Regenerates your Health."
+	}
+
+	"queen_parasite"
+	{
+		"en"		"Parasite"
+	}
+	"queen_parasite_desc"
+	{
+		"en"		"All attacks have a 5-45%% chance to infest the player with a parasite that reveals cloaked units around him (except those using the spy cloak) and drains energy from the victim. The parasite expires after 15-60 seconds."
+	}
+
+	"queen_ensnare"
+	{
+		"en"		"Ensnare"
+	}
+	"queen_ensnare_desc"
+	{
+		"en"		"All attacks have a 5-45%% chance to ensnare the player, slowing them by up to 40%% and grounding them for 5 seconds. It will also drain 5 energy per level from the ensared victim."
+	}
+
+	"queen_flyer"
+	{
+		"en"		"Flyer"
+	}
+	"queen_flyer_desc"
+	{
+		"en"		"Allows you to fly until you run out of fuel. Additional levels increases fuel capacity and reduces the time before refueling."
+	}
+
+	"queen_broodling"
+	{
+		"en"		"Spawn Broodling"
+	}
+	"queen_broodling_desc"
+	{
+		"en"		"Infest an enemy, tranforming him into a Broodling."
+	}
+
+	"queen_infest"
+	{
+		"en"		"Infest Enemy"
+	}
+	"queen_infest_desc"
+	{
+		"en"		"Infest an Enemy, transforming him into an Infested."
+	}
+
+	"queen_overseer"
+	{
+		"en"		"Overseer Morph"
+	}
+	"queen_overseer_desc"
+	{
+		"en"		"You become an Overseer until you die."
+	}
+
+	"InfestedWithParasite"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} has infested you with a {blue}Parasite{default}!"
+	}
+
+	"DetectedByParasite"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default}'s {blue}Parasite{default} has detected you!"
+	}
+
+	"ParasiteUncloakedYou"
+	{
+		"en"		"A {blue}Parasite{default} has undisguised and/or uncloaked you!"
+	}
+
+	"ParasiteHud"
+	{
+		"en"		"*** Parasite ***"
+	}
+
+	"PreventedFromBroodling"
+	{
+		"en"		"You have been prevented from {blue}Spawning{default} a {blue}Broodling{default}!"
+	}
+
+	"PreventedFromInfesting"
+	{
+		"en"		"You have been prevented from {blue}Infesting{default} an Enemy!"
+	}
+
+	"BroodlingSpawned"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} is now a {blue}Broodling{default}!"
+	}
+
+	"YouHaveInfested"
+	{
+		"#format"	"{1:N}"
+		"en"		"You have {blue}Infested{default} {olive}{1}{default}!"
+	}
+}

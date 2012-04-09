@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"InsufficientEnergyToEnterBunker"
+	{
+		"#format"	"{1:d}"
+		"en"		"You do not have enough {blue}Energy{default} to {blue}Enter{default} the {blue}Bunker{default}, {blue}{1}{default} is required!"
+	}
+	"CantEnterBunkerAsMole"
+	{
+		"en"		"Sorry, You can not {blue}Enter{default} the {blue}Bunker{default} when you are a Mole!"
+	}
+	"CantEnterBunkerWithFlag"
+	{
+		"en"		"Sorry, you may not Enter the {blue}Bunker{default} with the flag!"
+	}
+	"PreventedFromEnteringBunker"
+	{
+		"en"		"Sorry, you have been prevented from {blue}Enter{default}ing the {blue}Bunker{default}!"
+	}
+	"LeftBunker"
+	{
+		"en"		"You have {blue}Left{default} the {blue}Bunker{default}!"
+	}
+	"EnteredBunker"
+	{
+		"en"		"You have {blue}Entered{default} the {blue}Bunker{default}!"
+	}
+}

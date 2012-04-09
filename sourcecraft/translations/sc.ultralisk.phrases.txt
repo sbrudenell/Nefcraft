@@ -1,0 +1,99 @@
+"Phrases"
+{
+	"ultralisk"
+	{
+		"en"		"Zerg Ultralisk"
+	}
+
+	"ultralisk_switch"
+	{
+		"en"		"You have Evolved into an {blue}Ultralisk{default}"
+	}
+
+	"ultralisk_pending"
+	{
+		"en"		""
+	}
+
+	"ultralisk_image"
+	{
+		"en"		"Zerg/Ultralisk.png"
+	}
+
+	"ultralisk_desc"
+	{
+		"en"		"The ultralisk is a 20 meter long and 5 meter high living battering ram, evolved from the docile brontolith; a creature that the ultralisk now bears little resemblance to. Ultralisks serve as the backbone of the Swarm, possessing an exceptionally thick carapace.  Ultralisks attack using large, bone-like scythes which protrude from their backs. Known as \"kaiser blades\", these scythes are nearly indestructible. Possessing monomolecular edges, these scythes are able to tear through most substances with ease.\nEven during the conflict, ultralisk evolution continued. By 2500 at least some ultralisks sported four kaiser blades as opposed to the usual two. By the Brood War, prolonged exposure to vespene gas had resulted in an enhancement to the ultralisks' physical capabilities, among which was the evolution of a more hardened exoskeletal shell and the ability to carry out anabolic synthesis, alterations being made to the glands that produce endorphins and adrenal fluids."
+	}
+
+	"ultralisk_armor"
+	{
+		"en"		"Chitinous Plating"
+	}
+	"ultralisk_armor_desc"
+	{
+		"en"		"Virtually impregnable armor that takes damage up to 90%% until it is depleted.\nAlso, your speed decreases and your gravity increases with each level."
+	}
+
+	"ultralisk_speed"
+	{
+		"en"		"Anabolic Synthesis"
+	}
+	"ultralisk_speed_desc"
+	{
+		"en"		"Gives you a speed boost, up to 20%% boost (95%% of normal speed w/full plating, normal speed w/minimal plating)."
+	}
+
+	"ultralisk_uber_blades"
+	{
+		"en"		"Uber Kaiser Blades"
+	}
+	"ultralisk_uber_blades_desc"
+	{
+		"en"		"Increases Melee Attack Damage 15-100%%\nAt level 3, these awesome blades cut through immunity\nAt level 4, they cut through ubercharge (@ 50%% damage)!"
+	}
+	"sc_uber_blades"
+	{
+		"en"		"Uber Kaiser Blades"
+	}
+
+	"ultralisk_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"ultralisk_regeneration_desc"
+	{
+		"en"		"Regenerates your Health, 4%% per level every second or twice that (8%) if you haven't attacked."
+	}
+
+	"ultralisk_cleave"
+	{
+		"en"		"Cleave"
+	}
+	"ultralisk_cleave_desc"
+	{
+		"en"		"Strikes enemy players and structures around you with your Uber Kaiser Blades,\ndealing heavy damage and knocking opponents asunder.\nAt level 2, it cuts through health taking immunity\nAt level 3, it cuts through immunity to ultimates\nAt level 4, it cuts through ubercharge (@ 50%% damage)"
+	}
+	"sc_cleave"
+	{
+		"en"		"Cleave"
+	}
+
+	"ultralisk_charge"
+	{
+		"en"		"Charge"
+	}
+	"ultralisk_charge_desc"
+	{
+		"en"		"Charge forward for 1.5-6 seconds, knocking all asunder and dealing heavy damage to both players and structures."
+	}
+
+	"CleavedEnemies"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have {blue}Cleave{default}d {1} enemies!"
+	}
+	"CleavedNothing"
+	{
+		"en"		"You have {blue}Cleave{default}d nothing!"
+	}
+}

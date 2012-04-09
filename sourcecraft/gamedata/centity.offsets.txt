@@ -1,0 +1,207 @@
+"Games"
+{
+	"#default"
+	{
+		"Offsets"
+		{
+			"FVisible"
+			{
+				"windows"	"139"
+				"linux"		"139"
+			}
+			"Teleport"
+			{
+				"windows"	"105"
+				"linux"		"106"
+			}
+			"Spawn"
+			{
+				"windows"	"21"
+				"linux"		"22"
+			}
+			"UpdateOnRemove"
+			{
+				"windows"	"102"
+				"linux"		"103"
+			}
+			"Think"
+			{
+				"windows"	"45"
+				"linux"		"46"
+			}
+			"OnTakeDamage"
+			{
+				"windows"	"60"
+				"linux"		"61"
+			}
+			"AcceptInput"
+			{
+				"windows"	"34"
+				"linux"		"35"
+			}
+			"PlayerRunCmd"
+			{
+				"windows"	"404"
+				"linux"		"405"
+			}
+			"GetDataDescMap"
+			{
+				"windows"	"11"
+				"linux"		"12"
+			}
+			"StartTouch"
+			{
+				"windows"	"95"
+				"linux"		"96"
+			}
+			"Touch"
+			{
+				"windows"	"96"
+				"linux"		"97"
+			}
+			"EndTouch"
+			{
+				"windows"	"97"
+				"linux"		"98"
+			}
+			"GetServerVehicle"
+			{
+				"windows"	"86"
+				"linux"		"87"
+			}
+			"StudioFrameAdvance"
+			{
+				"windows"	"185"
+				"linux"		"186"
+			}
+			"LeaveVehicle"
+			{
+				"windows"	"379"
+				"linux"		"380"
+			}
+			"VPhysicsTakeDamage"
+			{
+				"windows"	"154"
+				"linux"		"155"
+			}
+			"VPhysicsGetObjectList"
+			{
+				"windows"	"160"
+				"linux"		"161"
+			}
+			"GiveNamedItem"
+			{
+				"windows"	"455"
+				"linux"		"462"
+			}
+			"RemovePlayerItem"
+			{
+				"windows"	"260"
+				"linux"		"260"
+			}
+			"Weapon_GetSlot"
+			{
+				"windows"	"257"
+				"linux"		"258"
+			}
+			"GetClientEyeAngles"
+			{
+				"windows"	"128"
+				"linux"		"129"
+			}
+			"Weapon_Equip"
+			{
+				"windows"	"250"
+				"linux"		"251"
+			}
+			"PreThink"
+			{
+				"windows"	"321"
+				"linux"		"322"
+			}
+			"PostThink"
+			{
+				"windows"	"322"
+				"linux"		"323"
+			}
+			"WeaponSwitch"
+			{
+				"windows"	"253"
+				"linux"		"254"
+			}
+			"CanSpeakVoiceCommand"
+			{
+				"windows"	"444"
+				"linux"		"445"
+			}
+			"IsReadyToSpawn"
+			{
+				"windows"	"419"
+				"linux"		"420"
+			}
+			"OnTakeDamage_Alive"
+			{
+				"windows"	"261"
+				"linux"		"262"
+			}
+			"Jump"
+			{
+				"windows"	"319"
+				"linux"		"320"
+			}
+			"ProcessUserCmds"
+			{
+				"windows"	"403"
+				"linux"		"404"
+			}
+			"GetSoundEmissionOrigin"
+			{
+				"windows"	"147"
+				"linux"		"148"
+			}
+			"ForceRespawn"
+			{
+				"windows"	"314"
+				"linux"		"315"
+			}
+		}
+	}
+	
+	/* EntityFactoryDictionary function */
+	"#default"
+	{
+		"Signatures"
+		{
+			"EntityFactory"
+			{
+				"library"	"server"
+				"windows"	"\xB8\x01\x00\x00\x00\x84\x2A\x2A\x2A\x2A\x2A\x75\x1D\x09\x2A\x2A\x2A\x2A\x2A\xB9\x2A\x2A\x2A\x2A\xE8\x2A\x2A\x2A\x2A\x68\x2A\x2A\x2A\x2A\xE8\x2A\x2A\x2A\x2A\x83\xC4\x04\xB8\x2A\x2A\x2A\x2A\xC3"
+				"linux"		"@_Z23EntityFactoryDictionaryv"
+			}
+			"FireOutput"
+			{
+				"library"	"server"
+				"windows"	"\x81\xEC\x1C\x01\x00\x00\x53\x55\x56\x8B\x71\x14\x85\xF6"
+				"linux"		"@_ZN17CBaseEntityOutput10FireOutputE9variant_tP11CBaseEntityS2_f"
+			}
+			"TakeDamage"
+			{
+				"library"	"server"
+				"windows"	"\x83\xEC\x5C\x57\x8B\xF9\x8B\x0D\x2A\x2A\x2A\x2A\x85\xC9\x0F\x84\x94\x01\x00\x00"
+				"linux"		"@_ZN11CBaseEntity10TakeDamageERK15CTakeDamageInfo"
+			}
+			"PhysIsInCallback"
+			{
+				"library"	"server"
+				"windows"	"\x8B\x0D\x2A\x2A\x2A\x2A\x85\xC9\x74\x0E\x8B\x01\x8B\x90\x8C\x00\x00\x00\xFF\xD2\x84\xC0\x75\x09\x83\x3D\x2A\x2A\x2A\x2A\x00\x7E\x03\xB0\x01\xC3"
+				"linux"		"@_Z16PhysIsInCallbackv"
+			}
+			"HandleCommand_JoinClass"
+			{
+				"library"		"server"
+				"windows"		"\xA1\x2A\x2A\x2A\x2A\x83\xEC\x0C\x83\xB8\x2A\x03\x00\x00\x08\x56"
+				"linux"			"@_ZN9CTFPlayer23HandleCommand_JoinClassEPKcb"
+			}
+		}
+	}
+}

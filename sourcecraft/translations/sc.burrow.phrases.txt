@@ -1,0 +1,65 @@
+"Phrases"
+{
+	"burrow_1"
+	{
+		"en"		"Burrow into the ground, becoming invisible, immobile and unable to attack."
+	}
+	"burrow_1.2"
+	{
+		"en"		"Burrow into the ground, becoming invisible, immobile and unable to attack.\nLevel 1 allows attacking,\nwhich will will automatically unburrow."
+	}
+	"burrow_1.3"
+	{
+		"en"		"Burrow into the ground, becoming invisible, immobile and unable to attack.\nLevel 1 allows attacking,\nwhich will will automatically unburrow.\nLevel 2 allows bursting forth, which unburrows instantly."
+	}
+	"burrow_2"
+	{
+		"en"		"Burrow into the ground, becoming invisible and immobile.\nAttacking will automatically unburrow you."
+	}
+	"burrow_2.3"
+	{
+		"en"		"Burrow into the ground, becoming invisible and immobile.\nAttacking will automatically unburrow you.\nLevel 1 allows bursting forth, which unburrows instantly."
+	}
+	"burrow_3"
+	{
+		"en"		"Burrow into the ground, becoming invisible and immobile.\nAttacking will automatically unburrow you.\nWhen you unburrow, you shall burst forth instantly!"
+	}
+	"Burrow"
+	{
+		"en"		"Burrow"
+	}
+	"UnBurrow"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"UnBurrow {1} ({2})"
+	}
+	"BurrowWhich"
+	{
+		"en"		"Burrow which Structure:"
+	}
+	"BurrowAll"
+	{
+		"en"		"Burrow All Structures"
+	}
+	"UnBurrowAll"
+	{
+		"en"		"UnBurrow All Structures"
+	}
+	"NoStructuresToBurrow"
+	{
+		"en"		"You don't have any structures to {blue}Burrow{default}!"
+	}
+	"InvalidTargetForBurrowStructure"
+	{
+		"en"		"Invalid Target for {blue}Burrow Structure{default}!"
+	}
+	"PreventedFromBurrowingStructure"
+	{
+		"en"		"You were prevented from {blue}Burrow{default}ing a Structure!"
+	}
+	"InsufficientEnergyForBurrowStructure"
+	{
+		"#format"	"{1:d}"
+		"en"		"You do not have enough energy for {blue}Burrow Structure{default}, {1} is required!"
+	}
+}

@@ -1,0 +1,96 @@
+"Phrases"
+{
+	"reaper"
+	{
+		"en"		"Terran Reaper"
+	}
+
+	"reaper_switch"
+	{
+		"en"		""
+	}
+
+	"reaper_pending"
+	{
+		"en"		""
+	}
+
+	"reaper_image"
+	{
+		"en"		"Terran/Reaper.png"
+	}
+
+	"reaper_desc"
+	{
+		"en"		"Reapers specialize in hit-and-run, close-quarters combat. They are more mobile than marines as their jet packs allow them to surmount obstacles independently. Reapers are clad in self-contained body suits, and are armed with dual P-45 \"Scythe\" gauss pistols and deuterium-eight demolition charges.\nReapers are drawn from marine recruits that could not be successfully subjugated by neural resocialization. These resistant recruits tend to be among the most hardened of criminals, and are sent instead to the \"Icehouse\" in the Torus system to be inducted into the Reaper Corps. Reaper recruits are chemically altered to make them even more aggressive before being subjected to brutal training in close-quarters combat and the use of their jet packs.\nWhile theoretically a reaper who survives two years of duty will be pardoned and released back to civilian life, in its five years of operation the Reaper Corps has yet to have a single recruit survive for more than six months."
+	}
+
+	"reaper_weapons"
+	{
+		"en"		"Infantry Weapons"
+	}
+	"reaper_weapons_desc"
+	{
+		"en"		"Increases damage for non-melee attacks, 25%% chance to do up to 50%% extra damage."
+	}
+
+	"reaper_armor"
+	{
+		"en"		"Light Armor"
+	}
+	"reaper_armor_desc"
+	{
+		"en"		"A suit of Light Armor that takes damage up to 40%% until it is depleted."
+	}
+
+	"reaper_stimpacks"
+	{
+		"en"		"Stimpacks"
+	}
+	"reaper_stimpacks_desc"
+	{
+		"en"		"Gives you a speed boost, 10-25%% faster."
+	}
+
+	"reaper_enhanced_stimpacks"
+	{
+		"en"		"Enhanced Stimpacks"
+	}
+	"reaper_enhanced_stimpacks_desc"
+	{
+		"en"		"Gives you a speed boost, 10-25%% faster and increases your rate of fire."
+	}
+
+	"reaper_jetpack"
+	{
+		"en"		"Jetpack"
+	}
+	"reaper_jetpack_desc"
+	{
+		"en"		"Allows you to fly until you run out of fuel. Additional levels increases fuel capacity and reduces the time before refueling."
+	}
+
+	"reaper_bunker"
+	{
+		"en"		"Enter Bunker"
+	}
+	"reaper_bunker_desc"
+	{
+		"en"		"Enter the Bunker, which provides additional armor (20-160%) that takes 100%% damage at the cost of becoming immoble while in the bunker."
+	}
+
+	"reaper_d8charge"
+	{
+		"en"		"D8 Charge"
+	}
+	"reaper_d8charge_desc"
+	{
+		"en"		"Throw a deuterium-eight (D-8) charge, which then explodes in 10 seconds unless defused or detonated earlier. At level 3 the charge doesn't explode until it is detonated.\nUltimate 3 either plants a charge or, if you are looking at an existing charge, either detonates or defuses it (depending on if it's yours).\nUltimate 4 will detonates ALL of your charges (or just the one targeted)."
+	}
+
+	"SlowedbyGraviticCharge"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"{olive}{1}{default} {red}Slowed{default} you with a {red}Gravitic Charge{default}!"
+	}
+}

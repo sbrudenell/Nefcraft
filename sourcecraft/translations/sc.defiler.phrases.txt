@@ -1,0 +1,86 @@
+"Phrases"
+{
+	"defiler"
+	{
+		"en"		"Zerg Defiler"
+	}
+
+	"defiler_switch"
+	{
+		"en"		""
+	}
+
+	"defiler_pending"
+	{
+		"en"		""
+	}
+
+	"defiler_image"
+	{
+		"en"		"Zerg/Defiler.png"
+	}
+
+	"defiler_desc"
+	{
+		"en"		"The defiler is a relatively rare zerg breed, resembling a silverfish in appearance and acting akin to a 'cancer factory' in function. Its core genus, if it has one, is TFObjectType_Unknown, as the defiler contains the DNA of all other zerg breeds and, unlike the larva, uses them to synthesize virus-like biochemicals. These biochemicals are extremely hazardous, resistant to the most effective anti-toxins, and, paradoxically, dangerous even to the zerg. Defilers have been known to cannibalize other zerg to fuel the metasynaptic processes that generate the biochemicals, often accompanied by zergling escorts for this very reason.\nThe defiler's body is host to countless small organisms that live on the carapace, constantly feeding on each other. The defiler can spontaneously launch a number of these creatures to swarm a location that make it difficult to target anything under the ensuing cloud. In addition, defilers can produce corrosive spores and hurl them at a target area, the spores exploding in a dense cloud. The highly toxic mist that results corrodes anything it touches."
+	}
+
+	"defiler_armor"
+	{
+		"en"		"Carapace"
+	}
+	"defiler_armor_desc"
+	{
+		"en"		"A hardened carapace that takes damage up to 60%% until it is depleted."
+	}
+
+	"defiler_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"defiler_regeneration_desc"
+	{
+		"en"		"Regenerates your Health."
+	}
+
+	"defiler_consume"
+	{
+		"en"		"Consume Enemy"
+	}
+	"defiler_consume_desc"
+	{
+		"en"		"Gives you a 60%% chance to gain 10-40%% of the damage you did in attack, back as health. It can be blocked if the player is immune. It also bypasses any armor the player might have."
+	}
+
+	"defiler_dark_swarm"
+	{
+		"en"		"Dark Swarm"
+	}
+	"defiler_dark_swarm_desc"
+	{
+		"en"		"Projects a cloud over a 300-1000 units range that makes all ranged attacks mostly useless.\nDark Swarm does not prevent melee damage."
+	}
+
+	"defiler_plague"
+	{
+		"en"		"Plague"
+	}
+	"defiler_plague_desc"
+	{
+		"en"		"Sprays all enemies in 300-800 units range with spores that inflicts 3*level*duration (up to 48) damage per second for level seconds, will not kill affected players leaving at least 1 hit point."
+	}
+
+	"defiler_infestor"
+	{
+		"en"		"Evolve Infestor"
+	}
+	"defiler_infestor_desc"
+	{
+		"en"		"You become an Infestor until you die."
+	}
+
+	"PreventedFromInfestor"
+	{
+		"en"		"You have been prevented from {blue}Evolving{default} into an {blue}Infestor{default}!"
+	}
+}

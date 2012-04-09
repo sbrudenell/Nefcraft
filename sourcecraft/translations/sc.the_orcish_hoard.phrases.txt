@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"the_orcish_hoard"
+	{
+		"en"		"Orcish Hoard"
+	}
+
+	"the_orcish_hoard_crystal_sound"
+	{
+		"en"		"sc/GruntNoGold1.wav"
+	}
+
+	"the_orcish_hoard_vespene_sound"
+	{
+		"en"		"sc/GruntNoLumber1.wav"
+	}
+
+	"the_orcish_hoard_energy_sound"
+	{
+		"en"		"sc/GruntNoEnergy1.wav"
+	}
+
+	"the_orcish_hoard_level_sound"
+	{
+		"en"		"sc/levelupcaster.mp3"
+	}
+
+	"the_orcish_hoard_image"
+	{
+		"en"		"Horde/orcseal.gif"
+	}
+
+	"the_orcish_hoard_desc"
+	{
+		"en"		"The Orcs, who once cultivated a quiet Shamanistic society upon the world of Draenor, were corrupted by the chaos magics of the Burning Legion and formed into a voracious, unstoppable Horde. Lured to the world of Azeroth through a dimensional gateway, the Horde was manipulated into waging war against the human nations of Azeroth and Lordaeron. Hoping that the Horde would conquer the mortal armies of Azeroth, the Burning Legion made ready for its final invasion of the unsuspecting world."
+	}
+}

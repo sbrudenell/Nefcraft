@@ -1,0 +1,96 @@
+"Phrases"
+{
+	"dark_archon"
+	{
+		"en"		"Protoss Dark Archon"
+	}
+
+	"dark_archon_switch"
+	{
+		"en"		"You have {blue}Summoned Dark Archon{default}!"
+	}
+
+	"dark_archon_pending"
+	{
+		"en"		""
+	}
+
+	"dark_archon_image"
+	{
+		"en"		"Protoss/Archon.png"
+	}
+
+	"dark_archon_desc"
+	{
+		"en"		"Like their high templar brethren, two dark templar sacrifice themselves in a psionic melding giving rise to the dark archon. The powers of these avatars of psionic might extend well beyond those of the regular archon, more than compensating for their lack of any physical attack capability.  The burning, crimson figure of the dark archon spreads fear across any battlefield. These powerful creatures of living psionic energy embody the eternal wrath of the Dark Templar. In addition to being able to wield psionic powers, dark archons can also wield the energies of the Void.  Under ordinary circumstances, the chaotic and unstable energies of a dark archon will cause it to burn itself out and dissipate after a short period of time. Thus far, only Ulrezaj has found a way to avoid this fate and prolong his own unnatural existence."
+	}
+
+	"dark_archon_shockwave"
+	{
+		"en"		"Psionic Shockwave"
+	}
+	"dark_archon_shockwave_desc"
+	{
+		"en"		"A Shockwave of Psionic Energy accompanies all attacks to increase damage up to 250%%."
+	}
+
+	"dark_archon_shields"
+	{
+		"en"		"Plasma Shields"
+	}
+
+	"dark_archon_shields_desc"
+	{
+		"en"		"You are enveloped in re-generating Plasma Shields that protect you from 10-90%% damage while it is active."
+	}
+
+	"dark_archon_blades"
+	{
+		"en"		"Psi-Blades"
+	}
+
+	"dark_archon_blades_desc"
+	{
+		"en"		"Increases Melee Attack Damage 15-95%%."
+	}
+
+	"dark_archon_maelstorm"
+	{
+		"en"		"Maelstorm"
+	}
+
+	"dark_archon_maelstorm_desc"
+	{
+		"en"		"Every enemy in 350-900 unit range will be undisguised, decloaked and unable to move for 20 seconds."
+	}
+
+	"dark_archon_mind_control"
+	{
+		"en"		"Mind Control"
+	}
+
+	"dark_archon_mind_control_desc"
+	{
+		"en"		"Allows you to control an object from the opposite team."
+	}
+
+	"dark_archon_ultimate_feedback"
+	{
+		"en"		"Ultimate Feedback"
+	}
+
+	"dark_archon_ultimate_feedback_desc"
+	{
+		"en"		"Drains a targetted enemy and others within range of energy and deals damage equal to the amount of the energy drained.\nThe amount of damage is not affected by armor or shields."
+	}
+
+	"dark_archon_rage"
+	{
+		"en"		"Psionic Rage"
+	}
+
+	"dark_archon_rage_desc"
+	{
+		"en"		"Enter a psionically enhanced state of rage to gain uber and kritz until it burns out, after 4 seconds/level.\nSummoning the Rage will drain the Archon of all energy and shields."
+	}
+}

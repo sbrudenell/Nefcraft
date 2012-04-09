@@ -1,0 +1,98 @@
+"Phrases"
+{
+	"broodling"
+	{
+		"en"		"Broodling"
+	}
+
+	"broodling_switch"
+	{
+		"en"		"You have been {red}Infected{default} by a Zerg Queen, you are now a {red}Broodling{default}!"
+	}
+
+	"broodling_pending"
+	{
+		"en"		"You have been {red}Infected{default} by a Zerg Queen, you will be a {red}Broodling{default} the next time you spawn!"
+	}
+
+	"broodling_image"
+	{
+		"en"		"Zerg/Broodling.jpg"
+	}
+
+	"broodling_desc"
+	{
+		"en"		"Broodlings are grown from globs of spores launched from queens. These spores attempt to 'fertilize' any organic matter they come into contact with and are capable of eating through even the armored hulls of vehicles to reach the occupants within. Should these spores make contact with an organic being, they force the organism to metabolize, serving as the breeding ground for a near instantaneous metabolization and birth of a pair of broodlings. The explosive birth is fatal to the host.  Broodlings are small but vicious and upon hatching, will attack any nearby enemies. In the event that there are no nearby enemies, they await for a command from a higher strain. Their effectiveness is primarily compromised, however, by their limited lifespans."
+	}
+
+	"broodling_degeneration"
+	{
+		"en"		"Degeneration"
+	}
+	"broodling_degeneration_desc"
+	{
+		"en"		"Degenerates your Health. Higher levels reduce damage. Unavoidable."
+	}
+	"sc_degeneration"
+	{
+		"en"		"Degeneration"
+	}
+
+
+	"broodling_broodling_attack"
+	{
+		"en"		"Broodling Attack"
+	}
+	"broodling_broodling_attack_desc"
+	{
+		"en"		"You cause damage to your team mates around you. Higher levels reduce range & damage. Unavoidable."
+	}
+	"sc_broodling_attack"
+	{
+		"en"		"Broodling Attack"
+	}
+
+	"broodling_adrenal_glands"
+	{
+		"en"		"Adrenal Glands"
+	}
+	"broodling_adrenal_glands_desc"
+	{
+		"en"		"Increases Melee Attack Damage 15-75%%"
+	}
+
+	"broodling_spawning"
+	{
+		"en"		"Spawning"
+	}
+	"broodling_spawning_desc"
+	{
+		"en"		"Gives you a 100%% chance of respawning as a broodling once. Unavoidable."
+	}
+
+	"BroodlingChange"
+	{
+		"en"		"You are a {blue}Broodling{default} and NOT able to change race at this time!"
+	}
+
+	"BroodlingSpawn"
+	{
+		"en"		"{blue}Respawning{default} as a {blue}Broodling{default}!"
+	}
+
+	"BroodlingSpawned"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} {blue}Respawned{default} as a {blue}Broodling{default}!"
+	}
+
+	"BroodlingHud"
+	{
+		"en"		"*** Broodling ***"
+	}
+
+	"sc_expire"
+	{
+		"en"		"Expire"
+	}
+}

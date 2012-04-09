@@ -1,0 +1,94 @@
+"Phrases"
+{
+	"firebat"
+	{
+		"en"		"Terran Firebat"
+	}
+
+	"firebat_switch"
+	{
+		"en"		"You have been certified in {blue}Firebat Training{default}."
+	}
+
+	"firebat_pending"
+	{
+		"en"		""
+	}
+
+	"firebat_image"
+	{
+		"en"		"Terran/Firebat.png"
+	}
+
+	"firebat_desc"
+	{
+		"en"		"Firebats are \"armored assault troopers\". Firebats are often attached to provide support for marine squads.  They are typically armed with dual arm-mounted flame throwers and wear armor similar to those used by marines, except heavier and providing additional resistance to heat and flame.\nDuring the Great War, Confederate firebats were equipped with wrist mounted Perdition flamethrowers and CMC-660 combat suits. The vulnerable flame tanks are protected by containment fields. United Earth Directorate firebats were armed with the C-140 Epyon Plasma Incinerator Cannon.\nAs with marines, many firebats were recruited or conscripted from \"culturally challenged\" persons. Such individuals underwent \"neural resocialization\" and received aggression inhibitor implants as part of their training. In the Confederate Marine Corps, an individual had to have a PEB (Preferred Experience Base) of at least three months combat experience to become a firebat."
+	}
+
+	"firebat_weapons"
+	{
+		"en"		"Infantry Weapons"
+	}
+	"firebat_weapons_desc"
+	{
+		"en"		"Increases damage for non-melee attacks, 25%% chance to do up to 50%% extra damage."
+	}
+	"sc_infantry_weapons"
+	{
+		"en"		"Infantry Weapons"
+	}
+
+	"firebat_armor"
+	{
+		"en"		"CMC-660 Heavy Combat Suit"
+	}
+	"firebat_armor_desc"
+	{
+		"en"		"The CMC-660 Heavy Combat Suit is the standard issue suit of Firebats. Heavier, more durable and far more heat resistant than than its counterpart models, the Heavy Combat Suit provides additional protection that takes damage up to 80%% until it is depleted."
+	}
+
+	"firebat_stimpacks"
+	{
+		"en"		"Stimpacks"
+	}
+	"firebat_stimpacks_desc"
+	{
+		"en"		"Gives you a speed boost, 10-25%% faster."
+	}
+
+	"firebat_ultimate_stimpacks"
+	{
+		"en"		"Ultimate Stimpacks"
+	}
+	"firebat_ultimate_stimpacks_desc"
+	{
+		"en"		"Gives you a speed boost, 10-25%% faster. Invoke +ultimate 3 to increase your rate of fire for 2 seconds per level at a cost of 10 hp per level."
+	}
+
+	"firebat_plasma"
+	{
+		"en"		"Viral Plasma"
+	}
+	"firebat_plasma_desc"
+	{
+		"en"		"Provides an additional plasma charge with 20-80%% of your attacks (depending on level), setting the victim on fire."
+	}
+
+	"firebat_flamethrower"
+	{
+		"en"		"Perdition Flamethrower"
+	}
+	"firebat_flamethrower_desc"
+	{
+		"en"		"The Perdition is a terran plasma-based flamethrower invoked using +ultimate 1. The plasma fuel is stored in containment fields but pose an explosive hazard if the fields are breached violently. Upon death of the user an explosion results setting enemies on fire and damaging structures. The amount of damage increases with each remaining cell and decreases with distance. Three(3) cells of plasma fuel are provided per level, each cell provides fuel for 1 shot."
+	}
+
+	"firebat_bunker"
+	{
+		"en"		"Enter Bunker"
+	}
+	"firebat_bunker_desc"
+	{
+		"en"		"Enter the Bunker, which provides additional armor (20-160%%) that takes 100%% damage at the cost of becoming immoble while in the bunker."
+	}
+}

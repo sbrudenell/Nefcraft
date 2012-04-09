@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"the_undead_scourge"
+	{
+		"en"		"Undead Scourge"
+	}
+
+	"the_undead_scourge_crystal_sound"
+	{
+		"en"		"sc/NecromancerNoGold1.wav"
+	}
+
+	"the_undead_scourge_vespene_sound"
+	{
+		"en"		"sc/NecromancerNoLumber1.wav"
+	}
+
+	"the_undead_scourge_energy_sound"
+	{
+		"en"		"sc/NecromancerNoEnergy1.wav"
+	}
+
+	"the_undead_scourge_level_sound"
+	{
+		"en"		"sc/levelupcaster.mp3"
+	}
+
+	"the_undead_scourge_image"
+	{
+		"en"		"Scourge/undeadseal.gif"
+	}
+
+	"the_undead_scourge_desc"
+	{
+		"en"		"The horrifying Undead army, called the Scourge, consists of thousands of walking corpses, disembodied spirits, damned mortal men and insidious extra-dimensional entities. The Scourge was created by the Burning Legion for the sole purpose of sowing terror across the world in anticipation of the Legion's inevitable invasion. The Undead are ruled by Ner'zhul, the Lich King, who lords over the icy realm of Northrend from his frozen throne. Ner'zhul commands the terrible plague of undeath, which he sends ever southward into the human lands. As the plague encroaches on the southlands, more and more humans fall prey to Ner'zhul's mental control and life-draining sickness every day. In this way, Ner'zhul has swelled the ranks of the already considerable Scourge. The Undead employ necromantic magics and the elemental powers of the cold north against their enemies."
+	}
+}

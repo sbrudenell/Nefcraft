@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"the_zerg_swarm"
+	{
+		"en"		"Zerg"
+	}
+
+	"the_zerg_swarm_crystal_sound"
+	{
+		"en"		"sc/zaderr00.wav"
+	}
+
+	"the_zerg_swarm_vespene_sound"
+	{
+		"en"		"sc/zaderr01.wav"
+	}
+
+	"the_zerg_swarm_energy_sound"
+	{
+		"en"		"sc/zaderr06.wav"
+	}
+
+	"the_zerg_swarm_level_sound"
+	{
+		"en"		"sc/evolutioncomplete.wav"
+	}
+
+	"the_zerg_swarm_image"
+	{
+		"en"		"Zerg/Zerg_Icon.jpg"
+	}
+
+	"the_zerg_swarm_desc"
+	{
+		"en"		"The zerg are a terrifying and ruthless amalgamation of biologically advanced, arthropodal aliens. Dedicated to the pursuit of genetic perfection, the zerg relentlessly hunt down and assimilate advanced species across the galaxy, incorporating useful genetic code into their own, and exterminate any species that might corrupt the purity of the zerg genome."
+	}
+}

@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"TeleportStuck"
+	{
+		"#format"	"{1:d}"
+		"en"		"You appear to be stuck, you have {green}{1}{default} more attempts to get unstuck."
+	}
+	"TeleportToSpawn"
+	{
+		"#format"	"{1:s}"
+		"en"		"You appear to be stuck, {blue}{1}{default}ing back to spawn."
+	}
+	"InsufficientRoom"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, Insufficient room to {blue}{1}{default} here."
+	}
+	"TeleportAgain"
+	{
+		"#format"	"{1:2.0f},{2:s}"
+		"en"		"You must wait {1} seconds before {blue}{2}{default}ing again!"
+	}
+	"TeleportWait"
+	{
+		"#format"	"{1:2.0f},{2:s}"
+		"en"		"You must wait {1} seconds before {2}ing!"
+	}
+}

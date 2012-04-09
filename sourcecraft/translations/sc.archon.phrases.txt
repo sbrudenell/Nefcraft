@@ -1,0 +1,103 @@
+"Phrases"
+{
+	"archon"
+	{
+		"en"		"Protoss Archon"
+	}
+
+	"archon_switch"
+	{
+		"en"		"You have {blue}Summoned Archon{default}!"
+	}
+
+	"archon_pending"
+	{
+		"en"		""
+	}
+
+	"archon_image"
+	{
+		"en"		"Protoss/Archon.png"
+	}
+
+	"archon_desc"
+	{
+		"en"		"The first archon(s) were created unexpectedly and their formation was soon legally sanctioned by Khala.  The creation of an archon is a serious affair for it requires the reluctant sacrifice of valuable high templar for a short-term gain. Archons radiate energy like stars and burn out when depleted. The merging results in the abandonment of the physical form and the loss of self, but those who do so are bequeathed great honor and a place in the templar archives. The loss of most of the psionic powers of the two merging templar is more than compensated for by the archon's formidable psychic gestalt. Archons can independently erect a resilient shield and direct psionic shockwaves.  Emotionally, archons are manifestations of pure rage, though this may be \"twisted\" should the merging be in error.  After the Brood War and the reunification of the protoss, archons can now also be created by merging dark templar with their high templar brethren."
+	}
+
+	"archon_shockwave"
+	{
+		"en"		"Psionic Shockwave"
+	}
+	"archon_shockwave_desc"
+	{
+		"en"		"A Shockwave of Psionic Energy accompanies all attacks to increase damage up to 250%%."
+	}
+
+	"archon_shields"
+	{
+		"en"		"Plasma Shields"
+	}
+	"archon_shields_desc"
+	{
+		"en"		"You are enveloped in re-generating Plasma Shields that protect you from 10-80%% damage while it is active."
+	}
+
+	"archon_feedback"
+	{
+		"en"		"Feedback"
+	}
+	"archon_feedback_desc"
+	{
+		"en"		"Gives you 5-50%% chance of reflecting a shot back to the attacker."
+	}
+
+	"archon_levitation"
+	{
+		"en"		"Levitation"
+	}
+	"archon_levitation_desc"
+	{
+		"en"		"Allows you to jump higher by \nreducing your gravity by 8-64%%."
+	}
+
+	"archon_hallucination"
+	{
+		"en"		"Hallucination"
+	}
+	"archon_hallucination_desc"
+	{
+		"en"		"Gives you a 15-50%% chance to cause temporary hallucinations in an enemy."
+	}
+
+	"archon_psionic_bolt"
+	{
+		"en"		"Psionic Bolt"
+	}
+	"archon_psionic_bolt_desc"
+	{
+		"en"		"Destroy targetted enemy and others within range with a massive bolt of raw Psionic energy."
+	}
+	"sc_psionic_bolt"
+	{
+		"en"		"Psionic Bolt"
+	}
+
+	"archon_ultimate_feedback"
+	{
+		"en"		"Ultimate Feedback"
+	}
+	"archon_ultimate_feedback_desc"
+	{
+		"en"		"Drains a targetted enemy and others within range of energy and deals damage equal to the amount of the energy drained.\nThe amount of damage is not affected by armor or shields."
+	}
+
+	"archon_rage"
+	{
+		"en"		"Psionic Rage"
+	}
+	"archon_rage_desc"
+	{
+		"en"		"Enter a psionically enhanced state of rage to gain uber and kritz until it burns out, after 4 seconds/level.\nSummoning the Rage will drain the Archon of all energy and shields."
+	}
+}

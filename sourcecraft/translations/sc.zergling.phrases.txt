@@ -1,0 +1,124 @@
+"Phrases"
+{
+	"zergling"
+	{
+		"en"		"Zergling"
+	}
+
+	"zergling_switch"
+	{
+		"en"		""
+	}
+
+	"zergling_pending"
+	{
+		"en"		""
+	}
+
+	"zergling_image"
+	{
+		"en"		"Zerg/Zergling.png"
+	}
+
+	"zergling_desc"
+	{
+		"en"		"Zerglings were evolved from the Zz'gashi dune runner when the latter were assimilated into the Zerg Swarm. The zergling may be a relatively recent addition to the swarm given that Zz'gash seems to be located close to the Koprulu Sector. Zerglings form the most numerous of the zerg mutations; the simple DNA allows two zerglings to be spawned from a single larva. The larvae get the genetic information from the 'primordial ooze' of spawning pools. As the smallest zerg strain apart from the larvae, zerglings are one meter tall and possess webbed feet. Further mutations may be made to zergling DNA, namely the alteration of their physiology through a metabolic boost to increase their reflexes and rate of movement and the mutation of their adrenal glands, changing their glandular balance to induce a battle frenzy.\nZerglings are physically adaptable creatures, able to climb near vertical surfaces and are extraordinarily fast. Usually, zergling eyes are orange, though have been observed to be red. Such is their ability to see in low light conditions, these eyes can appear pure black (courtesy of the expanding pupils to allow more light to the retina).  Lone zerglings serve as scouts, though may have a retinue of hydralisks if they scout an exceedingly long distance away from a hive cluster. When they attack however, zerglings move in large groups, ranging from a dozen to a hundred, often acting as \"meat shields\" for more powerful zerg strains. Individually, zerglings are little more than feral animals, but work well in large groups under the command of larger zerg warriors. In combat, zerglings are fond of ripping enemies to shreds with their sickles and fangs, indicating a sadistic streak (although not to the extent of the hydralisk).\nZerglings continued to evolve after the Brood War, gaining the ability to metamorphose into banelings. They do this by entering a brief chrysalis phase before emerging in their new form. This evolution was controlled by the new queen breed."
+	}
+
+	"zergling_boost"
+	{
+		"en"		"Metabolic Boost"
+	}
+	"zergling_boost_desc"
+	{
+		"en"		"Gives you a speed boost, 5-20%% faster."
+	}
+
+	"zergling_adrenal_glands"
+	{
+		"en"		"Adrenal Glands"
+	}
+	"zergling_adrenal_glands_desc"
+	{
+		"en"		"Increases Melee Attack Damage 15-75%%."
+	}
+
+	"zergling_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"zergling_regeneration_desc"
+	{
+		"en"		"Regenerates your Health."
+	}
+
+	"zergling_carapace"
+	{
+		"en"		"Carapace"
+	}
+	"zergling_carapace_desc"
+	{
+		"en"		"A carapace that takes damage up to 60%% until it is depleted."
+	}
+
+	"zergling_spawning"
+	{
+		"en"		"Spawning Pool"
+	}
+	"zergling_spawning_desc"
+	{
+		"en"		"Gives you a 100-10%% chance of immediately respawning where you died.\nUp to 4 times times in succession, depending on level."
+	}
+
+	"zergling_bloodlust"
+	{
+		"en"		"Bloodlust"
+	}
+	"zergling_bloodlust_desc"
+	{
+		"en"		"For 10 seconds, you gain 20-50%% speed and deal 25-100%% more melee damage."
+	}
+	"sc_bloodlust"
+	{
+		"en"		"Bloodlust"
+	}
+
+	"zergling_baneling"
+	{
+		"en"		"Baneling Morph"
+	}
+	"zergling_baneling_desc"
+	{
+		"en"		"You become a Baneling until you die."
+	}
+
+	"PreventedFromBaneling"
+	{
+		"en"		"You have been prevented from {blue}Moph{default}ing into a {blue}Baneling{default}!"
+	}
+
+	"MorphedIntoBaneling"
+	{
+		"en"		"You have {blue}Morphed{default} into a {blue}Baneling{default}."
+	}
+
+	"BanelingNotAvailable"
+	{
+		"en"		"Sorry, {blue}Zerg Baneling{default} is not available"
+	}
+
+	"InvokedBloodlust"
+	{
+		"en"		"You have invoked Bloodlust!"
+	}
+
+	"BloodlustEnded"
+	{
+		"en"		"Your Bloodlust has ended!"
+	}
+
+	"BloodlustHud"
+	{
+		"en"		"*** Bloodlust ***"
+	}
+}

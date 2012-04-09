@@ -1,0 +1,39 @@
+"Phrases"
+{
+	"YouHaveBeenCloaked"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} has {blue}Cloaked{default} you!"
+	}
+	"YouHaveBeenUncloaked"
+	{
+		"en"		"You have been {blue}Uncloaked{default}!"
+	}
+	"HasUndisguised"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{olive}{1}{default} has undisguised and/or uncloaked you with {blue}{2}{default}"
+	}
+	"HasUncloaked"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{olive}{1}{default} has uncloaked you with {blue}{2}{default}"
+	}
+	"HasDetected"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{olive}{1}{default} has detected you with {blue}{2}{default}"
+	}
+	"CloakedHud"
+	{
+		"en"		"*** Cloaked ***"
+	}
+	"UncloakedHud"
+	{
+		"en"		"*** Uncloaked ***"
+	}
+	"DetectedHud"
+	{
+		"en"		"*** Detected ***"
+	}
+}

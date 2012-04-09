@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"the_terrans"
+	{
+		"en"		"Terran"
+	}
+
+	"the_terrans_crystal_sound"
+	{
+		"en"		"sc/taderr00.wav"
+	}
+
+	"the_terrans_vespene_sound"
+	{
+		"en"		"sc/taderr01.wav"
+	}
+
+	"the_terrans_energy_sound"
+	{
+		"en"		"sc/taderr06.wav"
+	}
+
+	"the_terrans_level_sound"
+	{
+		"en"		"sc/upgrade_complete.wav"
+	}
+
+	"the_terrans_image"
+	{
+		"en"		"Terran/Terran_Icon.jpg"
+	}
+
+	"the_terrans_desc"
+	{
+		"en"		"The terrans are a young technology species with psionic potential. The terrans of the Koprulu Sector descend from the survivors of a 23rd century colonization mission from Earth. Compared to the protoss and zerg, the terrans are highly factionalized and endure frequent wars amongst themselves in addition to the more recent conflicts with their alien neighbors.  The term terran generally refers to the humans descending from the survivors of the \"Long Sleep\" and consequently to the human inhabitants of the Koprulu Sector. The term may be used synonymously with human and terrans of the Sector may extend its meaning to encompass those not descending from the \"Long Sleep\".  Humans of the Earth-based United Earth Directorate refer to themselves as humans, mankind or humanity. However, they are sometimes referred to as terrans as well."
+	}
+}

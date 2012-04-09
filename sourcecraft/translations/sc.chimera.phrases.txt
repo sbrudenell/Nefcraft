@@ -1,0 +1,72 @@
+"Phrases"
+{
+	"chimera"
+	{
+		"en"		"Protoss Chimera"
+	}
+
+	"chimera_switch"
+	{
+		"en"		""
+	}
+
+	"chimera_pending"
+	{
+		"en"		""
+	}
+
+	"chimera_image"
+	{
+		"en"		"Protoss/Reaver.png"
+	}
+
+	"chimera_desc"
+	{
+		"en"		"The Chimera can generate a large reality-warping field that serves to conceal nearby friendly units. The Chimera has to remain firmly anchored in space-time to generate the field and so is not concealed. They can also weaken space-time, tearing rifts in the fabric of space-time, creating a vortex linking another location to the Chimera's location. This can be used to move personnel and supplies over long distances.  The Chimera also houses a micro-manufacturing plant similar to the reaver, producing tiny robotic drones known as scarabs.  Scarabs are small, highly explosive drones constructed and launched by reavers. They are launched at enemy targets and installations in groups, able to level enemy structures in moments. Unlike interceptors however, Scarabs do not return to the reaver. Instead, they explode on impact, generating devastating electromagnetic fields that cause heavy damage to their targets."
+	}
+
+	"chimera_scarab_attack"
+	{
+		"en"		"Scarab Attack"
+	}
+	"chimera_scarab_attack_desc"
+	{
+		"en"		"Increases damage from attacks by exploding upon contact with enemies with a 20-90%% chance of doing 14-63%% more damage (no more than four times a second)."
+	}
+
+	"chimera_distortion"
+	{
+		"en"		"Distortion Field"
+	}
+	"chimera_distortion_desc"
+	{
+		"en"		"Cloaks all friendly units within range."
+	}
+
+	"chimera_sensors"
+	{
+		"en"		"Sensor Array"
+	}
+	"chimera_sensors_desc"
+	{
+		"en"		"Reveals invisible enemy units within range."
+	}
+
+	"chimera_shields"
+	{
+		"en"		"Plasma Shields"
+	}
+	"chimera_shields_desc"
+	{
+		"en"		"You are enveloped in re-generating Plasma Shields that protect you from 10%-50%% damage while it is active."
+	}
+
+	"chimera_mind_control"
+	{
+		"en"		"Mind Control"
+	}
+	"chimera_mind_control_desc"
+	{
+		"en"		"Allows you to control an object from the opposite team."
+	}
+}

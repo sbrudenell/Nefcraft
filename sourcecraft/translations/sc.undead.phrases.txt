@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"undead"
+	{
+		"en"		"Undead Scourge"
+	}
+
+	"undead_switch"
+	{
+		"en"		"You have joined the {blue}Undead Scourge{default}."
+	}
+
+	"undead_pending"
+	{
+		"en"		"You will join the {blue}Undead Scourge{default} the next time you spawn."
+	}
+
+	"undead_image"
+	{
+		"en"		"Scourge/LichAnim.gif"
+	}
+
+	"undead_desc"
+	{
+		"en"		"The horrifying Undead army, called the Scourge, consists of thousands of walking corpses, disembodied spirits, damned mortal men and insidious extra-dimensional entities. The Scourge was created by the Burning Legion for the sole purpose of sowing terror across the world in anticipation of the Legion's inevitable invasion. The Undead are ruled by Ner'zhul, the Lich King, who lords over the icy realm of Northrend from his frozen throne. Ner'zhul commands the terrible plague of undeath, which he sends ever southward into the human lands. As the plague encroaches on the southlands, more and more humans fall prey to Ner'zhul's mental control and life-draining sickness every day. In this way, Ner'zhul has swelled the ranks of the already considerable Scourge. The Undead employ necromantic magics and the elemental powers of the cold north against their enemies."
+	}
+
+	"undead_vampiric_aura"
+	{
+		"en"		"Vampiric Aura"
+	}
+	"undead_vampiric_aura_desc"
+	{
+		"en"		"You have a 60%% chance to leech 12-30%% of the damage you did in each attack back as health from the victim, bypassing any armor the victim has."
+	}
+
+	"undead_unholy_aura"
+	{
+		"en"		"Unholy Aura"
+	}
+	"undead_unholy_aura_desc"
+	{
+		"en"		"Allows you to run 5-23%% faster"
+	}
+
+	"undead_levitation"
+	{
+		"en"		"Levitation"
+	}
+	"undead_levitation_desc"
+	{
+		"en"		"Allows you to jump higher by reducing your gravity by 8-64%%."
+	}
+
+	"undead_suicide_bomb"
+	{
+		"en"		"Suicide Bomber"
+	}
+	"undead_suicide_bomb_desc"
+	{
+		"en"		"You explode when you die, can be manually activated via \"+ultimate 1\".\nDoes not require energy on death.\nBlast damage: 300 divided by distance from epicenter\nBlast radius: 200-350"
+	}
+
+	"sc_vampiric_aura"
+	{
+		"en"		"Vampiric Aura"
+	}
+}

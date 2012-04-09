@@ -1,0 +1,108 @@
+"Phrases"
+{
+	"templar"
+	{
+		"en"		"Protoss High Templar"
+	}
+
+	"templar_switch"
+	{
+		"en"		""
+	}
+
+	"templar_pending"
+	{
+		"en"		""
+	}
+
+	"templar_image"
+	{
+		"en"		"Protoss/HighTemplar.png"
+	}
+
+	"templar_desc"
+	{
+		"en"		"High templar are veteran Templar who forgo the rage and traditional forms of combat common to zealots in order to better develop their psionic powers into potent tools and weapons through the Khala. Although they are equipped with light armor suits and sometimes through them, psionic blades, this is not their standard form of attack.  High Templar use the archives to directly commune with their ancient ancestors and thereby gain knowledge inaccessible to ordinary warriors. They may also wear amulets carved from khaydarin crystals to improve their connection with the Khala and thus channel their psionic abilities with greater efficiency./nThose treading the path of the Khala are taught to close their minds to the outside world. For powerful psychics like the protoss this may produce psychic ripples that are harmful to other life forms. High templar are trained to focus these ripples into terrible storms of psychic energy that destroy the minds of other living creatures.  A more subtle power is the ability for high templar to create illusory duplicates of other objects. While these phantoms have no substance and cannot affect the material world, they are useful to confuse and divert the attention of the protoss' enemies.\nAt one time, high templar merged with another high templar to form an archon, thus sacrificing themselves to complete the Warrior Path and attain legendary status within the archives. After the Brood War, high templar could do by sacrificing themselves, merging with another high templar, or with a Dark Templar.  Another change brought on by the Brood War was the role of high templar politically. Previously, political decisions had been left to the Judicator Caste. With the destruction of the Conclave however and the disbanding of the Judicator, high templar have been able to take on the role of teachers and leaders of their people."
+	}
+
+	"templar_immunity"
+	{
+		"en"		"Immunity"
+	}
+	"templar_immunity_desc"
+	{
+		"en"		"Makes you Immune to: Detection, Uncloaking and Seeking Missiles at Level 1,\nMotion Taking at Level 2,\nTheft at level 3,\nand Shop Items at Level 4."
+	}
+
+	"templar_levitation"
+	{
+		"en"		"Levitation"
+	}
+	"templar_levitation_desc"
+	{
+		"en"		"Allows you to jump higher by reducing your gravity by 8-64%%."
+	}
+
+	"templar_feedback"
+	{
+		"en"		"Feedback"
+	}
+	"templar_feedback_desc"
+	{
+		"en"		"Gives you 5-50%% chance of reflecting a portion of the damage back to the attacker."
+	}
+
+	"templar_hallucination"
+	{
+		"en"		"Hallucination"
+	}
+	"templar_hallucination_desc"
+	{
+		"en"		"Gives you a 15-50%% chance to cause temporary hallucinations in an enemy."
+	}
+
+	"templar_shields"
+	{
+		"en"		"Plasma Shields"
+	}
+	"templar_shields_desc"
+	{
+		"en"		"You are enveloped in re-generating Plasma Shields that protect you from 10-50%% damage while it is active."
+	}
+
+	"templar_psistorm"
+	{
+		"en"		"Psionic Storm"
+	}
+	"templar_psistorm_desc"
+	{
+		"en"		"Every enemy in 25-60 feet range will be damaged continously while in range."
+	}
+	"sc_psistorm"
+	{
+		"en"		"Psionic Storm"
+	}
+
+	"templar_amulet"
+	{
+		"en"		"Khaydarin Amulet"
+	}
+	"templar_amulet_desc"
+	{
+		"en"		"Increases the amount of energy you start with."
+	}
+
+	"templar_archon"
+	{
+		"en"		"Summon Archon"
+	}
+	"templar_archon_desc"
+	{
+		"en"		"You become an Archon until you die."
+	}
+
+	"PreventedFromSummoningArchon"
+	{
+		"en"		"You have been prevented from Summoning {blue}Archon{default}!"
+	}
+}

@@ -1,0 +1,16 @@
+"Phrases"
+{
+	"RecallTeamTitle"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} as requested to recall you\nDo you agree to be teleported?"
+	}
+	"RecallStructureTitle"
+	{
+		"en"		"Recall which Structure:"
+	}
+	"NoStructuresToRecall"
+	{
+		"en"		"You don't have any structures to {blue}Recall{default}!"
+	}
+}

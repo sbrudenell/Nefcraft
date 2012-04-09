@@ -1,0 +1,138 @@
+"Phrases"
+{
+	"dark_templar"
+	{
+		"en"		"Protoss Dark Templar"
+	}
+
+	"dark_templar_switch"
+	{
+		"en"		""
+	}
+
+	"dark_templar_pending"
+	{
+		"en"		""
+	}
+
+	"dark_templar_image"
+	{
+		"en"		"Protoss/DarkTemplar1.png"
+	}
+
+	"dark_templar_desc"
+	{
+		"en"		"The Nerazim, or the Dark Templar as they are known to outsiders, is a tribe of protoss who reject the Khala. Having cut themselves off from the Khala, the Dark Templar are driven by individuality and a thirst for knowledge. Willfully independent, the Dark Templar hold their allegiance primarily to their warrior clans and then to the Nerazim. They tend to be motivated more by personal and tribal bonds than by authority, and hold individuals accountable for their actions.\nThe clans have scattered across dozens of star systems, often living on small ships. They frequently feud, but band together in the face of threats such as the zerg.  The clans distinguish themselves from each other through unique styles of weapons and armor.  The Dark Templar have \"sharper\" features than the protoss of Aiur, and perceive things differently.  Nerazim often cut off their psionic appendages, and use clamps to control the energy bleed.  The Nerazim maintained the same system of writing as the protoss from Aiur, and their technology is similar enough to Aiur technology that these protoss can intuit how to use the technology.Dark Templar were taught to hide from the Conclave by the powerful Templar Adun. This ability has been described as \"bending light\" and \"merging with shadows\".\nDark Templar wield the energies of the cosmos. These energies are harmful to the zerg cerebrates and Overmind due to the similarities of the cosmic energies they wield. The Dark Templar consider their powers to be to be the \"true gifts\" of the protoss, and consider the Khala to be diluted and narrowed by the (former) leaders of the protoss. Their own powers are considered \"wider\".  Dark Templar are cut off from the preservers; they have no preservers of their own, and their memories cannot be accessed by the preservers.  A group of protoss survivors stranded on Aiur, the Tal'darim, were cut off from the Khala and developed abilities similar to those of the Dark Templar."
+	}
+
+	"dark_templar_immunity"
+	{
+		"en"		"Immunity"
+	}
+
+	"dark_templar_immunity_desc"
+	{
+		"en"		"Makes you Immune to: Uncloaking (but NOT Detection) at Level 1,\nHealth Taking at Level 2,\nUltimates at level 3,\nand Shop Items at Level 4."
+	}
+
+	"dark_templar_leg"
+	{
+		"en"		"Leg Enhancements"
+	}
+
+	"dark_templar_leg_desc"
+	{
+		"en"		"Gives you a speed boost, 5-20%% faster."
+	}
+
+	"dark_templar_shields"
+	{
+		"en"		"Plasma Shields"
+	}
+
+	"dark_templar_shields_desc"
+	{
+		"en"		"You are enveloped in re-generating Plasma Shields that protect you from 10%-50%% damage while it is active."
+	}
+
+	"dark_templar_cloak"
+	{
+		"en"		"Cloaking"
+	}
+
+	"dark_templar_cloak_desc"
+	{
+		"en"		"Makes you partially invisible. You will also be less visibile when standing still for a period of time and are using your melee weapon.\nAlso makes you immune to uncloaking and invisible to homing missiles."
+	}
+
+	"dark_templar_cloak_noinvis_desc"
+	{
+		"en"		"Makes you immune to uncloaking and invisible to homing missiles."
+	}
+
+	"dark_templar_cloak_regen"
+	{
+		"en"		"Cloak Regeneration"
+	}
+
+	"dark_templar_cloak_regen_desc"
+	{
+		"en"		"Constantly Regenerates Spy's Cloak over time."
+	}
+
+	"dark_templar_blades"
+	{
+		"en"		"Psi-Blades"
+	}
+
+	"dark_templar_blades_desc"
+	{
+		"en"		"Increases Melee Attack Damage 15-75%%."
+	}
+
+	"dark_templar_blink"
+	{
+		"en"		"Blink"
+	}
+
+	"dark_templar_blink_desc"
+	{
+		"en"		"Allows you to teleport to where you \naim within 300-1500 units.\nThe further you blink, the more energy it uses."
+	}
+
+	"dark_templar_dark_archon"
+	{
+		"en"		"Summon Dark Archon"
+	}
+
+	"dark_templar_dark_archon_desc"
+	{
+		"en"		"You become a Dark Archon until you die."
+	}
+
+	"dark_templar_death_shadow"
+	{
+		"en"		"Death Shadow"
+	}
+
+	"dark_templar_death_shadow_desc"
+	{
+		"en"		"Allows you to summon a corpse to your location to confuse your enemies.\n(Spy's can also invoke this using attack when cloaked)"
+	}
+
+	"NoDeathShadow"
+	{
+		"en"		"Death Shadow is not available"
+	}
+
+	"PreventedFromSummoningDarkArchon"
+	{
+		"en"		"You have been prevented from Summoning {blue}Dark Archon{default}!"
+	}
+
+	"ReceivedCloak"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have received {1} cloak from {blue}Cloak Regeneration{default}."
+	}
+}

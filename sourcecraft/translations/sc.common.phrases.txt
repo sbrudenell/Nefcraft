@@ -1,0 +1,266 @@
+"Phrases"
+{
+	"InsufficientEnergy"
+	{
+		"#format"	"{1:d}"
+		"en"		"You do not have enough {blue}Energy{default}, {blue}{1}{default} is required!"
+	}
+	"InsufficientEnergyFor"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"You do not have enough {blue}Energy{default} for {blue}{1}{default}, {blue}{2}{default} is required!"
+	}
+	"InsufficientAccumulatedEnergyFor"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"You do not have enough {blue}Accumulated Energy{default} for {blue}{1}{default}, {blue}{2}{default} is required!"
+	}
+	"InsufficientCrystals"
+	{
+		"#format"	"{1:d}"
+		"en"		"You do not have sufficient {green}Crystals{default}, {green}{1}{default} are required!"
+	}
+	"InsufficientCrystalsFor"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"You do not have sufficient {green}Crystals{default} for {blue}{1}{default}, {green}{2}{default} are required!"
+	}
+	"InsufficientVespene"
+	{
+		"#format"	"{1:d}"
+		"en"		"You do not have sufficient {lightgreen}Vespene Gas{default}, {lightgreen}{1}{default} is required!"
+	}
+	"InsufficientVespeneFor"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"You do not have sufficient {green}Vespene Gas{default} for {blue}{1}{default}, {green}{2}{default} is required!"
+	}
+	"Prevented"
+	{
+		"#format"	"{1:s}"
+		"en"		"You have been prevented from invoking {blue}{1}{default}!"
+	}
+	"YouHaveDied"
+	{
+		"#format"	"{1:s}"
+		"en"		"You have died, you are NOT able to {blue}{1}{default}!"
+	}
+	"NotWhileBurrowed"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, you may not {blue}{1}{default} while Burrowed!"
+	}
+	"NotAsMole"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, you may not {blue}{1}{default} when you are a Mole!"
+	}
+	"CantUseAsMole"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, you may not use the {blue}{1}{default} when you are a Mole!"
+	}
+	"NotWithFlag"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, you may not {blue}{1}{default} with the flag!"
+	}
+	"CantUseWithFlag"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, you may not use the {blue}{1}{default} with the flag!"
+	}
+	"NotWhileHeld"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, you may not {blue}{1}{default} while held!"
+	}
+	"CantUseWhileHeld"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, you may not use the {blue}{1}{default} while held!"
+	}
+	"CantUseOnFlagCarrier"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, you may not use the {blue}{1}{default} on the flag carrier!"
+	}
+	"CantUseOnSomeoneBeingHeld"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, you may not use the {blue}{1}{default} on someone being held!"
+	}
+	"EngineersOnly"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, {blue}{1}{default} can only be used by Engineers!"
+	}
+	"TargetIsImmune"
+	{
+		"en"		"Sorry, Target is {red}Immune{default} to ultimates!"
+	}
+	"TargetIsInvulerable"
+	{
+		"en"		"Sorry, Target is {red}Invulerable{default} or {red}Immune{default} to ultimates!"
+	}
+	"TargetIsTeammate"
+	{
+		"en"		"Sorry, Target is a {red}Teammate{default}!"
+	}
+	"TargetIsBurrowed"
+	{
+		"en"		"Sorry, Target is {red}Burrowed{default} or in the {red}Bunker{default}!"
+	}
+	"NoEntitiesAvailable"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, {blue}{1}{default} can not be used at this time, {red}Valve entity limit nearly reached{default}!"
+	}
+	"TargetIsTooFar"
+	{
+		"en"		"{red}Target is too far away!{default}"
+	}
+	"TargetInvalid"
+	{
+		"en"		"{red}Invalid Target!{default}"
+	}
+	"NotReady"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, {blue}{1}{default} is not ready!"
+	}
+	"NotRecharged"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, your {blue}{1}{default} has not recharged yet!"
+	}
+	"OutOfEnergy"
+	{
+		"#format"	"{1:s}"
+		"en"		"Sorry, your {blue}{1}{default} has run out of energy!"
+	}
+	"IsReady"
+	{
+		"#format"	"{1:s}"
+		"en"		"{blue}{1}{default} is now ready!"
+	}
+	"HasRecharged"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your {blue}{1}{default} has recharged and can be used again!"
+	}
+	"ConsumedEnergy"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"Your {blue}{1}{default} Consumed {2} energy"
+	}
+	"Invoked"
+	{
+		"#format"	"{1:s}"
+		"en"		"You have invoked {blue}{1}{default}!"
+	}
+	"PervadesTheLand"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your {blue}{1}{default} pervades the land!"
+	}
+	"ToDamageEnemies"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"You have used {blue}{1}{default} to damage {2} enemies!"
+	}
+	"ToBlindEnemies"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"You have used {blue}{1}{default} to blind {2} enemies!"
+	}
+	"ToSlowEnemies"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"You have used {blue}{1}{default} to slow {2} enemies!"
+	}
+	"WithoutEffect"
+	{
+		"#format"	"{1:s}"
+		"en"		"You have used {blue}{1}{default} without effect."
+	}
+	"NoEffect"
+	{
+		"#format"	"{1:s},{2:N}"
+		"en"		"{blue}{1}{default} had no effect on {olive}{2}{default}."
+	}
+	"IsNotAvailable"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is not available!"
+	}
+	"AreNotAvailable"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} are not available!"
+	}
+	"HasEnsnared"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{olive}{1}{default} has ensnared you with {blue}{2}{default}!"
+	}
+	"ToEnsnareEnemies"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"You have used {blue}{1}{default} to ensnare {2} enemies!"
+	}
+	"YouEvaded"
+	{
+		"en"		"You have {blue}Evaded{default} damage!"
+	}
+	"YouEvadedFrom"
+	{
+		"#format"	"{1:N}"
+		"en"		"You have {blue}Evaded{default} an attack from {olive}{1}{default}!"
+	}
+	"HasEvaded"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} has {blue}Evaded{default} your attack!"
+	}
+	"CrystalsReduced"
+	{
+		"#format"	"{1:d}"
+		"en"		"Your {green}Crystals{default} have been reduced to {red}{1}{default}!"
+	}
+	"YouHaveStolenCrystals"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You have {green}Stolen {green}{1} Crystals{default} from {olive}{2}{default}!"
+	}
+	"StoleYourCrystals"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"{olive}{1}{default} {red}Stole {2} Crystals{default} from you!"
+	}
+	"SetOnFire"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{olive}{1}{default} has set you on fire with {blue}{2}{default}!"
+	}
+	"YouHaveLeeched"
+	{
+		"#format"	"{1:d},{2:N},{3:s}"
+		"en"		"You have leeched {green}{1} hp{default} from {olive}{2}{default} using {blue}{3}{default}."
+	}
+	"HasLeeched"
+	{
+		"#format"	"{1:N},{2:d},{3:s}"
+		"en"		"{olive}{1}{default} has leeched {green}{2} hp{default} from you using {blue}{3}{default}."
+	}
+	"ReceivedHP"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You have received {green}{1} hp{default} from {blue}{2}{default}."
+	}
+	"ReceivedHPFrom"
+	{
+		"#format"	"{1:d},{2:N},{3:s}"
+		"en"		"You have received {green}{1} hp{default} from {olive}{2}{default} using {blue}{3}{default}."
+	}
+}

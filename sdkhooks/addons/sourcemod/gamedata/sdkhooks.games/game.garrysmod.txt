@@ -1,0 +1,128 @@
+"Games"
+{
+	"garrysmod"
+	{
+		"Offsets"
+		{
+			"EndTouch"
+			{
+				"windows"	"99"
+				"linux"		"100"
+				"mac"		"100"
+			}
+			"FireBullets"
+			{
+				"windows"	"111"
+				"linux"		"112"
+				"mac"		"112"
+			}
+			"PreThink"
+			{
+				"windows"	"366"
+				"linux"		"367"
+				"mac"		"367"
+			}
+			"PostThink"
+			{
+				"windows"	"367"
+				"linux"		"368"
+				"mac"		"368"
+			}
+			"SetTransmit"
+			{
+				"windows"	"19"
+				"linux"		"20"
+				"mac"		"20"
+			}
+			"Spawn"
+			{
+				"windows"	"21"
+				"linux"		"22"
+				"mac"		"22"
+			}
+			"StartTouch"
+			{
+				"windows"	"97"
+				"linux"		"98"
+				"mac"		"98"
+			}
+			"Think"
+			{
+				"windows"	"46"
+				"linux"		"47"
+				"mac"		"47"
+			}
+			"Touch"
+			{
+				"windows"	"98"
+				"linux"		"99"
+				"mac"		"99"
+			}
+			"TraceAttack"
+			{
+				"windows"	"59"
+				"linux"		"60"
+				"mac"		"60"
+			}
+			"UpdateOnRemove"
+			{
+				"windows"	"104"
+				"linux"		"105"
+				"mac"		"105"
+			}
+			"Use"
+			{
+				"windows"	"96"
+				"linux"		"97"
+				"mac"		"97"
+			}
+			"VPhysicsUpdate"
+			{
+				"windows"	"155"
+				"linux"		"156"
+				"mac"		"156"
+			}
+			"Weapon_CanSwitchTo"
+			{
+				"windows"	"300"
+				"linux"		"301"
+				"mac"		"301"
+			}
+			"Weapon_CanUse"
+			{
+				"windows"	"294"
+				"linux"		"295"
+				"mac"		"295"
+			}
+			"Weapon_Drop"
+			{
+				"windows"	"297"
+				"linux"		"298"
+				"mac"		"298"
+			}
+			"Weapon_Equip"
+			{
+				"windows"	"295"
+				"linux"		"296"
+				"mac"		"296"
+			}
+			"Weapon_Switch"
+			{
+				"windows"	"298"
+				"linux"		"299"
+				"mac"		"299"
+			}
+		}
+		
+		"Signatures"
+		{
+			"IEntityFactoryDictionary"
+			{
+				"library"	"server"
+				"windows"	"\xB8\x01\x00\x00\x00\x84\x2A\x2A\x2A\x2A\x2A\x75\x1D\x09\x2A\x2A\x2A\x2A\x2A\xB9\x2A\x2A\x2A\x2A\xE8\x2A\x2A\x2A\x2A\x68\x2A\x2A\x2A\x2A\xE8\x2A\x2A\x2A\x2A\x83\xC4\x04\xB8\x2A\x2A\x2A\x2A\xC3"
+				"linux"		"\x55\x89\xE5\x57\x56\x53\x83\xEC\x2A\xE8\x2A\x2A\x2A\x2A\x81\xC3\x2A\x2A\x2A\x2A\x8D\xBB\x2A\x2A\x2A\x2A\x80\xBB\x2A\x2A\x2A\x2A\x2A\x74\x2A\x8D"
+				"mac"		"@_Z23EntityFactoryDictionaryv"
+			}
+		}
+	}
+}

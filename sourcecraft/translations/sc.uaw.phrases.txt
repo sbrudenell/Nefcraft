@@ -1,0 +1,240 @@
+"Phrases"
+{
+	"uaw"
+	{
+		"en"		"UAW"
+	}
+
+	"uaw_switch"
+	{
+		"en"		"You have joined the {blue}UAW{default}."
+	}
+
+	"uaw_pending"
+	{
+		"en"		"You will join the {blue}UAW{default} the next time you spawn."
+	}
+
+	"uaw_image"
+	{
+		"en"		"Scourge/ShadeAnim.gif"
+	}
+
+	"uaw_desc"
+	{
+		"en"		"The United Auto Workers (UAW) are the restless spirits of those who never had a chance to achieve greatness in life. A vaporous gray mist clearly forms the skeletal body of these creatures. Thier vaguely humanoid bodies are translucent and leaves a misty trail as they glide silently about. Only the bright violet eyes, which burn with great intensity, look as though they have any substance. These utterly invisible, incorporeal creatures prefer to avoid living beings.\nThey seem content to roam the land where they were spawned, but most seem also equally at ease among other undead. Poor combatants, the UAW prefer to avoid fighting or working as much as possible and tend to hide in bathrooms. They would rather flee than face an enemy they cannot hope to defeat, but they also tend to retreat from creatures they could likely defeat. When forced into battle, they attempt to hamper the living as much as possible, but still seek to fly away at the first opportunity. Cornered UAW will fight to the death, but note that incorporeal creatures are notoriously hard to corner."
+	}
+
+	"uaw_wages"
+	{
+		"en"		"Inflated Wages"
+	}
+	"uaw_wages_desc"
+	{
+		"en"		"You get paid more and level faster."
+	}
+
+	"uaw_seniority"
+	{
+		"en"		"Seniority"
+	}
+	"uaw_seniority_desc"
+	{
+		"en"		"Upon death, gives you various chances of:\nbeing sheltered respawning where you died,\njoining the Jobs Bank and respawning in the spawnroom,\ngetting a Buyout offer of up to 100 crystals."
+	}
+
+	"uaw_negotiations"
+	{
+		"en"		"Negotiations"
+	}
+	"uaw_negotiations_desc"
+	{
+		"en"		"Various good and not so good things happen at random intervals\nYou might get or lose money or experience, you might also die. As the level increases, so does the change that good things will happen. Unavoidable."
+	}
+
+	"uaw_rules"
+	{
+		"en"		"Work Rules"
+	}
+	"uaw_rules_desc"
+	{
+		"en"		"Increases the rate at which you gain energy."
+	}
+
+	"uaw_hook"
+	{
+		"en"		"Hook"
+	}
+	"uaw_hook_desc"
+	{
+		"en"		"Use the \"+ultimate 1\" bind to hook a line to a wall and traverse it."
+	}
+
+	"uaw_rope"
+	{
+		"en"		"Swing Shift"
+	}
+	"uaw_rope_desc"
+	{
+		"en"		"Use the \"+ultimate 2\" bind to swing from a rope."
+	}
+
+	"InsufficientEnergyToHook"
+	{
+		"#format"	"{1:d}"
+		"en"		"You do not have enough {blue}Energy{default} to continue {blue}Hook{default}ing, {blue}{1}{default} is required!"
+	}
+	"PreventedFromHooking"
+	{
+		"en"		"You have been prevented from {blue}Hook{default}ing!"
+	}
+	"PreventedFromSwinging"
+	{
+		"en"		"You have been prevented from {blue}Swing{default}ing!"
+	}
+
+	"JobsBank"
+	{
+		"en"		"Due to {blue}Seniority{default}, you have joined the {blue}Jobs Bank{default}!"
+	}
+	"YouWereSheltered"
+	{
+		"en"		"You were sheltered from an attack due to {blue}Seniority{default}!"
+	}
+	"WasSheltered"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} was sheltered from your attack due to {blue}Seniority{default}!"
+	}
+	"Buyout"
+	{
+		"#format"	"{1:d}"
+		"en"		"Due to {blue}Seniority{default}, you have recieved {green}{1} crystals{default} from a {blue}Buyout Offer{default}!"
+	}
+
+	"Grievance"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have filed a {blue}Grievance{default} and recieved {custom}{2} experience{default}!"
+	}
+	"ShopSteward"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have been made a {blue}Shop Steward{default} and recieved {custom}{2} experience{default}!"
+	}
+	"Arbitration"
+	{
+		"#format"	"{1:d}"
+		"en"		"Due to {blue}Arbitration{default}, you have recieved {custom}{2} experience{default}!"
+	}
+	"Bargaining"
+	{
+		"#format"	"{1:d}"
+		"en"		"Due to {blue}Collective Bargaining{default}, you have recieved {custom}{2} experience{default}!"
+	}
+	"Benefits"
+	{
+		"#format"	"{1:d}"
+		"en"		"You are entitled to {blue}Fringe Benefits{default} of {custom}{2} experience{default}!"
+	}
+	"Overtime"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have recieved {green}{1} crystals{default} from {blue}Overtime{default}!"
+	}
+	"PremiumPay"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have recieved {green}{1} crystals{default} from {blue}Premium Pay{default}!"
+	}
+	"ShiftDifferentialPay"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have recieved {green}{1} crystals{default} from {blue}Shift Differential Pay{default}!"
+	}
+	"COLA"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have recieved {green}{1} crystals{default} from {blue}COLA{default}!"
+	}
+	"ProfitSharing"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have recieved {green}{1} crystals{default} from {blue}Profit Sharing{default}!"
+	}
+	"Bonus"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have recieved {green}{1} crystals{default} from a {blue}Bonus{default}!"
+	}
+	"UnionDues"
+	{
+		"#format"	"{1:d}"
+		"en"		"You must pay {green}{1} crystals{default} for {blue}Union Dues{default}!"
+	}
+	"Boycott"
+	{
+		"en"		"The union has ordered that you {blue}Boycott{default} this action!"
+	}
+	"Strike"
+	{
+		"en"		"The union has gone on {blue}Strike{default}!"
+	}
+	"Picketing"
+	{
+		"en"		"The union is now {blue}Picketing{default}!"
+	}
+
+	"Lockout"
+	{
+		"en"		"Your employer has instituted a {blue}Lockout{default}!"
+	}
+	"sc_lockout"
+	{
+		"en"		"Lockout!"
+	}
+
+	"Reduction"
+	{
+		"en"		"You have been layed off due to a {blue}Workforce Reduction{default}!"
+	}
+	"sc_reduction"
+	{
+		"en"		"Workforce Reduction!"
+	}
+
+	"BuyoutReduction"
+	{
+		"en"		"You have been forced to accept a {blue}Buyout{default} for {green}%d crystals{default} and have been {custom}reduced by %d levels{default}!"
+	}
+	"Buyout"
+	{
+		"en"		"You have been forced to accept a {blue}Buyout{default} for {green}%d crystals{default}!"
+	}
+	"sc_buyout"
+	{
+		"en"		"Buyout!"
+	}
+
+	"BankruptcyReduction"
+	{
+		"en"		"Your employer has gone into {blue}Bankruptcy{default}, you have been {custom}reduced by %d levels{default}!"
+	}
+	"Bankruptcy"
+	{
+		"en"		"Your employer has gone into {blue}Bankruptcy{default}!"
+	}
+	"sc_bankruptcy"
+	{
+		"en"		"Bankruptcy!"
+	}
+
+	"OSHA"
+	{
+		"en"		"You have been forced to leave due to {blue}OSHA Rules{default}!"
+	}
+	"sc_osha"
+	{
+		"en"		"OSHA Rules!"
+	}
+}

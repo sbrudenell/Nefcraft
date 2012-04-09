@@ -1,0 +1,108 @@
+"Phrases"
+{
+	"drone"
+	{
+		"en"		"Zerg Drone"
+	}
+
+	"drone_switch"
+	{
+		"en"		""
+	}
+
+	"drone_pending"
+	{
+		"en"		""
+	}
+
+	"drone_image"
+	{
+		"en"		"Zerg/Drone.png"
+	}
+
+	"drone_desc"
+	{
+		"en"		"Drones stem from the savage gashyrr wasps of Eldersthine, absorbed into the Zerg Swarm to serve as resource gatherers. Over time they became drones, engineered with the larvae's ability to break down their own genetic coding and transform themselves into rudimentary zerg structures. A transforming drone needs creep to provide nourishment and mass to support its new form.  Like the larva, drones are controlled by overlords who monitor their progress. Drones are usually single-minded about their tasks, diligently working through even raging combat.  Drones possess limited combat ability, but in a swarm, they can present a significant threat, attacking with claws and spines."
+	}
+
+	"drone_armor"
+	{
+		"en"		"Carapace"
+	}
+	"drone_armor_desc"
+	{
+		"en"		"A carapace that takes damage up to 60%% until it is depleted."
+	}
+
+	"drone_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"drone_regeneration_desc"
+	{
+		"en"		"Regenerates your Health."
+	}
+
+	"drone_creep"
+	{
+		"en"		"Creep"
+	}
+	"drone_creep_desc"
+	{
+		"en"		"Regenerates the Health, Metal and/or Ammo of your Structures."
+	}
+
+	"drone_teleporter"
+	{
+		"en"		"Nydus Canal"
+	}
+	"drone_teleporter_desc"
+	{
+		"en"		"Decreases the recharge rate of your teleporters."
+	}
+
+	"drone_evolution"
+	{
+		"en"		"Evolution Chamber"
+	}
+	"drone_evolution_desc"
+	{
+		"en"		"Enhances Mutate to permit more than 1 of each type of building, depending on level."
+	}
+
+	"drone_mutate"
+	{
+		"en"		"Mutate"
+	}
+	"drone_mutate_desc"
+	{
+		"en"		"Mutate into a fully built Structure:\nNon Functioning Dispenser or Teleporter at Level 1\nor a Level 1 Sentry at Level 2\nor a Level 2 Sentry at Level 3\nor a Level 3 Sentry at level 4."
+	}
+	"drone_mutate_engyonly_desc"
+	{
+		"en"		"Engineers can Mutate into a fully built Structure:\nNon Functioning Dispenser at Level 1\nor a Level 1 Sentry at Level 2\nor a Level 2 Sentry at Level 3\nor a Level 3 Sentry at level 4."
+	}
+
+	"drone_burrow_structure"
+	{
+		"en"		"Burrow Structure"
+	}
+	"drone_burrow_structure_desc"
+	{
+		"en"		"Burrow the chosen Structure, which is disabled while burrowed."
+	}
+
+	"drone_hive_queen"
+	{
+		"en"		"Evolve Hive Queen"
+	}
+	"drone_hive_queen_desc"
+	{
+		"en"		"You become a Hive Queen until you die."
+	}
+
+	"PreventedFromHiveQueen"
+	{
+		"en"		"You have been prevented from {blue}Evolving{default} into a {blue}Hive Queen{default}!"
+	}
+}

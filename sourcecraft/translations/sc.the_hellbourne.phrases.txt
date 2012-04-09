@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"the_hellbourne"
+	{
+		"en"		"Hellbourne"
+	}
+
+	"the_hellbourne_crystal_sound"
+	{
+		"en"		"sc/NecromancerNoGold1.wav"
+	}
+
+	"the_hellbourne_vespene_sound"
+	{
+		"en"		"sc/NecromancerNoLumber1.wav"
+	}
+
+	"the_hellbourne_energy_sound"
+	{
+		"en"		"sc/NecromancerNoEnergy1.wav"
+	}
+
+	"the_hellbourne_level_sound"
+	{
+		"en"		"sc/levelupcaster.mp3"
+	}
+
+	"the_hellbourne_image"
+	{
+		"en"		"Scourge/undeadseal.gif"
+	}
+
+	"the_hellbourne_desc"
+	{
+		"en"		"The Hellbourne is a vast, innumerable army of walking corpses, disembodied spirits, damned mortal men, insidious extra-dimensional entities, demons, infernals, and corrupted races who seek to destroy any trace of order in the universe."
+	}
+}

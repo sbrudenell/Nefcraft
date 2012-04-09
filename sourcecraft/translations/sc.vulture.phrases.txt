@@ -1,0 +1,103 @@
+"Phrases"
+{
+	"vulture"
+	{
+		"en"		"Terran Vulture"
+	}
+
+	"vulture_switch"
+	{
+		"en"		""
+	}
+
+	"vulture_pending"
+	{
+		"en"		""
+	}
+
+	"vulture_image"
+	{
+		"en"		"Terran/Vulture.png"
+	}
+
+	"vulture_desc"
+	{
+		"en"		"In use by 2478, the vulture is a lightly-armored one-man hoverbike primarily used for scouting and patrol, designed with speed and reliability in mind. Its limited gravity hover technology allows the bike to travel over rough terrain with little loss of traction or speed, and reach speeds up to 230 miles per hour; an onboard computer and sensors mounted in the \"nose\" of the craft keep it at a steady pace for most of the time. These features make the vulture suitable for patrolling the vast wildernesses typically found around terran colonies. They produce a humming whine as they move.\nVultures are ill suited for heavy combat, given their light frame. However, they make excellent skirmishers, especially against lightly armored targets. In some occasions, vultures may be formed into small squadrons, usually attached to mechanized infantry. Given the speed at which the bikes move however, it is difficult to maintain cohesion. The vulture's driver seat can be enclosed depending on model, customization, or operating environment and can be configured for someone to ride shotgun.\nIn the Confederate Armored Vehicle Corps, aspiring vulture pilots have to pass a minimal physical fitness exam before becoming a pilot. Originally, the standard Vulture armament was an anti-personnel APG-2 \"Thumper\" Grenade Launcher. Since the Brood War however, may instead be equipped with a mounted laser cannon. Other optional equipment includes spider mines and ion thrusters."
+	}
+
+	"vulture_supply_depot"
+	{
+		"en"		"Supply Depot"
+	}
+	"vulture_supply_depot_desc"
+	{
+		"en"		"Provides additional ammo or metal."
+	}
+
+	"vulture_thrusters"
+	{
+		"en"		"Ion Thrusters"
+	}
+	"vulture_thrusters_desc"
+	{
+		"en"		"Gives you a speed boost, 15-30%% faster."
+	}
+
+	"vulture_armor"
+	{
+		"en"		"Vehicle Plating"
+	}
+	"vulture_armor_desc"
+	{
+		"en"		"Vehicle Plating that takes damage up to 60%% until it is depleted."
+	}
+
+	"vulture_weapons"
+	{
+		"en"		"Vehicle Weapons"
+	}
+	"vulture_weapons_desc"
+	{
+		"en"		"Does 20-80%% extra damage to the enemy, chance is 30-60%."
+	}
+	"sc_vehicle_weapons"
+	{
+		"en"		"Vehicle Weapons"
+	}
+
+	"vulture_bunker"
+	{
+		"en"		"Enter Bunker"
+	}
+	"vulture_bunker_desc"
+	{
+		"en"		"Enter the Bunker, which provides additional armor (20-160%) that takes 100%% damage at the cost of becoming immoble while in the bunker."
+	}
+
+	"vulture_spider_mine"
+	{
+		"en"		"Spider Mine"
+	}
+	"vulture_spider_mine_desc"
+	{
+		"en"		"Drops a spider mine, which is equipped with motion sensors. Once a target enters a certain range the mine digs itself out of the ground and scurries over that distance to detonate on the target.\nYou will be given 3 spider mines to plant for every level."
+	}
+
+	"vulture_tripmine"
+	{
+		"en"		"Tripmine"
+	}
+	"vulture_tripmine_desc"
+	{
+		"en"		"You will be given a tripmine to plant for every level."
+	}
+
+	"vulture_nade"
+	{
+		"en"		"Grenade"
+	}
+	"vulture_nade_desc"
+	{
+		"en"		"You will be given 2 frag grenades and 2 special grenades to use for every level.\nThrow a special nade with +ultimate 3 and a frag nade with +ultimate 4 (or 2)\nType !nade for more information."
+	}
+}

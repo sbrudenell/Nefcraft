@@ -1,0 +1,106 @@
+"Phrases"
+{
+	"marine"
+	{
+		"en"		"Terran Marine"
+	}
+
+	"marine_switch"
+	{
+		"en"		""
+	}
+
+	"marine_pending"
+	{
+		"en"		""
+	}
+
+	"marine_image"
+	{
+		"en"		"Terran/Marine.png"
+	}
+
+	"marine_desc"
+	{
+		"en"		"Marines compose the bulk of most terran front-line forces, ranging from officially government-sanctioned units and local militias to renegades and mercenaries. Koprulu Sector marines are generally equipped with powered armor suits and rapid-fire C-14 rifles. The suit provides full life-support and NBC protection, allowing marines to deploy into environments that would otherwise be inimical to human life.\nDespite such material investment into each marine, they tend to have extremely short combat lives. To improve their effectiveness and odds of survival, many marines make heavy use of StimPacks.\nA significant proportion of the Confederate Marine Corps was manned by \"culturally challenged\" individuals who had been \"resocialized\" via brain surgery, implants such as aggression inhibitors, and resocialization tanks. Counseling and drug therapy were also used to help overcome criminal and/or anti-social tendencies. Despite this source of manpower, it was not always sufficient to replace battlefield losses, and instances of law-abiding persons being conscripted and subjected to \"resoc\" were not TFObjectType_Unknown. In any case, volunteers were few.\nThe fall of the Confederacy and its replacement by the Dominion (the Confederate Marine Corps being replaced by the Dominion Marine Corps respectively) has seen an increase in volunteer recruitment, but not enough to supplant \"resoc\" conscription. Marines continue to use variants of the C-14 rifle many years after the Brood War, along with the inclusion of ballistic alloy combat shields in their arsenal."
+	}
+
+	"marine_u238"
+	{
+		"en"		"Depleted U-238 Shells"
+	}
+	"marine_u238_desc"
+	{
+		"en"		"Increases damage for non-melee attacks, 25%% chance to do 30-100%% extra damage."
+	}
+
+	"marine_armor"
+	{
+		"en"		"Infantry Armor"
+	}
+	"marine_armor_desc"
+	{
+		"en"		"A suit of Heavy Armor that takes damage up to 80%% until it is depleted."
+	}
+
+	"marine_stimpacks"
+	{
+		"en"		"Stimpacks"
+	}
+	"marine_stimpacks_desc"
+	{
+		"en"		"Gives you a speed boost, 5-13%% faster."
+	}
+
+	"marine_combat_shield"
+	{
+		"en"		"Combat Shield"
+	}
+	"marine_combat_shield_desc"
+	{
+		"en"		"A Combat Shield that provides an additional 15-50%% health each time you spawn."
+	}
+
+	"marine_bunker"
+	{
+		"en"		"Enter Bunker"
+	}
+	"marine_bunker_desc"
+	{
+		"en"		"Enter the Bunker, which provides additional armor (20-160%) that takes 100%% damage at the cost of becoming immobile while in the bunker."
+	}
+
+	"marine_marauder"
+	{
+		"en"		"Marauder Training"
+	}
+	"marine_marauder_desc"
+	{
+		"en"		"You become a Marauder until you die."
+	}
+
+	"marine_firebat"
+	{
+		"en"		"Firebat Training"
+	}
+	"marine_firebat_desc"
+	{
+		"en"		"You become a Firebat until you die."
+	}
+
+	"HPFromCombatShield"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have received {green}{1} extra hp{default} from your {blue}Combat Shield{default}."
+	}
+
+	"PreventedFromTrainingFirebat"
+	{
+		"en"		"You have been prevented from {blue}Training{default} as a {blue}Firebat{default}!"
+	}
+
+	"PreventedFromTrainingMarauder"
+	{
+		"en"		"You have been prevented from {blue}Training{default} as a {blue}Marauder{default}!"
+	}
+}

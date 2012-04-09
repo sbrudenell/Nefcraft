@@ -1,0 +1,106 @@
+﻿"Phrases"
+{
+	"Announce1"
+	{
+		"en"		"{default}Say {olive}/sel{default} as engineer to select 2nd building. {default}Say {olive}/amp_help{default} to show info."
+		"ru"		"{default}Введите {olive}/amp{default} для выбора 2го строения Инженера. {default}Введите {olive}/amp_help{default} для справи."
+	}
+	"Announce2"
+	{
+		"en"		"{olive}AmpNode{default} version {olive}3.0{default} by {olive}-=|JFH|=-Naris{default}"
+	}
+	"Announce3"
+	{
+		"en"		"{olive}The Amplifier by {olive}Dr.Eggman{default}"
+		"ru"		"{olive}Усилитель{default} версия {olive}Альфа{default} создатель {olive}Dr.Eggman{default}"
+	}
+	"Announce4"
+	{
+		"en"		"{olive}The Repair Node{default} by {olive}Geel9, Murphy7 and Benjamuffin{default}"
+	}
+	"NoColor1"
+	{
+		"en"		"Say /sel as engineer to select 2nd building. Say /amp_help to show info."
+		"ru"		"Введите /amp для выбора 2го строения Инженера. Введите /amp_help для справи."
+	}
+	"NoColor2"
+	{
+		"en"		"AmpNode version 3.0 by -=|JFH|=-Naris"
+	}
+	"NoColor3"
+	{
+		"en"		"The Amplifier by Dr.Eggman"
+		"ru"		"Усилитель версия Альфа создатель Dr.Eggman"
+	}
+	"NoColor4"
+	{
+		"en"		"The Repair Node by Geel9, Murphy7 and Benjamuffin"
+	}
+	"Select2ndBuilding"
+	{
+		"en"		"Select your 2nd building:"
+		"ru"		"Выберите 2е строение Инженера:"
+	}
+	"Dispenser"
+	{
+		"en"		"Dispenser"
+		"ru"		"Раздатчик"
+	}
+	"Amplifier"
+	{
+		"en"		"Amplifier"
+		"ru"		"Усилитель"
+	}
+	"RepairNode"
+	{
+		"en"		"Repair Node"
+	}
+	"DispenserDontAsk"
+	{
+		"en"		"Dispenser, don't ask me again"
+		"ru"		"Раздатчик, не спрашивать больше"
+	}
+	"AmplifierDontAsk"
+	{
+		"en"		"Amplifier, don't ask me again"
+		"ru"		"Усилитель, не спрашивать больше"
+	}
+	"RepairNodeDontAsk"
+	{
+		"en"		"Repair Node, don't ask me again"
+	}
+	"Help1"
+	{
+		"en"		"=== The Amplifier & Repair Node ==="
+		"ru"		"=== Усилитель ==="
+	}
+	"Help2"
+	{
+		"en"		"The Amplifier gives crits to teammates (and enemy Spies)"
+		"ru"		"Замена Раздатчику, раздающая криты тиммейтам (и вражеским Шпионам)"
+	}
+	"Help3"
+	{
+		"en"		"near it (about 200 feet). You can see the range by how far the waves spread."
+		"ru"		"которые неподалеку (5 метров). Дистанция видна по волнам."
+	}
+	"Help4"
+	{
+		"en"		"The Repair Node automatically repairs any nearby buildings you built"
+	}
+	"Help5"
+	{
+		"en"		"On spawn (or type /amp in chat) select 2 or 5 to use the Amplifier"
+		"ru"		"На возрождении (или вводе в чат /amp) выберите Усилитель (2 или 4)"
+	}
+	"Help6"
+	{
+		"en"		"or 3 or 6 to use the Repair Node, and build a Dispenser"
+		"ru"		"и стройте как Раздатчик"
+	}
+	"Build"
+	{
+		"en"		"What would you like to build?"
+		"ru"		"Выберите 2е строение Инженера:"
+	}
+}

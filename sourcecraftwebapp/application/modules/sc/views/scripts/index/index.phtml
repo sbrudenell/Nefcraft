@@ -1,0 +1,38 @@
+<?php
+
+/**
+ * Default home page view
+ *  
+ * @author
+ * @version
+ */
+
+// Render common HTML header
+echo $this->render('partials/html_header.phtml');
+
+// Render the common page headers
+//echo $this->render('partials/player_list.phtml'); 
+
+$this->headTitle('SourceCraft');
+$this->placeholder('title')->set('Welcome');
+?>
+
+<div class="body_container">
+
+	<h2>Welcome to SourceCraft</h2>
+	<p>
+		<strong>SourceCraft</strong> is a TF2 mod where you gain crystals, experience and some vespene gas for killing opponents and achieving team oriented tasks.
+		When you first join the game, you will be prompted to choose a race.
+	</p>
+	<p>There are many races, each with it's own strengths and weaknesses.  Each race also has certain upgrades or abilities that they can use.
+		As you gather experience, you will increase in level at certain points.  Each time you incease in level, you will be able to add an additional upgrade point to one of the upgrades availabel to your race.
+		Each race has it's own experience points and level, they will NOT move when you change to a different race.
+	</p>
+	<p>
+		When you have gathered enough crystals, you may visit the shopmenu to purchase items.  There are many items, each with it's own ability.  When you die, you will lose all of your items, unless you have purchased the Ankh, which allows you to retain them after death (but you will lose the Ankh itself and have to re-purchase it if desired).
+	</p>
+	<p>
+		Vespene Gas is used by some upgrades and it is also required to purchase some items. 
+	</p>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<?= $this->render('partials/html_footer.phtml'); ?>

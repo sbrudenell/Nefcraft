@@ -1,0 +1,32 @@
+"Phrases"
+{
+	"Enabled Firemines"
+	{
+		"en"			"Firemines plugin is now enabled"
+		"de"			"Firemines Plugin wurde aktiviert"
+	}
+	
+	"Disabled Firemines"
+	{
+		"en"			"Firemines plugin is now disabled"
+		"de"			"Firemines Plugin wurde deaktiviert"
+	}
+
+	"OnDeath Firemines"
+	{
+		"en"			"Pyros will drop Firemines on death"
+		"de"			"Pyros lassen beim sterben Firemines fallen"
+	}
+
+	"OnCommand Firemines"
+	{
+		"en"			"Pyros are able to drop Firemines by using their Flamethrowers secondary fire"
+		"de"			"Pyros können durch ihr alternatives Flammenwerfer Feuer Firemines fallen lassen" 
+	}
+
+	"OnDeathAndCommand Firemines"
+	{
+		"en"			"Pyros will drop Firemines on death and can drop them by using their Flamethrowers secondary fire"
+		"de"			"Pyros lassen beim sterben Firemines oder können durch ihr alternatives Flammenwerfer Feuer Firemines fallen lassen"
+	}
+}

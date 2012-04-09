@@ -1,0 +1,113 @@
+"Phrases"
+{
+	"overseer"
+	{
+		"en"		"Zerg Overseer"
+	}
+
+	"overseer_switch"
+	{
+		"en"		""
+	}
+
+	"overseer_pending"
+	{
+		"en"		""
+	}
+
+	"overseer_image"
+	{
+		"en"		"Zerg/Overseer.png"
+	}
+
+	"overseer_desc"
+	{
+		"en"		"The Zerg incorporated Overlords into the Swarm by assimilating the giant space-faring and semi-intelligent Gargantis proximae and used them to help Cerebrates control and coordinate their Broods, as well as taking the role of scouts, using their enhanced senses. The Overlords have been used for scouting, detection, and transportation in the past, but the Zerg has let a genetic strain of the Overlord develop independently, creating the Overseer, which has specialized in scouting and detection, combating the increased advancement for cloaking  enemies.\nOverseers will also be able to increase the fine-tuning of their senses if they have time to concentrate, increasing their effective sight range. Their ability to detect units will remain more limited, but the Zerg still take great advantage of this increased ability to notice incoming opponents long before they notice the Swarm.\nOverseers use the same type of flying and movement as Overlords using helium-filled gas sacs combined with a weak telekinetic psi-ability for lift and movement."
+	}
+
+	"overseer_pneumatized"
+	{
+		"en"		"Pneumatized Carapace"
+	}
+	"overseer_pneumatized_desc"
+	{
+		"en"		"Allows you to jump higher by reducing your gravity by 8-64%%."
+	}
+
+	"overseer_boost"
+	{
+		"en"		"Metabolic Boost"
+	}
+	"overseer_boost_desc"
+	{
+		"en"		"Gives you a speed boost, 5-20%% faster."
+	}
+
+	"overseer_healing"
+	{
+		"en"		"Healing Aura"
+	}
+	"overseer_healing_desc"
+	{
+		"en"		"Heals all of your teammates in range (It does NOT heal you). Uses 1 energy per player healed."
+	}
+
+	"overseer_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"overseer_regeneration_desc"
+	{
+		"en"		"Regenerates your Health."
+	}
+
+	"overseer_transfusion"
+	{
+		"en"		"Transfusion"
+	}
+	"overseer_transfusion_desc"
+	{
+		"en"		"Supplies your teammates with ammo."
+	}
+
+	"overseer_antennae"
+	{
+		"en"		"Antennae"
+	}
+	"overseer_antennae_desc"
+	{
+		"en"		"Detects cloaked units around you."
+	}
+
+	"overseer_flyer"
+	{
+		"en"		"Flyer"
+	}
+	"overseer_flyer_desc"
+	{
+		"en"		"Allows you to fly until you run out of fuel. Additional levels increases fuel capacity and reduces the time before refueling."
+	}
+
+	"overseer_excrete"
+	{
+		"en"		"Excrete Creep"
+	}
+	"overseer_excrete_desc"
+	{
+		"en"		"Every enemy in 350-900 unit range will be uncloaked, undisguised, detected and ensnarled for 10 seconds."
+	}
+
+	"overseer_sacs"
+	{
+		"en"		"Ventral Sacs"
+	}
+	"overseer_sacs_desc"
+	{
+		"en"		"Transport a teammate, who will be able to use his weapons at levels 3 and 4."
+	}
+
+	"Creep"
+	{
+		"en"		"Creep"
+	}
+}

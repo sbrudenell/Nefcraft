@@ -1,0 +1,169 @@
+"Phrases"
+{
+	"scv"
+	{
+		"en"		"Terran SCV"
+	}
+
+	"scv_switch"
+	{
+		"en"		""
+	}
+
+	"scv_pending"
+	{
+		"en"		""
+	}
+
+	"scv_image"
+	{
+		"en"		"Terran/SCV.png"
+	}
+
+	"scv_desc"
+	{
+		"en"		"The SCV is used to construct and maintain everything from remote outposts to space platforms as well as harvest resources. They are used throughout the Koprulu Sector for their versatility and reliability. The T-280 SCV was widely adopted and became a staple in terran engineering by 2489. The T-280 stands just over three meters tall. It is equipped with fusion cutters and plasma welders. It is also used for general reconstruction efforts. During the reign of the Terran Confederacy, volunteering to pilot an SCV appeared to be an alternative to military service. The PEB (Preferred Experience Base) was hostile environment engineering, with combat experience a plus."
+	}
+
+	"scv_supply_depot"
+	{
+		"en"		"Supply Depot"
+	}
+	"scv_supply_depot_desc"
+	{
+		"en"		"Provides additional ammo or metal."
+	}
+
+	"scv_supply_bunker"
+	{
+		"en"		"Research Supply Bunkers"
+	}
+	"scv_supply_bunker_desc"
+	{
+		"en"		"Your structures become supply bunkers that regenerates the Health, Ammo/Metal and Energy of Teammates near them."
+	}
+
+	"scv_ammopack"
+	{
+		"en"		"Ammopack"
+	}
+	"scv_ammopack_desc"
+	{
+		"en"		"Drop Ammopacks on death. At level 2 and above, Ammopacks can be dropped with alt fire of the wrench (or +ultimate 4, if battlecruiser has not been researched).\nEngineers use metal instead of energy to drop Ammopacks."
+	}
+	"scv_ammopack_dod_desc"
+	{
+		"en"		"Drop Ammopacks on death. At level 2 and above, extra ammopacks can be dropped using the dropammo command (usually h)."
+	}
+
+	"scv_teleporter"
+	{
+		"en"		"Teleportation"
+	}
+	"scv_teleporter_desc"
+	{
+		"en"		"Decreases the recharge rate of your teleporters."
+	}
+
+	"scv_immunity"
+	{
+		"en"		"Immunity"
+	}
+	"scv_immunity_desc"
+	{
+		"en"		"Makes you Immune to: Theft at Level 1,\nUltimates at Level 2,\nMotion Taking at Level 3,\nand Blindness at level 4."
+	}
+
+	"scv_armor"
+	{
+		"en"		"Light Armor"
+	}
+	"scv_armor_desc"
+	{
+		"en"		"A suit of Light Armor that takes damage up to 60%% until it is depleted."
+	}
+
+	"scv_gravgun"
+	{
+		"en"		"Gravity Gun"
+	}
+	"scv_gravgun_desc"
+	{
+		"en"		"Allows you pick to up and move your objects around.\nLevel 2 allows you to pickup other players objects, which can be repaired at Level 3 (while being held) and thrown at Level 4.\nAverages 1 energy per second while in use."
+	}
+	"scv_gravgun_engyonly_desc"
+	{
+		"en"		"Allows Engineers to pick up and move thier objects around..\nLevel 2 allows Engineers to pickup other players objects, which can be repaired at Level 3 (while being held) and thrown at Level 4.\nAverages 1 energy per second while in use."
+	}
+	"scv_gravgun_norepair_desc"
+	{
+		"en"		"Allows you pick to up and move your objects around.\nLevel 2 allows you to pickup other players objects, which can be thrown at Level 4.\nAverages 1 energy per second while in use."
+	}
+	"scv_gravgun_norepair_engyonly_desc"
+	{
+		"en"		"Allows Engineers to pick up and move thier objects around..\nLevel 2 allows Engineers to pickup other players objects, which can be thrown at Level 4.\nAverages 1 energy per second while in use."
+	}
+	"scv_gravgun_notf2_desc"
+	{
+		"en"		"Allows you to pick up objects and move them around.\nAverages 1 energy per second while in use."
+	}
+
+	"scv_bunker"
+	{
+		"en"		"Enter Bunker"
+	}
+	"scv_bunker_desc"
+	{
+		"en"		"Enter the Bunker, which provides additional armor (20-160%) that takes 100%% damage at the cost of becoming immoble while in the bunker."
+	}
+
+	"scv_tripmine"
+	{
+		"en"		"Tripmine"
+	}
+	"scv_tripmine_desc"
+	{
+		"en"		"You will be given a tripmine to plant for every level."
+	}
+
+	"scv_nade"
+	{
+		"en"		"Grenade"
+	}
+	"scv_nade_desc"
+	{
+		"en"		"You will be given a frag grenade and a special grenade to use for every level.\nThrow a frag nade with +ultimate 2 and a special nade with +ultimate 3\nType !nade for more information."
+	}
+
+	"scv_battlecruiser"
+	{
+		"en"		"Build Battlecruiser"
+	}
+	"scv_battlecruiser_desc"
+	{
+		"en"		"You become a Battlecruiser until you die."
+	}
+
+	"scv_amplifier"
+	{
+		"en"		"Research Amplifier"
+	}
+	"scv_amplifier_desc"
+	{
+		"en"		"You can construct Amplifiers instead of Dispensers."
+	}
+
+	"scv_repair_node"
+	{
+		"en"		"Research Repair Node"
+	}
+	"scv_repair_node_desc"
+	{
+		"en"		"You can construct Repair Nodes instead of Dispensers that repair your structures. At level 3 and above they will also repair teammate's structures!"
+	}
+
+	"PreventedFromBuildingBattlecruiser"
+	{
+		"en"		"You have been prevented from Building a {blue}Battlecruiser{default}!"
+	}
+}

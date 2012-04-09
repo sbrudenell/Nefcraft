@@ -1,0 +1,17 @@
+"Phrases"
+{
+	"YouAreRaging"
+	{
+		"en"		"Your are now Raging!"
+	}
+
+	"YouStoppedRaging"
+	{
+		"en"		"Your are no longer Raging!"
+	}
+
+	"RageHud"
+	{
+		"en"		"*** Rage ***"
+	}
+}

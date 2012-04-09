@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"the_sentinel"
+	{
+		"en"		"Sentinel"
+	}
+
+	"the_sentinel_crystal_sound"
+	{
+		"en"		"sc/SentinelNoGold1.wav"
+	}
+
+	"the_sentinel_vespene_sound"
+	{
+		"en"		"sc/SentinelNoLumber1.wav"
+	}
+
+	"the_sentinel_energy_sound"
+	{
+		"en"		"sc/SentinelNoEnergy1.wav"
+	}
+
+	"the_sentinel_level_sound"
+	{
+		"en"		"sc/levelupcaster.mp3"
+	}
+
+	"the_sentinel_image"
+	{
+		"en"		"NightElf/nightelfseal.gif"
+	}
+
+	"the_sentinel_desc"
+	{
+		"en"		"The Sentinel consists of powerful cultures and groups bound not by desperation or necessity, but by their deep commitments to abstract concepts like nobility and honor that stuggles against the Hellbound."
+	}
+}

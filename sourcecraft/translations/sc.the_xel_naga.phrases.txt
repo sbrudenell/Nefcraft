@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"the_xel_naga"
+	{
+		"en"		"Xel'naga"
+	}
+
+	"the_xel_naga_crystal_sound"
+	{
+		"en"		"sc/paderr00.wav"
+	}
+
+	"the_xel_naga_vespene_sound"
+	{
+		"en"		"sc/paderr01.wav"
+	}
+
+	"the_xel_naga_energy_sound"
+	{
+		"en"		"sc/paderr06.wav"
+	}
+
+	"the_xel_naga_level_sound"
+	{
+		"en"		"sc/padupd06.wav"
+	}
+
+	"the_xel_naga_image"
+	{
+		"en"		"Misc/XelNaga2-1.jpg"
+	}
+
+	"the_xel_naga_desc"
+	{
+		"en"		"The xel'naga are a psionically-attuned, ancient, cosmic race. They were occasionally referred to as the most powerful species known in the universe. While there are vague references of the xel'naga conquering worlds and uplifting species, their most notable involvement was with the protoss and zerg. Their interest in these two species was due to the xel'naga's cyclical life cycle. When the incredibly long-lived xel'naga were due to come to an end, the xel'naga would use these two species to be reborn. Ironically their survival was severely jeopardized when the zerg turned on them.\nThe xel'naga cherished all life and refused to kill anything. The protoss eventually followed a version of this philosophy, called the \"Dae'Uhl\".\nThe terminology of the word \"xel'naga\" has been described as a protoss language term meaning \"Wanderers from Afar\" but has also been described as their true name.  The protoss referred to the xel'naga as the Ihan-rii."
+	}
+}

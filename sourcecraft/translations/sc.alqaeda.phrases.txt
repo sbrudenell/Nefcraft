@@ -1,0 +1,73 @@
+"Phrases"
+{
+	"alqaeda"
+	{
+		"en"		"Al-Qaeda"
+	}
+
+	"alqaeda_switch"
+	{
+		"en"		"You have joined {blue}Al-Qaeda{default}."
+	}
+
+	"alqaeda_pending"
+	{
+		"en"		"You will join {blue}Al-Qaeda{default} the next time you spawn."
+	}
+
+	"alqaeda_image"
+	{
+		"en"		"Horde/GoblinSapper.png"
+	}
+
+	"alqaeda_desc"
+	{
+		"en"		"The Al-Qaeda are known for their mischievous streak and aptitude for destruction and once the most lethal of demolitions groups known in the Horde, despite their reluctance to obey orders and adhere to authority. They are Terrorists adorning bandoliers of dynamite and armed with barrels of TNT, detonators, and a vast array of other volatile explosives. The tactic of these demolition squads is pure suicide: trigger the destructive equipment while charging head-on toward the target or obstacle. Despite the mortality rate of the Al-Qaeda’s technique, their specialty in destroying enemies, buildings, and even sheer rock is barely matched by Zerg Banelings.  A great number of Al-Qaeda perished during the last war, mostly as a result of their overzealous use of too many explosives at once. Those who survived have become much more focused in their art, preferring precision to risks."
+	}
+
+	"alqaeda_reincarnation"
+	{
+		"en"		"Reincarnation"
+	}
+	"alqaeda_reincarnation_desc"
+	{
+		"en"		"Gives you a 15-80%% chance of immediately respawning where you died.\nUp to 4 times times in succession, depending on level."
+	}
+
+	"alqaeda_wrath"
+	{
+		"en"		"Flaming Wrath"
+	}
+	"alqaeda_wrath_desc"
+	{
+		"en"		"You cause damage to opponents around you."
+	}
+
+	"sc_flaming_wrath"
+	{
+		"en"		"Flaming Wrath"
+	}
+
+	"alqaeda_suicide_bomb"
+	{
+		"en"		"Suicide Bomber"
+	}
+	"alqaeda_suicide_bomb_desc"
+	{
+		"en"		"You explode when you die, causing great damage to opponents around you\nBlast damage: 300 divided by distance from epicenter\nBlast radius: 100-300"
+	}
+
+	"alqaeda_mad_bomber"
+	{
+		"en"		"Mad Bomber"
+	}
+	"alqaeda_mad_bomber_desc"
+	{
+		"en"		"Use the \"+ultimate 1\" bind to explode and damage the surrounding players, you might even live trough it!\nBlast damage: 25-80 divided by distance from epicenter\nBlast radius: 100-300"
+	}
+
+	"sc_mad_bomber"
+	{
+		"en"		"Mad Bomber"
+	}
+}

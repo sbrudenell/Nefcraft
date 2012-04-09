@@ -1,0 +1,127 @@
+"Phrases"
+{
+	"infestor"
+	{
+		"en"		"Zerg Infestor"
+	}
+
+	"infestor_switch"
+	{
+		"en"		"You have {blue}Evolved{default} into an {blue}Infestor{default}."
+	}
+
+	"infestor_pending"
+	{
+		"en"		""
+	}
+
+	"infestor_image"
+	{
+		"en"		"Zerg/Infestor.jpg"
+	}
+
+	"infestor_desc"
+	{
+		"en"		"The Infestor is a breed of Zerg that inflicts disease and chaos on its enemies through it's powerful biochemical abilities. It shares many characteristics with the Defiler and is likely a genetic offshoot of its predecessor. In addition to its similarities to the defiler this unit also has many new evolutions that are sure to instill fear into the enemies of the swarm. The Infestor does not possess any direct attacks, instead it uses its ability to produce terrifying organisms and bio-chemicals to wreak havoc and destruction upon its opponents.\nIts primary offensive ability is Disease. This ability is very similar to the defiler's Plague and is absolutely devastating against groups of weaker units.  The Infestor also has an Enduring Corruption ability that can be directed at enemy structures, instead of destroying them, it \"corrupts\" them. If that unit's health drops below a critical amount during this time, it becomes corrupted, regardless of which unit landed the final blow. The Infestor can also launch Swarm Infestation, which sends a cloud of spores that tear apart enemies to a distant area."
+	}
+
+	"infestor_armor"
+	{
+		"en"		"Carapace"
+	}
+	"infestor_armor_desc"
+	{
+		"en"		"A hardened carapace that takes damage up to 60%% until it is depleted."
+	}
+
+	"infestor_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"infestor_regeneration_desc"
+	{
+		"en"		"Regenerates your Health."
+	}
+
+	"infestor_consume"
+	{
+		"en"		"Consume Enemy"
+	}
+	"infestor_consume_desc"
+	{
+		"en"		"Gives you a 90%% chance to gain 18-48%% of the\ndamage you did in attack, back as health.\nIt can be blocked if the player is immune."
+	}
+
+	"infestor_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"infestor_regeneration_desc"
+	{
+		"en"		"Regenerates your Health, 4%% per level every second or twice that (8%) if you haven't attacked."
+	}
+
+	"infestor_dark_swarm"
+	{
+		"en"		"Dark Swarm"
+	}
+	"infestor_dark_swarm_desc"
+	{
+		"en"		"Projects a cloud over a 300-1000 units range that makes all ranged attacks mostly useless.\nDark Swarm does not prevent melee damage."
+	}
+
+	"infestor_disease"
+	{
+		"en"		"Disease"
+	}
+	"infestor_disease_desc"
+	{
+		"en"		"Sprays all players in 300-800 units range with spores that inflicts 3*level*duration (up to 48) damage per second for level seconds, ensnares them and is infectious. If killed, they will explode."
+	}
+	"sc_disease"
+	{
+		"en"		"Disease"
+	}
+
+	"infestor_swarm"
+	{
+		"en"		"Swarm Infestation"
+	}
+	"infestor_swarm_desc"
+	{
+		"en"		"Sprays a target area with spores that inflicts severe damage for 18 seconds."
+	}
+
+	"infestor_corruption"
+	{
+		"en"		"Enduring Corruption"
+	}
+	"infestor_corruption_desc"
+	{
+		"en"		"Corrupts (damages) a targeted structure for 5-20 seconds.\nIf it's health drops below 50-90, depending on level, it is corrupted to your side.\nFriendly structures will be healed, including ones corrupted to your side."
+	}
+	"infestor_corruption_nocontrol_desc"
+	{
+		"en"		"Corrupts (damages) a targeted structure for 5-20 seconds.\nFriendly structures will be healed."
+	}
+
+	"UsedLastSwarmInfestation"
+	{
+		"en"		"You have used your last {blue}Swarm Infestation{default}, you can not use it again this life."
+	}
+
+	"UsedSwarmInfestationMustWait"
+	{
+		"#format"	"{1:d},{2:2.0f}"
+		"en"		"You have used {blue}Swarm Infestation{default}, you have {1} remaining and must wait {2} seconds before using it again."
+	}
+	"UsedSwarmInfestation"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have used {blue}Swarm Infestation{default}, you have {1} remaining."
+	}
+	"SwarmInfestationDepleted"
+	{
+		"en"		"{blue}Swarm Infestation{default} has been depleted!"
+	}
+}

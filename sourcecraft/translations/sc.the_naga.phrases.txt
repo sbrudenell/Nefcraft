@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"the_naga"
+	{
+		"en"		"Naga"
+	}
+
+	"the_naga_image"
+	{
+		"en"		"Misc/Naga.jpg"
+	}
+
+	"the_naga_crystal_sound"
+	{
+		"en"		"sc/NagaNoGold1.wav"
+	}
+
+	"the_naga_vespene_sound"
+	{
+		"en"		"sc/NagaNoLumber1.wav"
+	}
+
+	"the_naga_energy_sound"
+	{
+		"en"		"sc/NagaNoMana1.wav"
+	}
+
+	"the_naga_level_sound"
+	{
+		"en"		"sc/NagaUpgradeComplete1.wav"
+	}
+
+	"the_naga_desc"
+	{
+		"en"		"The naga are former Highborne night elves who mutated into vengeful humanoid sea serpents. While many remain on Azeroth to attempt to reclaim the surface world, a large group followed the power-mad betrayer, Illidan Stormrage, into Outland and proceeded to claim the watery areas of the shattered land. In addition to their natural longevity, a number of naga develop mutations that increase their life spans even further. Some are immortal."
+	}
+}

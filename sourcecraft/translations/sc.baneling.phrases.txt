@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"baneling"
+	{
+		"en"		"Baneling"
+	}
+
+	"baneling_switch"
+	{
+		"en"		"You have {blue}Morph{default}ed into a {blue}Baneling{default}!"
+	}
+
+	"baneling_pending"
+	{
+		"en"		"You will {blue}Morph{default} into a {blue}Baneling{default} the next time you spawn!"
+	}
+
+	"baneling_image"
+	{
+		"en"		"Zerg/Baneling.png"
+	}
+
+	"baneling_desc"
+	{
+		"en"		"Banelings are created from zerglings following a brief chrysalis phase. In the new form, the zergling's claws shrivel and become withered, and a swollen sac filled with volatile chemicals grows out of its back.  Banelings can waddle, but after an evolution they can tuck into a tight ball and roll around the battlefield.  The creature's only form of attack is to trigger a reaction within its chemical payload that causes it to explode with devastating force and shower the immediate surroundings with searing acid.  These living bombs are highly effective against both structures and ground forces; in fact, a clutch of them is capable of wiping out a group of vehicles and infantry in the blink of an eye. The banelings' lethality is further enhanced by the zerg predilection for burrowing. An apparently safe area can soon turn into a deathtrap as these monstrosities emerge and roll into the midst of their foes, giving them virtually no time to react."
+	}
+
+	"baneling_hooks"
+	{
+		"en"		"Centrifical Hooks"
+	}
+	"baneling_hooks_desc"
+	{
+		"en"		"Gives you a speed boost, up to 10%% faster."
+	}
+
+	"baneling_adrenal_glands"
+	{
+		"en"		"Adrenal Glands"
+	}
+	"baneling_adrenal_glands_desc"
+	{
+		"en"		"Increases Melee Attack Damage 15-95%%."
+	}
+
+	"baneling_roll"
+	{
+		"en"		"Roll"
+	}
+	"baneling_roll_desc"
+	{
+		"en"		"For 10 seconds, you gain 20-50%% speed."
+	}
+
+	"baneling_explode"
+	{
+		"en"		"Explode"
+	}
+	"baneling_explode_desc"
+	{
+		"en"		"Use the \"+ultimate 3\" bind to explode and damage the surrounding players and buildings,\nwill automatically activate on death."
+	}
+
+	"PreventedFromRolling"
+	{
+		"en"		"You were prevented from {blue}Roll{default}ing!"
+	}
+}

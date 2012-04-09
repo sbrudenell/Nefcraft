@@ -1,0 +1,69 @@
+"Phrases"
+{
+	"human"
+	{
+		"en"		"Human Alliance"
+	}
+
+	"human_switch"
+	{
+		"en"		"You are now part of the {blue}Human Alliance{default}."
+	}
+
+	"human_pending"
+	{
+		"en"		"You will be part of the {blue}Human Alliance{default} the next time you spawn."
+	}
+
+	"human_image"
+	{
+		"en"		"Alliance/PaladinAnim.gif"
+	}
+
+	"human_desc"
+	{
+		"en"		"The noble warriors of humanity employ both a strong military and powerful magics in the defense of their shining kingdoms. Both knights and wizards fight side by side on the field of battle against those who would threaten the sanctity and peace of the Alliance. Although the Alliance has all but fallen apart, the valiant citizens of Azeroth and Lordaeron have once again taken up arms against the enemies of humanity."
+	}
+
+	"human_immunity"
+	{
+		"en"		"Immunity"
+	}
+	"human_immunity_desc"
+	{
+		"en"		"Makes you Immune to: Shop Items at Level 1,\nExplosions at Level 2,\nHealth Taking (Extra Damage) at level 3,\nand Ultimates at Level 4."
+	}
+
+	"human_devotion"
+	{
+		"en"		"Devotion Aura"
+	}
+	"human_devotion_desc"
+	{
+		"en"		"Gives you additional 15-50%% health and armor each time you spawn."
+	}
+
+	"human_bash"
+	{
+		"en"		"Bash"
+	}
+	"human_bash_desc"
+	{
+		"en"		"Gives you a 15-32%% chance to render an enemy immobile for 1 second."
+	}
+
+	"human_teleport"
+	{
+		"en"		"Teleport"
+	}
+	"human_teleport_desc"
+	{
+		"en"		"Allows you to teleport to where you \naim within 300-1500 units.\nThe further you teleport, the more energy it uses."
+	}
+
+	"WasBashed"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} has rendered you immobile with {blue}Bash{default}"
+	}
+}

@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"the_protoss"
+	{
+		"en"		"Protoss"
+	}
+
+	"the_protoss_crystal_sound"
+	{
+		"en"		"sc/paderr00.wav"
+	}
+
+	"the_protoss_vespene_sound"
+	{
+		"en"		"sc/paderr01.wav"
+	}
+
+	"the_protoss_energy_sound"
+	{
+		"en"		"sc/paderr06.wav"
+	}
+
+	"the_protoss_level_sound"
+	{
+		"en"		"sc/padupd06.wav"
+	}
+
+	"the_protoss_image"
+	{
+		"en"		"Protoss/Protoss_Icon.jpg"
+	}
+
+	"the_protoss_desc"
+	{
+		"en"		"The protoss are a sentient humanoid race native to Aiur. They are technologically advanced and rely on psionic abilities and cybernetics in battle. They are the primary opponents of the zerg. The protoss of Aiur are highly religious and follow a strict code known as the Khala. The protoss have mastered their psionic powers and were recently engaged in a devastating war with the zerg. They have also had to deal with civil wars within their ranks.  Protos in Greek means 'first'. This name is given because the protoss were the first semi-successful xel'naga creation. The protoss were later deemed a failure by the greater species, leading to the engineering of the zerg."
+	}
+}

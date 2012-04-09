@@ -1,0 +1,96 @@
+"Phrases"
+{
+	"MiniSentry"
+	{
+		"en"		"Mini Sentry Gun"
+	}
+	"Sentry"
+	{
+		"en"		"Sentry Gun"
+	}
+	"SentryRequiresLevel2"
+	{
+		"en"		"Sentry Gun (Requires Level 2)"
+	}
+	"Amplifier"
+	{
+		"en"		"Amplifier"
+	}
+	"Dispenser"
+	{
+		"en"		"Dispenser"
+	}
+	"RepairNode"
+	{
+		"en"		"Repair Node"
+	}
+	"DestroyStructure"
+	{
+		"en"		"Destroy Structure"
+	}
+	"StructureLimitReached"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You already have {1} {blue}{2}{default}s!"
+	}
+	"NoStructuresToDestroy"
+	{
+		"en"		"You don't have any structures to {blue}Destroy{default}!"
+	}
+	"ChooseAmplifier"
+	{
+		"en"		"Please choose Amplifier type:"
+	}
+	"SlowAmplifier"
+	{
+		"en"		"Slow Amplifier"
+	}
+	"JarAmplifier"
+	{
+		"en"		"Jar Amplifier"
+	}
+	"FireAmplifier"
+	{
+		"en"		"Fire Amplifier"
+	}
+	"TauntAmplifier"
+	{
+		"en"		"Taunt Amplifier"
+	}
+	"UndisguiseAmplifier"
+	{
+		"en"		"Undisguising Amplifier"
+	}
+	"DecloakAmplifier"
+	{
+		"en"		"Decloaking Amplifier"
+	}
+	"BuffAmplifier"
+	{
+		"en"		"Buff Amplifier"
+	}
+	"KritAmplifier"
+	{
+		"en"		"Krit Amplifier"
+	}
+	"UberAmplifier"
+	{
+		"en"		"Uber Amplifier"
+	}
+	"MilkAmplifier"
+	{
+		"en"		"Milk Amplifier"
+	}
+	"DefenseAmplifier"
+	{
+		"en"		"Defense Amplifier"
+	}
+	"BleedAmplifier"
+	{
+		"en"		"Bleed Amplifier"
+	}
+	"StunAmplifier"
+	{
+		"en"		"Stun Amplifier"
+	}
+}

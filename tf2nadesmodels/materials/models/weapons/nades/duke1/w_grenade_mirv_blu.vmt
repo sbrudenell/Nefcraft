@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/nades/duke1/w_grenade_mirv_blu"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]"   //new
+	"$nodecal" 1
+	"$model" 1
+}

@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"PreventedFromRespawningBySilver"
+	{
+		"#format"	"{1:N}"
+		"en"		"You were prevented from {blue}Respawn{default}ing by {olive}{1}{default}'s Silver!"
+	}
+	"RespawnWasPreventedBySilver"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} was prevented from {blue}Respawn{default}ing by your Silver!"
+	}
+	"RespawnPreventedBySilver"
+	{
+		"#format"	"{1:N}"
+		"en"		"You were prevented from {blue}Respawn{default}ing by Silver!"
+	}
+	"RespawnPrevented"
+	{
+		"en"		"You were prevented from {blue}Respawn{default}ing!"
+	}
+	"WillRespawn"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You will {blue}Respawn{default} for the {1}{2} time shortly."
+	}
+	"YouAreRespawning"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You are {blue}Respawn{default}ing for the {1}{2} time."
+	}
+	"IsRespawning"
+	{
+		"#format"	"{1:N},{2:d},{3:s}"
+		"en"		"{olive}{1}{default} is {blue}Respawn{default}ing for the {2}{3} time."
+	}
+}

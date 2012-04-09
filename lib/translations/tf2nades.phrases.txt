@@ -1,0 +1,42 @@
+"Phrases"
+{
+	"WaitingPeriod"
+	{
+		"en"		"Nades are not available at this time."
+	}
+
+	"Nades1Remaining"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have {1} frag nades."
+	}
+
+	"NoNades1"
+	{
+		"en"		"You have no frag nades."
+	}
+
+
+	"Nades2Remaining"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have {1} special nades."
+	}
+
+	"NoNades2"
+	{
+		"en"		"You have no special nades."
+	}
+
+	"OnlyOneNade"
+	{
+		"en"		"You cannot throw more than one nade at a time."
+	}
+
+	"GivenNades"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"You have been given {1} frag nades and {2} special nades."
+	}
+
+}

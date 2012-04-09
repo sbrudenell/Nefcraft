@@ -1,0 +1,99 @@
+"Phrases"
+{
+	"lurker"
+	{
+		"en"		"Zerg Lurker"
+	}
+
+	"lurker_switch"
+	{
+		"en"		"You have emerged in {blue}Lurker Aspect{default}."
+	}
+
+	"lurker_pending"
+	{
+		"en"		""
+	}
+
+	"lurker_image"
+	{
+		"en"		"Zerg/Lurker.png"
+	}
+
+	"lurker_desc"
+	{
+		"en"		"By the time of the Brood War, the zerg had evolved the lurker strain from the hydralisk. The lurker was first observed under the leadership of Infested Kerrigan (although technically, it was their handiwork that was the first indication).  Lurkers serve as defense warriors for hive clusters and outlying zerg colonies. Lurkers emit waves of super-dense spines against their enemies, having a full width of damage of ten meters. However, lurkers must actually burrow underground to release these subterranean attacks. Any warriors on the surface who are caught by these spines are instantly impaled. These spines themselves are capable of tearing into flesh, steel, and even reinforced armor plating. The spines can even be directed downward into open spaces, provided the lurker is underground. The only weakness of the lurker is that it is virtually defenseless while above ground."
+	}
+
+	"lurker_armor"
+	{
+		"en"		"Carapace"
+	}
+	"lurker_armor_desc"
+	{
+		"en"		"A hardened carapace that takes damage up to 90%% until it is depleted."
+	}
+
+	"lurker_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"lurker_regeneration_desc"
+	{
+		"en"		"Regenerates your Health level+1 points/second. The rate doubles when burrowed."
+	}
+
+	"lurker_deep_warren"
+	{
+		"en"		"Deep Warren"
+	}
+	"lurker_deep_warren_desc"
+	{
+		"en"		"Regenerates your Energy while burrowed an additional level points/second."
+	}
+
+	"lurker_augments"
+	{
+		"en"		"Muscular Augments"
+	}
+	"lurker_augments_desc"
+	{
+		"en"		"Gives you a speed boost, up to normal speed."
+	}
+
+	"lurker_missile_attack"
+	{
+		"en"		"Missile Attack"
+	}
+	"lurker_missile_attack_desc"
+	{
+		"en"		"Missiles have a 5-45%% chance to do up to 25-100% more damage."
+	}
+
+	"lurker_poison_spines"
+	{
+		"en"		"Poisonous Spines"
+	}
+	"lurker_poison_spines_desc"
+	{
+		"en"		"Your attacks have a 5-45%% chance to be poisoned, victims explode if killed."
+	}
+
+	"lurker_spine_attack"
+	{
+		"en"		"Spine Attack"
+	}
+	"lurker_spine_attack_desc"
+	{
+		"en"		"Emit waves of supra-dense poisoned spines against your enemies while burrowed, victims explode if killed."
+	}
+	"sc_spine_attack"
+	{
+		"en"		"Spine Attack"
+	}
+
+	"SpineAttackNotBurrowed"
+	{
+		"en"		"{blue}Spine Attack{default} is only available when completely {blue}Burrowed{default}!"
+	}
+}

@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"PreventedFromReincarnatingBySilver"
+	{
+		"#format"	"{1:N}"
+		"en"		"You were prevented from {blue}Reincarnat{default}ing by {olive}{1}{default}'s Silver!"
+	}
+	"ReincarnateWasPreventedBySilver"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} was prevented from {blue}Reincarnat{default}ing by your Silver!"
+	}
+	"ReincarnatePreventedBySilver"
+	{
+		"#format"	"{1:N}"
+		"en"		"You were prevented from {blue}Reincarnat{default}ing by Silver!"
+	}
+	"ReincarnatePrevented"
+	{
+		"en"		"You were prevented from {blue}Reincarnat{default}ing!"
+	}
+	"WillReincarnate"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You will {blue}Reincarnate{default} for the {1}{2} time shortly."
+	}
+	"YouAreReincarnating"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You are {blue}Reincarnat{default}ing for the {1}{2} time."
+	}
+	"IsReincarnating"
+	{
+		"#format"	"{1:N},{2:d},{3:s}"
+		"en"		"{olive}{1}{default} is {blue}Reincarnat{default}ing for the {2}{3} time."
+	}
+}

@@ -1,0 +1,12 @@
+"Phrases"
+{
+	"PreventedFromDetonatingD8"
+	{
+		"en"		"You have been prevented from {blue}Detonating{default} or {blue}Defusing{default} a {blue}D8 Charge{default}!"
+	}
+
+	"PreventedFromPlantingD8"
+	{
+		"en"		"You have been prevented from {blue}Planting{default} a {blue}D8 Charge{default}!"
+	}
+}

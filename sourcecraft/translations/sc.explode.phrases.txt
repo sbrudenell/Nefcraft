@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"PreventedFromExploding"
+	{
+		"en"		"You were prevented from {blue}Explod{default}ing!"
+	}
+}

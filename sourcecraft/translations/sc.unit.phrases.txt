@@ -1,0 +1,51 @@
+"Phrases"
+{
+	"biological"
+	{
+		"en"		"Biological"
+	}
+	"mechanical"
+	{
+		"en"		"Mechanical"
+	}
+	"bio-mechanical"
+	{
+		"en"		"BioMechanical"
+	}
+	"robotic"
+	{
+		"en"		"Robotic"
+	}
+	"energy"
+	{
+		"en"		"Energy"
+	}
+	"magical"
+	{
+		"en"		"Magical"
+	}
+	"mystical"
+	{
+		"en"		"Mystical"
+	}
+	"elemental"
+	{
+		"en"		"Elemental"
+	}
+	"undead"
+	{
+		"en"		"Undead"
+	}
+	"demonic"
+	{
+		"en"		"Demonic"
+	}
+	"cybernetic"
+	{
+		"en"		"Cybernetic"
+	}
+	"flyer"
+	{
+		"en"		"Flyer"
+	}
+}

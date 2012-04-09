@@ -1,0 +1,138 @@
+"Phrases"
+{
+	"prism"
+	{
+		"en"		"Protoss Phase Prism"
+	}
+
+	"prism_switch"
+	{
+		"en"		"You have {blue}Summoned Phase Prism{default}!"
+	}
+
+	"prism_pending"
+	{
+		"en"		""
+	}
+
+	"prism_image"
+	{
+		"en"		"Protoss/PhasePrismPhasing.png"
+	}
+
+	"prism_desc"
+	{
+		"en"		"The protoss warp prism, formerly known as the phase prism, is an automated vessel, controlled by a robotic mind whose programming is built into the molecules of an advanced crystal lattice. This \"crystal computer\" is able to manipulate matter and energy with great precision.\nThe protoss use warp prisms in several ways. The primary function of a warp prism is to transport protoss forces on the battlefield. Living and inorganic subjects are transformed into energy, and their unique signature imprinted into the prism's crystal lattice core. On reaching the desired destination the operation is reversed and the stored energy signatures are reconfigured into matter in proximity to the warp prism. A secondary but no less vital function of the warp prism is to act as a mobile focus for the protoss psionic matrix. Once the Prism is deployed it can power protoss structures around it. In this configuration warp prisms can be used to temporarily replace destroyed pylons in a colony or enable the rapid establishment of a forward base of operations."
+	}
+
+	"prism_shields"
+	{
+		"en"		"Plasma Shields"
+	}
+	"prism_shields_desc"
+	{
+		"en"		"You are enveloped in re-generating Plasma Shields that protect you from 10%%-60%% damage while it is active."
+	}
+
+	"prism_batteries"
+	{
+		"en"		"Shield Batteries"
+	}
+	"prism_batteries_desc"
+	{
+		"en"		"Regenerates the Health, Metal and/or Ammo of your Structures.\nAlso regenerates the Energy, Health, Metal and/or Ammo of Teammates near your Structures."
+	}
+	"prism_batteries_nosentries_desc"
+	{
+		"en"		"Regenerates the Energy, Health, Metal and/or Ammo of teammates around your Structures."
+	}
+
+	"prism_forge"
+	{
+		"en"		"Forge"
+	}
+	"prism_forge_desc"
+	{
+		"en"		"Builds Structures with increased Health, Metal and/or Ammo."
+	}
+
+	"prism_warp_gate"
+	{
+		"en"		"Warp Gate"
+	}
+	"prism_warp_gate_desc"
+	{
+		"en"		"Decreases the recharge rate of your teleporters."
+	}
+
+	"prism_phase_cannon"
+	{
+		"en"		"Phase Cannon"
+	}
+	"prism_phase_cannon_desc"
+	{
+		"en"		"All attacks for you and teammates within range of your structures will fire an encapsulated antimatter sphere that has a 20-90%% chance to do 14-63%% extra damage and drain energy."
+	}
+	"prism_phase_cannon_notf2_desc"
+	{
+		"en"		"All attacks will fire an encapsulated antimatter sphere that has a 20-90%% chance to do 14-63%% extra damage and drain energy."
+	}
+	"sc_phase_cannon"
+	{
+		"en"		"Phase Cannon"
+	}
+
+	"prism_speed"
+	{
+		"en"		"Gravitic Enhancement"
+	}
+	"prism_speed_desc"
+	{
+		"en"		"Gives you a speed boost, 15-30%% faster."
+	}
+
+	"prism_jetpack"
+	{
+		"en"		"Gravitic Drive"
+	}
+	"prism_jetpack_desc"
+	{
+		"en"		"Allows you to fly until you run out of fuel. Additional levels increases fuel capacity and reduces the time before refueling."
+	}
+
+	"prism_warp_in"
+	{
+		"en"		"Warp In"
+	}
+	"prism_warp_in_desc"
+	{
+		"en"		"Allows any class to warp in 1-3 structures depending on level."
+	}
+	"prism_warp_in_engyonly_desc"
+	{
+		"en"		"Allows Engineers to warp in 1-3 structures depending on level."
+	}
+
+	"prism_recall_structure"
+	{
+		"en"		"Recall Structure"
+	}
+	"prism_recall_structure_desc"
+	{
+		"en"		"Recall (Teleport) the chosen structure to your current position."
+	}
+
+	"prism_recall_team"
+	{
+		"en"		"Recall Team"
+	}
+	"prism_recall_team_desc"
+	{
+		"en"		"All teammates (that consent) will be teleported to your location."
+	}
+
+	"WarpInTitle"
+	{
+		"en"		"Warp In Structure"
+	}
+}

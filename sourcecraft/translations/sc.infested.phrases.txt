@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"infested"
+	{
+		"en"		"Infested"
+	}
+
+	"infested_switch"
+	{
+		"en"		"You have been {red}Infested{default}!"
+	}
+
+	"infested_pending"
+	{
+		"en"		"You will become {red}Infested{default} the next time you spawn!"
+	}
+
+	"infested_image"
+	{
+		"en"		"Zerg/InfestedMarine.jpg"
+	}
+
+	"infested_desc"
+	{
+		"en"		"Infested terrans have more hit points than terran marines and much greater speed. They don't normally have a regular attack, but can explode to cause explosive damage. This will destroy many structures and nearly any ground unit. An infested terran is created when a terran is infected with the zerg hyper-evolutionary virus. The victim usually loses most of their intelligence and sanity, as their mind becomes consumed by the zerg. Most become stronger, faster, tougher, and develop the ability to burrow, as well as other typical zerg traits (the ability to quickly heal wounds, psionic sensitivity, and so forth). In addition, most infested terrans can explode, sacrificing themselves in a splash of toxic fluid. The resulting explosion has a ten meter radius, a large shockwave and can destroy small structures.\nIn appearance, an infested terran looks \"as if it had been redesigned by a madman who had too many spare parts left over from a variety of faction.\" Growths and tentacles extrude from the body, with ruptured, sunken-in features and festering skin, albeit covered with carapace.\nThe zerg believed they needed the use of psionic powers to defeat the protoss. The terrans were the only faction they discovered with psionic potential powerful enough to help them achieve victory. However, most terrans aren't psychic, and even those that are, are not necessarily genetically compatible (meaning they would lose their intelligence and any psionic powers).  Most infested terrans, being failures, were used as disposable drones.  As of 2505, Infested Kerrigan solved the problem of infested terran sentience, and could reliably create them. She would use some as her consorts and generals."
+	}
+
+	"infested_disarming"
+	{
+		"en"		"Disarming"
+	}
+	"infested_disarming_desc"
+	{
+		"en"		"You are disarmed and left with no weapons. Unavoidable."
+	}
+
+	"infested_boost"
+	{
+		"en"		"Metabolic Boost"
+	}
+	"infested_boost_desc"
+	{
+		"en"		"Gives you a speed boost, up to 11%% faster."
+	}
+
+	"infested_explode"
+	{
+		"en"		"Explode"
+	}
+	"infested_explode_desc"
+	{
+		"en"		"Use +ultimate 1 to explode and damage everyone, including your team mates, and all buildings,\nwill automatically activate on death. Higher levels reduce range & damage. Unavoidable."
+	}
+
+	"InfestedHud"
+	{
+		"en"		"*** Infested ***"
+	}
+}

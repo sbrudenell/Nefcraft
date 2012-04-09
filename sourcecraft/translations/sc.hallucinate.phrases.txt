@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"YouAreHallucinating"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} has caused you to {blue}Hallucinate{default}!"
+	}
+	"IsHallucinating"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} is now {blue}Hallucinat{default}ing!"
+	}
+}

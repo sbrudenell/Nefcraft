@@ -1,0 +1,127 @@
+"Phrases"
+{
+	"overlord"
+	{
+		"en"		"Zerg Overlord"
+	}
+
+	"overlord_switch"
+	{
+		"en"		""
+	}
+
+	"overlord_pending"
+	{
+		"en"		""
+	}
+
+	"overlord_image"
+	{
+		"en"		"Zerg/Overlord.png"
+	}
+
+	"overlord_desc"
+	{
+		"en"		"Overlords were evolved from the Gargantis proximae, a faction of giant space-faring and semi-intelligent creatures. Once assimilated they were used to help cerebrates control and coordinate their broods and scout using their enhanced senses. Advanced strains may carry other zerg within hollows in their hides. Despite resembling the Portuguese man-o-war of Earth, they are fairly docile creatures that in addition to their leadership duties, tend to young larvae and transport other zerg across the depths of space by carrying them within their shelled bodies.  Overlords fly using helium-filled gas sacs combined with a weak telekinetic psi-ability for lift and motive power. They are protected by an exoskeleton, strong enough to resist a lightning strike."
+	}
+
+	"overlord_pneumatized"
+	{
+		"en"		"Pneumatized Carapace"
+	}
+	"overlord_pneumatized_desc"
+	{
+		"en"		"Allows you to jump higher by reducing your gravity by 8-64%%."
+	}
+
+	"overlord_boost"
+	{
+		"en"		"Metabolic Boost"
+	}
+	"overlord_boost_desc"
+	{
+		"en"		"Gives you a speed boost, 5-20%% faster."
+	}
+
+	"overlord_healing"
+	{
+		"en"		"Healing Aura"
+	}
+	"overlord_healing_desc"
+	{
+		"en"		"Heals all of your teammates in range (It does NOT heal you). Uses 1 energy per player healed."
+	}
+
+	"overlord_regeneration"
+	{
+		"en"		"Regeneration"
+	}
+	"overlord_regeneration_desc"
+	{
+		"en"		"Regenerates your Health."
+	}
+
+	"overlord_transfusion"
+	{
+		"en"		"Transfusion"
+	}
+	"overlord_transfusion_desc"
+	{
+		"en"		"Supplies your teammates with ammo."
+	}
+
+	"overlord_antennae"
+	{
+		"en"		"Antennae"
+	}
+	"overlord_antennae_desc"
+	{
+		"en"		"Detects cloaked units around you."
+	}
+
+	"overlord_flyer"
+	{
+		"en"		"Flyer"
+	}
+	"overlord_flyer_desc"
+	{
+		"en"		"Allows you to fly until you run out of fuel. Additional levels increases fuel capacity and reduces the time before refueling."
+	}
+
+	"overlord_excrete"
+	{
+		"en"		"Excrete Creep"
+	}
+	"overlord_excrete_desc"
+	{
+		"en"		"Every enemy in 350-900 unit range will be uncloaked, undisguised, detected and ensnared for 10 seconds."
+	}
+
+	"overlord_sacs"
+	{
+		"en"		"Ventral Sacs"
+	}
+	"overlord_sacs_desc"
+	{
+		"en"		"Transport a teammate, who will be unable to use his weapons."
+	}
+
+	"overlord_overseer"
+	{
+		"en"		"Overseer Morph"
+	}
+	"overlord_overseer_desc"
+	{
+		"en"		"You become an Overseer until you die."
+	}
+
+	"PreventedFromOverseer"
+	{
+		"en"		"You have been prevented from {blue}Morphing{default} into an {blue}Overseer{default}!"
+	}
+
+	"Creep"
+	{
+		"en"		"Creep"
+	}
+}

@@ -1,0 +1,99 @@
+"Phrases"
+{
+	"sc_mole_reflection"
+	{
+		"en"		"Mole Reflection"
+	}
+	"sc_item_claws"
+	{
+		"en"		"Claws of Attack"
+	}
+	"sc_plague"
+	{
+		"en"		"Plague"
+	}
+	"sc_explode"
+	{
+		"en"		"Explode"
+	}
+	"sc_suicide_bomb"
+	{
+		"en"		"Suicide Bomb"
+	}
+	"sc_blades"
+	{
+		"en"		"Psi-Blades"
+	}
+	"sc_adrenal_glands"
+	{
+		"en"		"Adrenal Glands"
+	}
+	"sc_shockwave"
+	{
+		"en"		"Psionic Shockwave"
+	}
+	"sc_ultimate_feedback"
+	{
+		"en"		"Ultimate Feedback"
+	}
+	"sc_air_weapons"
+	{
+		"en"		"Air Weapons"
+	}
+	"sc_ground_weapons"
+	{
+		"en"		"Ground Weapons"
+	}
+	"sc_charge"
+	{
+		"en"		"Charge"
+	}
+	"sc_scarab_attack"
+	{
+		"en"		"Scarab Attack"
+	}
+	"sc_feedback"
+	{
+		"en"		"Feedback"
+	}
+	"sc_u238_shells"
+	{
+		"en"		"Depleted U-238 Shells"
+	}
+	"sc_d8charge"
+	{
+		"en"		"D8 Charge"
+	}
+	"sc_infantry_weapons"
+	{
+		"en"		"Infantry Weapons"
+	}
+	"sc_infection"
+	{
+		"en"		"Infection"
+	}
+	"sc_fresca"
+	{
+		"en"		"Fresca"
+	}
+	"sc_consume"
+	{
+		"en"		"Consume Enemy"
+	}
+	"sc_missile_attack"
+	{
+		"en"		"Missile Attack"
+	}
+	"sc_poison_spines"
+	{
+		"en"		"Poison Spines"
+	}
+	"sc_spine_poison"
+	{
+		"en"		"Spine Poison"
+	}
+	"sc_lurkerpoison"
+	{
+		"en"		"Lurker Poison"
+	}
+}

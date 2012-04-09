@@ -1,0 +1,89 @@
+"Phrases"
+{
+	"nightelf"
+	{
+		"en"		"Night Elf"
+	}
+
+	"nightelf_switch"
+	{
+		"en"		""
+	}
+
+	"nightelf_pending"
+	{
+		"en"		""
+	}
+
+	"nightelf_image"
+	{
+		"en"		"NightElf/KeeperAnim.gif"
+	}
+
+	"nightelf_desc"
+	{
+		"en"		"The reclusive Night Elves were the first race to awaken in the World. These shadowy, immortal beings were the first to study magic and let it loose throughout the world nearly ten thousand years ago. The Night Elves' reckless use of magic drew the Burning Legion into the world and led to a catastrophic war between the two titanic races. The Night Elves barely managed to banish the Legion from the world, but their wondrous homeland was shattered and drowned by the sea. Ever since, the Night Elves refused to use magic for fear that the dreaded Legion would return. The Night Elves closed themselves off from the rest of the world and remained hidden atop their holy mountain of Hyjal for many thousands of years. As a race, Night Elves are typically honorable and just, but they are very distrusting of the 'lesser races' of the world. They are nocturnal by nature and their shadowy powers often elicit the same distrust that they have for their mortal neighbors."
+	}
+
+	"nightelf_evasion"
+	{
+		"en"		"Evasion"
+	}
+
+	"nightelf_evasion_desc"
+	{
+		"en"		"Gives you 5-30%% chance of evading a shot."
+	}
+
+	"nightelf_thorns"
+	{
+		"en"		"Thorns Aura"
+	}
+
+	"nightelf_thorns_desc"
+	{
+		"en"		"Does 30-90% mirror damage to the person who shot you, the chance to activate is 15-50%%."
+	}
+
+	"sc_thorns"
+	{
+		"en"		"Thorns Aura"
+	}
+
+	"nightelf_trueshot"
+	{
+		"en"		"Trueshot Aura"
+	}
+
+	"nightelf_trueshot_desc"
+	{
+		"en"		"Does 20-80%% extra damage to the enemy, the chance to activate is 30-60%%."
+	}
+
+	"sc_trueshot"
+	{
+		"en"		"Trueshot Aura"
+	}
+
+	"nightelf_roots"
+	{
+		"en"		"Entangling Roots"
+	}
+
+	"nightelf_roots_desc"
+	{
+		"en"		"Bind enemies (within 300-800 units) to the ground rendering them immobile for 10 seconds."
+	}
+
+	"HasEntangled"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} has entangled you with {blue}Entangled Roots{default}!"
+	}
+
+	"ToEntangleEnemies"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have used {blue}Entangled Roots{default} to entangle {1} enemies!"
+	}
+}

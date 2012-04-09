@@ -1,0 +1,21 @@
+"Phrases"
+{
+	"MutateTitle"
+	{
+		"en"		"Mutate Into:"
+	}
+	"MutateLimitReached"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"You can not {blue}Mutate{default} into a {blue}{1}{default}, you already have {2} of them!"
+	}
+	"Mutated"
+	{
+		"#format"	"{1:s}"
+		"en"		"You have {blue}Mutate{default}d into a {blue}{1}{default}!"
+	}
+	"UnableToMutate"
+	{
+		"en"		"Unable to {blue}Mutate{default} at this time!"
+	}
+}

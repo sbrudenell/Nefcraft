@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"the_titans"
+	{
+		"en"		"Titans"
+	}
+
+	"the_titans_crystal_sound"
+	{
+		"en"		"sc/NagaNoGold1.wav"
+	}
+
+	"the_titans_vespene_sound"
+	{
+		"en"		"sc/NagaNoLumber1.wav"
+	}
+
+	"the_titans_energy_sound"
+	{
+		"en"		"sc/NagaNoMana1.wav"
+	}
+
+	"the_titans_level_sound"
+	{
+		"en"		"sc/NagaUpgradeComplete1.wav"
+	}
+
+	"the_titans_image"
+	{
+		"en"		"Misc/Jotun.jpg"
+	}
+
+	"the_titans_desc"
+	{
+		"en"		"The Titans, also known as the Makers, the Travelers (to the trolls), or the Great Ones (to the Oracles), are a race of extremely powerful, majestic creatures, akin to gods. These metallic giants traveled across the cosmos bringing order to worlds. Many believe them to simply be a progenitor race."
+	}
+}

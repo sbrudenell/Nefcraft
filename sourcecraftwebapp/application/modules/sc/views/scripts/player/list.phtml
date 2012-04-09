@@ -1,0 +1,52 @@
+<?php
+/**
+ * Player display page view
+ * 
+ * @version $Id: show.phtml,v 1.4 2007-12-04 16:54:49 seva Exp $
+ */
+
+require_once 'Zend/Controller/Front.php';
+
+// Render common HTML header
+echo $this->render('partials/html_header.phtml');
+
+?>
+
+	<h2>Player List:</h2>
+<?php if (isset($this->error)): ?>
+	<div class="error">
+		<?= $this->escape($this->error); ?>
+	</div>
+<?php elseif (count($this->paginator)): ?>
+	<table class="player_list">
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Steam ID</th>
+			<th>Overall Level</th>
+			<th>Crystals</th>
+			<th>Vespene</th>
+		</tr>
+<?php foreach ($this->paginator as $item): ?>
+		<tr>
+			<td><a href="<?= Zend_Controller_Front::getInstance()->getBaseUrl() . 
+			'/sc/player/find/ident/' . urlencode($item['player_ident']) ?>"><?= 
+				htmlspecialchars($item['player_ident']) ?></a></td>
+			<td><a href="<?= Zend_Controller_Front::getInstance()->getBaseUrl() . 
+			'/sc/player/show/pname/' . urlencode($item['name']) ?>"><?= 
+				htmlspecialchars($item['name']) ?></a></td>
+			<td><a href="<?= Zend_Controller_Front::getInstance()->getBaseUrl() . 
+			'/sc/player/show/steamid/' . urlencode($item['steamid']) ?>"><?= 
+				htmlspecialchars($item['steamid']) ?></a></td>
+			<td><?= $this->escape($item['overall_level']) ?></td>
+			<td><?= $this->escape($item['crystals']) ?></td>
+			<td><?= $this->escape($item['vespene']) ?></td>
+		</tr>
+<?php endforeach; ?>
+	</table>
+	<?= $this->paginationControl($this->paginator, 'Sliding', 'pagination_control.phtml'); ?>
+<?php else: ?>
+	No player has been selected.
+<?php endif; ?>
+
+<?= $this->render('partials/html_footer.phtml'); ?>

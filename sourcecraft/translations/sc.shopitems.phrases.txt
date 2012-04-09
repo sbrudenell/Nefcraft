@@ -1,0 +1,499 @@
+"Phrases"
+{
+	"blinders"
+	{
+		"en"		"Blinders"
+	}
+	"blinders_desc"
+	{
+		"en"		"Converts Hallucination and other effects that might cause queasiness or seizures to blindness."
+	}
+	"blinders_category"
+	{
+		"en"		"Protective Items"
+	}
+	"ankh"
+	{
+		"en"		"Ankh of Reincarnation"
+	}
+	"ankh_desc"
+	{
+		"en"		"If you die you will retrieve your shopitems the following life."
+	}
+	"ankh_category"
+	{
+		"en"		"Protective Items"
+	}
+	"boots"
+	{
+		"en"		"Boots of Speed"
+	}
+	"boots_desc"
+	{
+		"en"		"Allows you to move faster."
+	}
+	"boots_category"
+	{
+		"en"		"Enhancement Items"
+	}
+	"claws"
+	{
+		"en"		"Claws of Attack"
+	}
+	"claws_desc"
+	{
+		"en"		"Up to an additional 8 hp will be removed from the enemy on every successful attack."
+	}
+	"claws_category"
+	{
+		"en"		"Combative Items"
+	}
+	"cloak"
+	{
+		"en"		"Cloak of Shadows"
+	}
+	"cloak_desc"
+	{
+		"en"		"Makes you invisible for 10 seconds\nwhen standing still AND holding a melee weapon.\nAlso makes you immune to uncloaking and invisible to homing missiles."
+	}
+	"cloak_noinvis_desc"
+	{
+		"en"		"Makes you immune to uncloaking and invisible to homing missiles."
+	}
+	"cloak_category"
+	{
+		"en"		"Defensive Items"
+	}
+	"darkness"
+	{
+		"en"		"Cloak of Darkness"
+	}
+	"darkness_desc"
+	{
+		"en"		"Makes you immune to detection and invisible to homing missiles."
+	}
+	"darkness_category"
+	{
+		"en"		"Defensive Items"
+	}
+	"mask"
+	{
+		"en"		"Mask of Death"
+	}
+	"mask_desc"
+	{
+		"en"		"You will receive health for every hit on the enemy."
+	}
+	"mask_category"
+	{
+		"en"		"Defensive Items"
+	}
+	"necklace"
+	{
+		"en"		"Necklace of Immunity"
+	}
+	"necklace_desc"
+	{
+		"en"		"You will be immune to enemy ultimates."
+	}
+	"necklace_category"
+	{
+		"en"		"Protective Items"
+	}
+	"jacket"
+	{
+		"en"		"Flack Jacket"
+	}
+	"jacket_desc"
+	{
+		"en"		"You will be immune to explosives."
+	}
+	"jacket_category"
+	{
+		"en"		"Protective Items"
+	}
+	"antibiotic"
+	{
+		"en"		"Antibiotic"
+	}
+	"antibiotic_desc"
+	{
+		"en"		"Cures (or Prevents one) Infection."
+	}
+	"antibiotic_category"
+	{
+		"en"		"Protective Items"
+	}
+	"antivenom"
+	{
+		"en"		"Antivenom"
+	}
+	"antivenom_desc"
+	{
+		"en"		"Cures and Prevents Poisoning."
+	}
+	"antivenom_category"
+	{
+		"en"		"Protective Items"
+	}
+	"antirad"
+	{
+		"en"		"Antirad"
+	}
+	"antirad_desc"
+	{
+		"en"		"Cures and Prevents Radiation Poisoning."
+	}
+	"antirad_category"
+	{
+		"en"		"Protective Items"
+	}
+	"antidote"
+	{
+		"en"		"Antidote"
+	}
+	"antidote_desc"
+	{
+		"en"		"Cures and Prevents Infection, Radiation and/or Poisoning."
+	}
+	"antidote_category"
+	{
+		"en"		"Protective Items"
+	}
+	"restoration"
+	{
+		"en"		"Potion of Restoration"
+	}
+	"restoration_desc"
+	{
+		"en"		"Cures most ills and adverse effects."
+	}
+	"restoration_category"
+	{
+		"en"		"Protective Items"
+	}
+	"goggles"
+	{
+		"en"		"Goggles"
+	}
+	"goggles_desc"
+	{
+		"en"		"Makes you immune to blindness, hallucinations, etc."
+	}
+	"goggles_category"
+	{
+		"en"		"Protective Items"
+	}
+	"lube"
+	{
+		"en"		"Lubricant"
+	}
+	"lube_desc"
+	{
+		"en"		"Ensures you are able to move freely about, and it feels so good! Yum Yum!"
+	}
+	"lube_category"
+	{
+		"en"		"Protective Items"
+	}
+	"orb"
+	{
+		"en"		"Orb of Frost"
+	}
+	"orb_desc"
+	{
+		"en"		"Slows your enemy down when you hit him."
+	}
+	"orb_category"
+	{
+		"en"		"Combative Items"
+	}
+	"fire"
+	{
+		"en"		"Orb of Fire"
+	}
+	"fire_desc"
+	{
+		"en"		"Sets your enemy on fire when you hit him."
+	}
+	"fire_category"
+	{
+		"en"		"Combative Items"
+	}
+	"silver"
+	{
+		"en"		"Silver Ammo"
+	}
+	"silver_desc"
+	{
+		"en"		"Prevents your enemy from reincarnating when you kill him."
+	}
+	"silver_category"
+	{
+		"en"		"Combative Items"
+	}
+	"periapt"
+	{
+		"en"		"Periapt of Health"
+	}
+	"periapt_desc"
+	{
+		"en"		"Receive 50 extra health."
+	}
+	"periapt_category"
+	{
+		"en"		"Enhancement Items"
+	}
+	"tome"
+	{
+		"en"		"Tome of Experience"
+	}
+	"tome_desc"
+	{
+		"en"		"Automatically gain 100 experience, this item is used on purchase."
+	}
+	"tome_category"
+	{
+		"en"		"Enhancement Items"
+	}
+	"magnifier"
+	{
+		"en"		"Experience Magnifier"
+	}
+	"magnifier_desc"
+	{
+		"en"		"Experience multiplied by 1.5 for remainder of current life. Not affected by the Ankh."
+	}
+	"magnifier_category"
+	{
+		"en"		"Enhancement Items"
+	}
+	"scroll"
+	{
+		"en"		"Scroll of Respawning"
+	}
+	"scroll_desc"
+	{
+		"en"		"You will respawn immediately after death."
+	}
+	"scroll_category"
+	{
+		"en"		"Enhancement Items"
+	}
+	"sock"
+	{
+		"en"		"Sock of the Feather"
+	}
+	"sock_desc"
+	{
+		"en"		"You will be able to jump higher."
+	}
+	"sock_category"
+	{
+		"en"		"Enhancement Items"
+	}
+	"ammo"
+	{
+		"en"		"Infinite Ammo Pack"
+	}
+	"ammo_desc"
+	{
+		"en"		"You will be given ammo or metal every 10 seconds."
+	}
+	"ammo_category"
+	{
+		"en"		"Defensive Items"
+	}
+	"sack"
+	{
+		"en"		"Sack of Looting"
+	}
+	"sack_desc"
+	{
+		"en"		"Gives you a 55-85%% chance to loot up to 25-50%% of a corpse's crystals.\nMelee weapons increases the odds and amount of crystals stolen.\nBackstabbing further increases the odds and amount!"
+	}
+	"sack_category"
+	{
+		"en"		"Combative Items"
+	}
+	"lockbox"
+	{
+		"en"		"Lockbox"
+	}
+	"lockbox_desc"
+	{
+		"en"		"A lockbox to keep your crystals safe from theft."
+	}
+	"lockbox_category"
+	{
+		"en"		"Protective Items"
+	}
+	"ring+1"
+	{
+		"en"		"Ring of Regeneration + 1"
+	}
+	"ring+1_desc"
+	{
+		"en"		"Gives 1 health every 2 seconds, won't exceed your normal HP."
+	}
+	"ring+1_category"
+	{
+		"en"		"Enhancement Items"
+	}
+	"ring+3"
+	{
+		"en"		"Ring of Regeneration + 3"
+	}
+	"ring+3_desc"
+	{
+		"en"		"Gives 3 health every 2 seconds, won't exceed your normal HP."
+	}
+	"ring+3_category"
+	{
+		"en"		"Enhancement Items"
+	}
+	"ring+5"
+	{
+		"en"		"Ring of Regeneration + 5"
+	}
+	"ring+5_desc"
+	{
+		"en"		"Gives 5 health every 2 seconds, won't exceed your normal HP."
+	}
+	"ring+5_category"
+	{
+		"en"		"Enhancement Items"
+	}
+	"mole"
+	{
+		"en"		"Mole"
+	}
+	"mole_desc"
+	{
+		"en"		"Tunnel to the enemy's spawn to get a quick couple of kills and perhaps become a PITA."
+	}
+	"mole_category"
+	{
+		"en"		"Mole Related Items"
+	}
+	"protection"
+	{
+		"en"		"Mole Protection"
+	}
+	"protection_desc"
+	{
+		"en"		"Deflect some damage from the mole to give yourself a fighting chance."
+	}
+	"protection_category"
+	{
+		"en"		"Mole Related Items"
+	}
+	"reflection"
+	{
+		"en"		"Mole Reflection"
+	}
+	"reflection_desc"
+	{
+		"en"		"Reflect some damage back to the mole\nto give yourself a fighting chance."
+	}
+	"reflection_category"
+	{
+		"en"		"Mole Related Items"
+	}
+	"retention"
+	{
+		"en"		"Mole Retention"
+	}
+	"retention_desc"
+	{
+		"en"		"Keep your Mole Protection and/or Reflection\nafter you die until it is used."
+	}
+	"retention_category"
+	{
+		"en"		"Mole Related Items"
+	}
+	"gloves"
+	{
+		"en"		"Flaming Gloves of Warmth"
+	}
+	"gloves_desc"
+	{
+		"en"		"You will be given a grenade every 20 seconds.\nBind a key to \"+item 1\" or \"+nade1\" (to throw a frag grenade\nBind another key to \"+item 2\" or \"+nade2\" to throw a special grenade\nType !nade for more information."
+	}
+	"gloves_category"
+	{
+		"en"		"Weapons"
+	}
+	"tripmine"
+	{
+		"en"		"Tripmine"
+	}
+	"tripmine_desc"
+	{
+		"en"		"You will be given 1 tripmine to plant.\nBind a key to \"+item 4\" or \"sm_tripmine\" to plant the tripmine."
+	}
+	"tripmine_category"
+	{
+		"en"		"Weapons"
+	}
+	"mine"
+	{
+		"en"		"Mine"
+	}
+	"mine_desc"
+	{
+		"en"		"You will be given 1 mine to plant.\nBind a key to \"+item 3\" or \"sm_mine\" to plant the mine."
+	}
+	"mine_category"
+	{
+		"en"		"Weapons"
+	}
+	"fuel"
+	{
+		"en"		"Fuel"
+	}
+	"fuel_desc"
+	{
+		"en"		"Fuel for jetpacks/flying."
+	}
+	"fuel_category"
+	{
+		"en"		"Enhancement Items"
+	}
+	"GainedTomeXP"
+	{
+		"en"		"You have gained {custom}100 XP{default}."
+	}
+	"AddedFuel"
+	{
+		"en"		"{blue}Fuel{default} has been added."
+	}
+	"UsedMoleRetention"
+	{
+		"en"		"You have have used your {blue}Mole Retention{default}."
+	}
+	"SetOnFireWithOrb"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} has set you on fire with the {red}Orb of Fire{default}"
+	}
+	"FrozenWithOrb"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} has frozen you with the {blue}Orb of Frost{default}"
+	}
+	"YouHaveLootedCrystals"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You have {blue}Looted{default} {green}{1} crystals{default} from {olive}{2}{default}!"
+	}
+	"LootedYourCrystals"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"{olive}{1}{default} {red}Looted {2} Crystals{default} from your corpse!"
+	}
+	"MoleFailed"
+	{
+		"en"		"Sorry, {blue}Mole{default} has failed to find an enemy Spawn Point!"
+	}
+}

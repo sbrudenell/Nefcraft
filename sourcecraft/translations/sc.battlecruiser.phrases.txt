@@ -1,0 +1,136 @@
+"Phrases"
+{
+	"battlecruiser"
+	{
+		"en"		"Terran Battlecruiser"
+	}
+
+	"battlecruiser_switch"
+	{
+		"en"		"You have {blue}Built{default} a {blue}Battlecruiser{default}!"
+	}
+
+	"battlecruiser_pending"
+	{
+		"en"		""
+	}
+
+	"battlecruiser_image"
+	{
+		"en"		"Terran/Battlecruiser.png"
+	}
+
+	"battlecruiser_desc"
+	{
+		"en"		"The battlecruiser is a type of terran capital ship employed in the Koprulu Sector. The Behemoth-class battlecruiser is armed with lasers, protected by neosteel armor and equipped with Gravity accelerators, featuring the ability to travel through warp space, operate within planetary atmospheres and even land on planets. Armament consists of multiple burst laser batteries and a complement of nuclear warheads.  Despite the heavy arsenal, Behemoth armament is slightly constricted in that its laser batteries cannot fire at targets to the side and its warheads are reserved for orbital bombardment rather than space combat. A saving grace for the Behemoth-class exists in the form of the Yamato Cannon. The Yamato Gun's primary weakness is its huge energy requirements and while the installation of a colossus reactor allows for increased energy storage, it is not a long term solution.\nDespite its shortcomings, the Behemoth-class has proven to be an enduring design, keeping up to date with periodic upgrades while its hammerhead design had provided the basis for future classes. Although more advanced classes of battlecruiser have been developed, the Behemoth-class continues to remain in service."
+	}
+
+	"battlecruiser_immunity"
+	{
+		"en"		"Immunity"
+	}
+	"battlecruiser_immunity_desc"
+	{
+		"en"		"Makes you Immune to: Shop Items at level 0,\nCrystal Theft at Level 1,\nUltimates at Level 2,\nMotion Taking at Level 3,\nand Blindness at level 4."
+	}
+
+	"battlecruiser_armor"
+	{
+		"en"		"Ship Plating"
+	}
+	"battlecruiser_armor_desc"
+	{
+		"en"		"Heavy Ship Plating that takes damage up to 80%% until it is depleted."
+	}
+
+	"battlecruiser_weapons"
+	{
+		"en"		"Ship Weapons"
+	}
+	"battlecruiser_weapons_desc"
+	{
+		"en"		"Does 20-100%% extra damage to the enemy, chance is 30-60%."
+	}
+	"sc_ship_weapons"
+	{
+		"en"		"Ship Weapons"
+	}
+
+	"battlecruiser_jetpack"
+	{
+		"en"		"Ship Propulsion"
+	}
+	"battlecruiser_jetpack_desc"
+	{
+		"en"		"Allows you to fly until you run out of fuel. Additional levels increases fuel capacity and reduces the time before refueling."
+	}
+
+	"battlecruiser_gravgun"
+	{
+		"en"		"Gravity Accelerator"
+	}
+	"battlecruiser_gravgun_desc"
+	{
+		"en"		"Allows you to pick up objects, move them around and use them for flying platforms (by jumping while holding them from above).\nThey can be repaired at level 1 (while being held) and thrown at Level 2.\nAt Level 3 the objects remain enabled when held and at Level 4 they remain enabled when thrown.\nAverages 1 energy per second while in use."
+	}
+	"battlecruiser_gravgun_engyonly_desc"
+	{
+		"en"		"Allows Engineers to pick up objects, move them around and use them for flying platforms (by jumping while holding them from above).\nThey can be repaired at Level 1 (while being held) and thrown at Level 2.\nAt Level 3 the objects are not disabled when held and at Level 4 they aren't disabled when thrown.\nAverages 1 energy per second while in use."
+	}
+	"battlecruiser_gravgun_norepair_desc"
+	{
+		"en"		"Allows you to pick up objects, move them around and use them for flying platforms (by jumping while holding them from above).\nThey can be thrown at Level 2. At Level 3 the objects remain enabled when held and at Level 4 they remain enabled when thrown.\nAverages 1 energy per second while in use."
+	}
+	"battlecruiser_gravgun_norepair_engyonly_desc"
+	{
+		"en"		"Allows Engineers to pick up objects, move them around and use them for flying platforms (by jumping while holding them from above).\nThey can be thrown at Level 2. At Level 3 the objects are not disabled when held and at Level 4 they aren't disabled when thrown.\nAverages 1 energy per second while in use."
+	}
+	"battlecruiser_gravgun_noenable_desc"
+	{
+		"en"		"Allows you to pick up objects, move them around and use them for flying platforms (by jumping while holding them from above).\nThey can be thrown at Level 2. Averages 1 energy per second while in use."
+	}
+	"battlecruiser_gravgun_noenable_engyonly_desc"
+	{
+		"en"		"Allows Engineers to pick up objects, move them around and use them for flying platforms (by jumping while holding them from above).\nThey can be thrown at Level 2. Averages 1 energy per second while in use."
+	}
+	"battlecruiser_gravgun_notf2_desc"
+	{
+		"en"		"Allows you to pick up objects, move them around and use them for flying platforms (by jumping while holding them from above).\nAverages 1 energy per second while in use."
+	}
+
+	"battlecruiser_yamato"
+	{
+		"en"		"Yamato Cannon"
+	}
+	"battlecruiser_yamato_desc"
+	{
+		"en"		"A powerful weapon that focuses a nuclear explosion into a beam using magnetic fields."
+	}
+	"sc_yamato_cannon"
+	{
+		"en"		"Yamato Cannon"
+	}
+
+	"PreventedFromFiringYamatoCannon"
+	{
+		"en"		"You have been prevented from firing the {blue}Yamato Cannon{default}!"
+	}
+
+	"battlecruiser_barrage"
+	{
+		"en"		"Missile Barrage"
+	}
+	"battlecruiser_barrage_desc"
+	{
+		"en"		"An area-of-effect weapon that does damage over time"
+	}
+	"sc_barrage"
+	{
+		"en"		"Missile Barrage"
+	}
+
+	"PreventedFromLaunchingMissileBarrage"
+	{
+		"en"		"You have been prevented from launching a {blue}Missile Barrage{default}!"
+	}
+}

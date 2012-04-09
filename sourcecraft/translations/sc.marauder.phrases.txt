@@ -1,0 +1,96 @@
+"Phrases"
+{
+	"marauder"
+	{
+		"en"		"Terran Marauder"
+	}
+
+	"marauder_switch"
+	{
+		"en"		"You have been certified in {blue}Marauder Training{default}."
+	}
+
+	"marauder_pending"
+	{
+		"en"		""
+	}
+
+	"marauder_image"
+	{
+		"en"		"Terran/Marauder.png"
+	}
+
+	"marauder_desc"
+	{
+		"en"		"The marauder is equipped with dual missile or grenade launchers that are effective against armored targets and slow the speed of enemy units."
+	}
+
+	"marauder_u238"
+	{
+		"en"		"Depleted U-238 Shells"
+	}
+	"marauder_u238_desc"
+	{
+		"en"		"Increases damage for non-melee attacks, 25%% chance to do 30-100%% extra damage."
+	}
+
+	"marauder_armor"
+	{
+		"en"		"Juggernaut Plating"
+	}
+	"marauder_armor_desc"
+	{
+		"en"		"The CMC-400 Powered Combat Suit is the standard issue suit of Marauders. Heavier, more durable and far more resistant to explosions than than its counterpart models, the Heavy Combat Suit provides additional protection that takes damage up to 80%% until it is depleted."
+	}
+
+	"marauder_stimpacks"
+	{
+		"en"		"Stimpacks"
+	}
+	"marauder_stimpacks_desc"
+	{
+		"en"		"Gives you a speed boost, 10-25%% faster."
+	}
+
+	"marauder_ultimate_stimpacks"
+	{
+		"en"		"Ultimate Stimpacks"
+	}
+	"marauder_ultimate_stimpacks_desc"
+	{
+		"en"		"Gives you a speed boost, 10-25%%. Invoke +ultimate 1 to increase your rate of fire for 2 seconds per level at a cost of 10 hp per level."
+	}
+
+	"marauder_gravitic"
+	{
+		"en"		"Gravitic Charge"
+	}
+	"marauder_gravitic_desc"
+	{
+		"en"		"Gravitic lensing forces enemy units to be slowed when hit\nEach enemy is slowed for 1.5 seconds per level."
+	}
+
+	"marauder_d8charge"
+	{
+		"en"		"D8 Charge"
+	}
+	"marauder_d8charge_desc"
+	{
+		"en"		"Throw a deuterium-eight (D-8) charge, which then explodes in 10 seconds unless defused or detonated earlier. At level 3 the charge doesn't explode until it is detonated.\nUltimate 3 either plants a charge or, if you are looking at an existing charge, either detonates or defuses it (depending on if it's yours).\nUltimate 4 will detonates ALL of your charges (or just the one targeted)."
+	}
+
+	"marauder_bunker"
+	{
+		"en"		"Enter Bunker"
+	}
+	"marauder_bunker_desc"
+	{
+		"en"		"Enter the Bunker, which provides additional armor (20-160%) that takes 100%% damage at the cost of becoming immoble while in the bunker."
+	}
+
+	"SlowedbyGraviticCharge"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} {red}Slowed{default} you with a {red}Gravitic Charge{default}!"
+	}
+}

@@ -1,0 +1,16 @@
+"Phrases"
+{
+	"YouHaveBeenProtected"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} has {blue}Protected{default} you!"
+	}
+	"YouHaveBeenUnprotected"
+	{
+		"en"		"You have been {blue}Unprotected{default}!"
+	}
+	"ProtectedHud"
+	{
+		"en"		"*** Protected ***"
+	}
+}

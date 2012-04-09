@@ -1,0 +1,262 @@
+/* Stylesheet 1 -------------------------------*/
+
+body { margin:0; font:12px Tahoma; color:#DDEEFF; background:url(/sc/images/bg_2.gif) 50% 0 repeat-y black; } 
+a { color:#22afcd; }
+a:visited { color:#105362} 
+a:hover { color:#98ffff } 
+ 
+#everything { width:1000px; margin:0 auto;  background:url(/sc/images/background_2.jpg); border:1px solid black; border-width:0px 1px; }
+
+#header { height:162px; background:url(/sc/images/scheader_2.jpg) right no-repeat; padding:0 395px; }
+#header h1 { padding-top:50px; margin:0; color:white; }
+
+#navigation a { background:url(/sc/images/buttons2.gif) no-repeat; width:170px; height:25px; display:block; padding-left:25px; margin:5px 0; font-size:13px; color:white; text-decoration:none; line-height:25px;}
+#navigation a:hover { background-position:0 bottom;  }
+
+#footer { clear:both; padding:20px }
+	#subnav { margin:10px 0;}	
+	#subnav a { color:#22afcd; }
+	#subnav a:hover { color:#98ffff } 
+	.copyright { font-size:10px;}
+
+#middle { clear:both; background:url(/sc/images/horiz_2.gif) repeat-x; padding:20px 10px; }	
+	
+	#left_column { width:195px; float:left; }
+	.horizontal #left_column { width:auto; float:none; }
+		#navigation a { background:url(/sc/images/buttons2.gif) no-repeat; width:170px; height:25px; display:block; padding-left:25px; margin:5px 0;
+						font-size:13px; color:white; text-decoration:none; line-height:25px;}
+		#navigation a:hover { background-position:0 bottom;  }
+		.horizontal #navigation a { float:left; } 
+		#more_information { padding-top:15px;}
+		
+	#middle_column { float:left; width:100%; margin:0px 20px; }
+	#middle_column.two_column { float:left; width:75%; } 
+	.horizontal #middle_column { width:auto; float:none; }
+		.date_break { font-size:19px; border-bottom:1px solid #98ffff; margin-bottom:10px; }
+		.post { background: url(/sc/images/blue_overlay.jpg); border:1px solid #98ffff; margin-bottom:35px; line-height:18px; } 
+		.post h1 { background:url(/sc/images/title_2.gif) repeat-x #98ffff; padding:2px 10px; margin:0; font-size:15px; color:white;} 
+		.post_body { padding:5px 15px; }
+		.post .postedby { float:left; clear:both; }
+		.post .timestamp { float:right }
+
+		ul { margin:20px; padding:10px; }
+		li { list-style:none; background:url(/sc/images/bullet2.gif) 0 5px no-repeat;  padding-left:30px; line-height:25px;  }
+		.list_left, .list_right { width:48%; float:left }
+
+		.post_info { clear:both; padding-top:10px; }
+	
+	#right_column { width:26%; float:left; }
+		.box { background:url(/sc/images/extras_bg2.jpg); border:1px solid #98ffff; margin:10px 0 25px 0; padding:10px; }
+
+.player_list {
+	background:url(/sc/images/extras_bg2.jpg);
+	border: 1px solid black;
+	padding: 3px;
+	font-size: 10pt;
+}
+
+.player_list H2 {
+	background-color: #fa2;
+	border: 1px solid black;
+	margin: 0px;
+	margin-bottom: 10px;
+	padding: 2px;
+}
+
+.player_list UL {
+	margin: 0px 15px 10px; 
+	padding: 2px;
+}
+
+.player_container {
+	margin-bottom:35px;
+	line-height:18px;
+	width: 100%;
+}
+
+.player_detail {
+	background:url(/sc/images/extras_bg2.jpg);
+	padding:2px 10px;
+	margin: 0px;
+        font-size:15px;
+      	color:white;
+	width: 100%;
+}
+
+.player_detail TH {
+	color="ffffff"
+	font-weight: bold;	
+	text-align: right;
+}
+
+.player_detail TD {
+	padding: 2px;
+}
+
+.alias_detail {
+	background:url(/sc/images/extras_bg2.jpg);
+	margin-bottom: 20px;
+	border:1px solid #98ffff;
+	/* margin:10px 0 25px 0; */
+	/* padding:10px; */
+	/* margin-bottom: 20px; */
+	font-style: italic
+}
+
+.race_container {
+	background:url(/sc/images/extras_bg2.jpg);
+	margin-bottom:35px;
+	line-height:18px;
+	width: 100%;
+}
+
+.race_detail {
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+.race_title TH {
+	background:url(/sc/images/title_2.gif) repeat-x #98ffff;
+	font-size: 24pt;
+	font-weight: bold;	
+	text-align: center;
+	width: 100%;
+}
+
+.race_detail TH {
+	text-align: right;
+	align: right;
+}
+
+.race_detail TD {
+	padding: 2px;
+}
+
+.upgrade_detail {
+	background: url(/sc/images/blue_overlay.jpg) repeat;
+	border:1px solid #98ffff;
+	/* margin:10px 0 25px 0; */
+	/* padding:10px; */
+	/* margin-bottom: 20px; */
+	font-style: italic
+}
+
+.page_footer {
+	position:   relative;
+	bottom:     0px;
+	width:      99%;
+	text-align: center;
+	clear:      both;
+	font-size:  9pt;
+	color:      #999;
+}
+
+.login_container {
+	width: 50%;
+	padding: 20px 20px;
+}
+
+FORM {
+	margin-top: 20px;
+	text-align: left;
+	border: 1px solid #ccc;
+	padding: 5px;
+}
+
+FORM LABEL {
+	display: block;
+	clear: left;
+	float: left;
+	width: 150px;
+}
+
+FORM INPUT[type=text], FORM INPUT[type=password] {
+	margin: 2px;
+	font-size: 10pt;
+	background-color: #89dffe;
+	border: 1px solid black;
+}
+
+.button_container {
+	padding: 5px;
+}
+
+.button_container INPUT {
+	border: 1px solid black;
+	background-color: #fa2;
+	font-size: 10pt;
+}
+
+.user_info {
+	border: 1px solid black;
+	float: right;
+	position: relative;
+	top: -50px;
+	left: -10px;
+	padding: 5px;
+}
+
+.page_control {
+	text-align: left;
+}	
+
+.hiddenNode {
+     position:absolute;
+     top:-9999px;
+     left:-9999px;
+} 
+
+/* 	dijit.form.DropDownButton */
+.scsoria .dijitButtonContents { 
+	border: 0px; 
+	text-align: center;
+	vertical-align: middle;
+	background-color: transparent; 
+} 
+
+.scsoria .dijitButtonNode  {
+	background:url(/sc/images/buttons2.gif) no-repeat;
+	width:170px;
+	height:25px;
+	display:block;
+	padding-left:25px;
+	margin:5px 0;
+	font-size:13px;
+	color:white;
+	text-decoration:none;
+	line-height:25px;
+	vertical-align: top;
+	border: 0px;
+}
+
+.scsoria .dijitDropDownButtonHover .dijitButtonNode {
+	background:url(/sc/images/buttons2.gif) no-repeat;
+	background-position:0 bottom;
+	width:170px;
+	height:25px;
+	display:block;
+	padding-left:25px;
+	margin:5px 0;
+	font-size:13px;
+	color:white;
+	text-decoration:none;
+	line-height:25px;
+	vertical-align: top;
+	border: 0px;
+}
+
+.scsoria .dijitDropDownButtonActive .dijitButtonNode {
+	background:url(/sc/images/buttons2.gif) no-repeat;
+	background-position:0 bottom;
+	width:170px;
+	height:25px;
+	display:block;
+	padding-left:25px;
+	margin:5px 0;
+	font-size:13px;
+	color:white;
+	text-decoration:none;
+	line-height:25px;
+	vertical-align: top;
+	border: 0px;
+}

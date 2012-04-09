@@ -1,0 +1,1610 @@
+"Phrases"
+{
+	"Welcome"
+	{
+		"en"		"Welcome to SourceCraft!"
+	}
+	"ReportBugs"
+	{
+		"#format"	"{1:s}"
+		"en"		"Please report any bugs by typing bugs or at {1}"
+	}
+	"WelcomeToSourceCraft"
+	{
+		"#format"	"{1:s}"
+		"en"		"Welcome to this SourceCraft server!\nYou get Experience and/or Crystals for completing objectives.\nFor each level gained from Experience, you may select an Upgrade to level up. Purchase items in the Shopmenu with your Crystals.\nFor a command list, type help in chat or menu to use the menu system.\nPlease report any bugs you notice to www.jigglysfunhouse.net\nSourceCraft Version {1}"
+	}
+	"WelcomeToSourceCraftNoShop"
+	{
+		"#format"	"{1:s}"
+		"en"		"Welcome to this SourceCraft server!\nYou get Experience for completing objectives.\nFor each level gained from Experience, you may select an Upgrade to level up.\nFor a command list, type help in chat or menu to use the menu system.\nPlease report any bugs you notice to www.jigglysfunhouse.net\nSourceCraft Version {1}"
+	}
+	"WelcomeToShopMenu"
+	{
+		"#format"	"{1:s}"
+		"en"		"Welcome to this ShopMenu server!\nYou get Crystals for completing objectives.\nPurchase items in the Shopmenu with your Crystals.\nFor a command list, type help in\nchat or menu to use the menu system.\nPlease report any bugs you notice to www.jigglysfunhouse.net\nShopMenu Version {1}"
+	}
+	"HelpTitle"
+	{
+		"en"		"Select a command for more info"
+	}
+	"HelpItemTitle"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"SourceCraft Command - {1}\nDescription: {2}"
+	}
+	"HelpMenu"
+	{
+		"en"		"Bring up the SourceCraft menu."
+	}
+	"HelpInfo"
+	{
+		"en"		"Show your status (race, level, upgrades and items)."
+	}
+	"HelpBind"
+	{
+		"en"		"You should bind at least the following commands:\n\"+ultimate 1\", \"+ultimate 2\", \"+ultimate 3\", \"+ultimate 4\", \"+item 1\", \"+item 2\", \"+item 3\", \"+item 4\"\nTo bind \"+ultimate 1\" to x, type bind x \"+ultimate 1\" in console\nTo bind \"+item 2\" to z, type bind z \"+item 2\" in console"
+	}
+	"HelpInv"
+	{
+		"en"		"Show what items you currently possess."
+	}
+	"HelpShop"
+	{
+		"en"		"Bring up the shop menu to buy items."
+	}
+	"HelpChangeRace"
+	{
+		"en"		"Change to a different race."
+	}
+	"HelpReset"
+	{
+		"en"		"Resets all your upgrade levels for the current race and allows you to reselect."
+	}
+	"HelpRaceInfo"
+	{
+		"en"		"Display information for all the races."
+	}
+	"HelpUpgradeInfo"
+	{
+		"en"		"Display the upgrade information for the current race."
+	}
+	"HelpUpgrade"
+	{
+		"en"		"Spend any unused upgrade points you have."
+	}
+	"HelpShowXP"
+	{
+		"en"		"Show the current experience information for the current race."
+	}
+	"HelpShowUpgrades"
+	{
+		"en"		"Show which upgrade levels you currently have."
+	}
+	"HelpCrystals"
+	{
+		"en"		"Show your current crystal count. Crystals are used to purchase shopitems and are also consumed by some upgrades"
+	}
+	"HelpVespene"
+	{
+		"en"		"Show your current vespene gas amount. Vespene are need to purchase soem shopitems and are also used by some upgrades"
+	}
+	"HelpEnergy"
+	{
+		"en"		"Show your current energy. Energy is required to activate most upgrades."
+	}
+	"HelpPlayerInfo"
+	{
+		"en"		"Show someone else's status."
+	}
+	"HelpSettings"
+	{
+		"en"		"Change your settings."
+	}
+	"HelpUltimate"
+	{
+		"en"		"Use an ultimate, that requires a bind (and an argument to indicate which ultimate, 1-4)."
+	}
+	"HelpUltimate1"
+	{
+		"en"		"Use the ultimate 1, that requires a bind.\nTo bind to x, type bind x \"+ultimate 1\" in console"
+	}
+	"HelpUltimate2"
+	{
+		"en"		"Use the ultimate 2, that requires a bind.\nTo bind to x, type bind x \"+ultimate 2\" in console"
+	}
+	"HelpUltimate3"
+	{
+		"en"		"Use the ultimate 3, that requires a bind.\nTo bind to x, type bind x \"+ultimate 3\" in console"
+	}
+	"HelpUltimate4"
+	{
+		"en"		"Use the ultimate 4, that requires a bind.\nTo bind to x, type bind x \"+ultimate 4\" in console"
+	}
+	"HelpItem0"
+	{
+		"en"		"Use an item, that requires a bind (and an argument to indicate which item, 1-4).\nIf an item isan't avialable, it tries the next one and the next one until it fonds one or runs our of items to check)"
+	}
+	"HelpItem1"
+	{
+		"en"		"Use the item 1, that requires a bind.\nTo bind to c, type bind c \"+item 1\" in console"
+	}
+	"HelpItem2"
+	{
+		"en"		"Use the item 2, that requires a bind.\nTo bind to c, type bind c \"+item 2\" in console"
+	}
+	"HelpItem3"
+	{
+		"en"		"Use the item 3, that requires a bind.\nTo bind to c, type bind c \"+item 3\" in console"
+	}
+	"HelpItem4"
+	{
+		"en"		"Use the item 4, that requires a bind.\nTo bind to c, type bind c \"+item 4\" in console"
+	}
+	"HelpAdmin"
+	{
+		"en"		"Bring up the admin menu to modify player info [admins only]."
+	}
+	"ChooseTask"
+	{
+		"en"		"Choose a task."
+	}
+	"ShowShopMenu"
+	{
+		"en"		"Bring up the shopmenu"
+	}
+	"ChangeRace"
+	{
+		"en"		"Change your race"
+	}
+	"ShowUpgradeLevels"
+	{
+		"en"		"Show current upgrade levels"
+	}
+	"ResetUpgrades"
+	{
+		"en"		"Reset your upgrades"
+	}
+	"SpendPoints"
+	{
+		"en"		"Spend unused upgrade points"
+	}
+	"ViewUpgrades"
+	{
+		"en"		"View your race's upgrade information"
+	}
+	"ShowItems"
+	{
+		"en"		"Show current items owned"
+	}
+	"ViewCommands"
+	{
+		"en"		"View command list"
+	}
+	"ChangeSettings"
+	{
+		"en"		"Change Settings"
+	}
+	"ViewOtherPlayer"
+	{
+		"en"		"View another Player's information"
+	}
+	"ViewSCInfo"
+	{
+		"en"		"View detailed SourceCraft information and lookup players"
+	}
+	"ViewWiki"
+	{
+		"en"		"View the SourceCraft [Gu]Wiki"
+	}
+	"ShopMenu"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Select an item to examine/purchase. - You have {1} crystals & {2} vespene"
+	}
+	"ShopItems"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Shop Item Inventory, {1} crystals / {2} vespene"
+	}
+	"ListItems"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1}'s Shop Item Inventory"
+	}
+	"ShopItemTitle"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:d},{6:d}"
+		"en"		"Shop Item - {1} - You have {2} crystals & {3} vespene\nDescription:{4}\nCost: {5} crystals + {6} vespene"
+	}
+	"Purchase"
+	{
+		"en"		"Purchase"
+	}
+	"ViewUpdates"
+	{
+		"en"		"View SourceCraft Updates"
+	}
+	"ChooseRace"
+	{
+		"#format"	"{1:s}"
+		"en"		"Select a {1} race."
+	}
+	"ViewRace"
+	{
+		"#format"	"{1:s}"
+		"en"		"Select a {1} race to view."
+	}
+	"Miscellaneous"
+	{
+		"en"		"Miscellaneous"
+	}
+	"FactionItem"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Races"
+	}
+	"ChooseUpgrade"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:d}"
+		"en"		"Select your desired upgrade. ({1}/{2}) - You have {3} crystals & {4} vespene"
+	}
+	"RaceRequiredLevel"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} (overall level must be >= {2})"
+	}
+	"RaceSummoned"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} (summoned from {2})"
+	}
+	"RaceLocked"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} (locked)"
+	}
+	"PlayerInfo"
+	{
+		"#format"	"{1:s},{2:N},{3:s}"
+		"en"		"Info for {1}{2}\n{3}"
+	}
+	"PlayerTechLevel"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} Tech Level: {2}"
+	}
+	"PlayerLevel"
+	{
+		"#format"	"{1:d},{2:d},{3:d}"
+		"en"		"Level: {1} (of {2}) / Overall Level {3}"
+	}
+	"PlayerExperience"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Experience {1} / {2}"
+	}
+	"PlayerExperienceMaxed"
+	{
+		"#format"	"{1:d}"
+		"en"		"Experience {1}"
+	}
+	"PlayerAccumulatedEnergy"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Energy: {1} / Accumulated Energy {2}"
+	}
+	"PlayerEnergy"
+	{
+		"#format"	"{1:d}"
+		"en"		"Energy: {1}"
+	}
+	"PlayerCrystals"
+	{
+		"#format"	"{1:d}"
+		"en"		"Crystals: {1}"
+	}
+	"PlayerVespene"
+	{
+		"#format"	"{1:d}"
+		"en"		"Vespene: {1}"
+	}
+	"PlayerArmor"
+	{
+		"#format"	"{1:d}"
+		"en"		"Armor: {1}"
+	}
+	"PlayerShields"
+	{
+		"#format"	"{1:d}"
+		"en"		"Shields: {1}"
+	}
+	"PlayerHealth"
+	{
+		"#format"	"{1:d}"
+		"en"		"Health: {1}"
+	}
+	"AltHudArmor"
+	{
+		"#format"	"{1:3d},{2:3d},{3:s}"
+		"en"		"Armor: {1} Energy: {2} {3}"
+	}
+	"AltHudShields"
+	{
+		"#format"	"{1:3d},{2:3d},{3:s}"
+		"en"		"Shields: {1} Energy: {2} {3}"
+	}
+	"AltHudEnergy"
+	{
+		"#format"	"{1:3d},{2:s}"
+		"en"		"Energy: {1} {2}"
+	}
+	"YouDamaged"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"You damaged {olive}{1}{default} for {green}{2} hp{default}."
+	}
+	"YouDamagedWith"
+	{
+		"#format"	"{1:N},{2:d},{3:s}"
+		"en"		"You damaged {olive}{1}{default} for {green}{2} hp{default} with {blue}{3}{default}."
+	}
+	"Damaged"
+	{
+		"#format"	"{1:d}"
+		"en"		"You were damaged for {green}{1} hp{default}"
+	}
+	"DamagedWith"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You were damaged for {green}{1} hp{default} with {blue}{2}{default}"
+	}
+	"DamagedSelf"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have damaged yourself for {green}{1} hp{default}"
+	}
+	"DamagedSelfWith"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You have damaged yourself for {green}{1} hp{default} with {blue}{2}{default}"
+	}
+	"DamagedBy"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"{olive}{1}{default} has damaged you for {green}{2} hp{default}"
+	}
+	"DamagedByWith"
+	{
+		"#format"	"{1:N},{2:d},{3:s}"
+		"en"		"{olive}{1}{default} has damaged you for {green}{2} hp{default} with {blue}{3}{default}"
+	}
+	"KilledSelf"
+	{
+		"en"		"You have {green}killed{default} yourself!"
+	}
+	"KilledSelfWith"
+	{
+		"#format"	"{1:s}"
+		"en"		"You have {green}killed{default} yourself with {blue}{1}{default}!"
+	}
+	"KilledBy"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} has {green}killed{default} you!"
+	}
+	"KilledByWith"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{olive}{1}{default} has {green}killed{default} you with {blue}{2}{default}!"
+	}
+	"GainedXPForKillWith"
+	{
+		"#format"	"{1:d},{2:N},{3:s}"
+		"en"		"You gained {custom}{1} experience{default} for {green}killing{default} {olive}{2}{default} with {blue}{3}{default}."
+	}
+	"YouKilledWith"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"You {green}killed{default} {olive}{1}{default} with {blue}{2}{default}."
+	}
+	"GainedXPForKill"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You gained {custom}{1} experience{default} for {green}killing{default} {olive}{2}{default}."
+	}
+	"YouKilled"
+	{
+		"#format"	"{1:N}"
+		"en"		"You {green}killed{default} {olive}{1}{default}."
+	}
+	"YouWereProtected"
+	{
+		"#format"	"{1:N}"
+		"en"		"You were {green}protected{default} from an attack by {olive}{1}{default}!"
+	}
+	"TargetWasProtected"
+	{
+		"#format"	"{1:N}"
+		"en"		"{olive}{1}{default} was {red}protected{default} from your attack!"
+	}
+	"ProtectedFromDamage"
+	{
+		"en"		"You were {green}protected{default} from damage!"
+	}
+	"ArmorAbsorbed"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"Your {blue}{1}{default} absorbed {green}{2} hp{default}"
+	}
+	"WontBeReadyForMinutes"
+	{
+		"#format"	"{1:s},{2:d},{3:02d}"
+		"en"		"{blue}{1}{default} won't be ready for {2}:{3} minutes!"
+	}
+	"WontBeReadyForSeconds"
+	{
+		"#format"	"{1:s},{2:4.2f}"
+		"en"		"{blue}{1}{default} won't be ready for {2} seconds!"
+	}
+	"MustWaitMinutes"
+	{
+		"#format"	"{1:d},{2:02d},{3:s}"
+		"en"		"You must wait {1}:{2} minutes before using {blue}{3}{default} again!"
+	}
+	"MustWaitSeconds"
+	{
+		"#format"	"{1:2.0f},{2:s}"
+		"en"		"You must wait {1} seconds before using {blue}{2}{default} again!"
+	}
+	"RaceInfo"
+	{
+		"#format"	"{1:s},{2:s},{3:d},{4:s},{5:s}"
+		"en"		"{1} ({2}) [{3} levels]\nFaction: {4}\nType: {5}"
+	}
+	"RaceInfoFor"
+	{
+		"#format"	"{1:s},{2:s},{3:N}"
+		"en"		"{1} upgrade info for {2}{3}"
+	}
+	"UpgradeInfo"
+	{
+		"#format"	"{1:s}"
+		"en"		"Upgrade information for {1}"
+	}
+	"UsesEnergy"
+	{
+		"#format"	"{1:d}"
+		"en"		"Uses {1} energy"
+	}
+	"UsesEnergyToInvoke"
+	{
+		"#format"	"{1:d}"
+		"en"		"Uses {1} energy to invoke"
+	}
+	"AndEnergyPerUse"
+	{
+		"#format"	"{1:d}"
+		"en"		"and {1} energy per use"
+	}
+	"EnergyPerUse"
+	{
+		"#format"	"{1:d}"
+		"en"		"Uses {1} energy per use"
+	}
+	"CostsVespenePerUse"
+	{
+		"#format"	"{1:d}"
+		"en"		"Costs {1} vespene per use"
+	}
+	"CostsVespeneToUpgrade"
+	{
+		"#format"	"{1:d}"
+		"en"		"Costs {1} vespene to upgrade"
+	}
+	"CostsVespeneToUpgradeRefundable"
+	{
+		"#format"	"{1:d}"
+		"en"		"Costs {1} vespene to upgrade (refundable)"
+	}
+	"CostsCrystalsPerUse"
+	{
+		"#format"	"{1:d}"
+		"en"		"Costs {1} crystals per use"
+	}
+	"CostsCrystalsToUpgrade"
+	{
+		"#format"	"{1:d}"
+		"en"		"Costs {1} crystals to upgrade"
+	}
+	"CostsCrystalsToUpgradeRefundable"
+	{
+		"#format"	"{1:d}"
+		"en"		"Costs {1} crystals to upgrade (refundable)"
+	}
+	"InvokedWithUltimate"
+	{
+		"en"		"Invoked with +Ultimate"
+	}
+	"InvokedWithUltimateN"
+	{
+		"#format"	"{1:d}"
+		"en"		"Invoked with +Ultimate{1}"
+	}
+	"HasLevels"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} levels"
+	}
+	"IsLevel"
+	{
+		"#format"	"{1:d}"
+		"en"		"level {1}"
+	}
+	"ChangeToRace"
+	{
+		"en"		"Change to this Race"
+	}
+	"ViewUpgradeLevels"
+	{
+		"en"		"View upgrade levels"
+	}
+	"ViewShopItems"
+	{
+		"en"		"View shop items"
+	}
+	"ViewPlayer"
+	{
+		"en"		"Select a player to view"
+	}
+	"ViewPlayersUpgradeLevels"
+	{
+		"en"		"View Player's upgrade levels"
+	}
+	"ViewPlayersShopItems"
+	{
+		"en"		"View Player's shop items"
+	}
+	"MiscellaneousItems"
+	{
+		"en"		"Miscellaneous Items"
+	}
+	"NotAllowed"
+	{
+		"en"		"Not Allowed"
+	}
+	"NotApplicable"
+	{
+		"en"		"Not Applicable"
+	}
+	"NotAvailable"
+	{
+		"en"		"Not Available"
+	}
+	"AlwaysAvailable"
+	{
+		"en"		"Always Available"
+	}
+	"MinimumLevel"
+	{
+		"#format"	"{1:d}"
+		"en"		"Minimum Level {1}"
+	}
+	"CostCrystals"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} crystals"
+	}
+	"CostVespene"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} vespene"
+	}
+	"CostCrystalsAndVespene"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"{1} crystals + {2} vespene"
+	}
+	"Ultimate"
+	{
+		"en"		"Ultimate"
+	}
+	"UltimateN"
+	{
+		"#format"	"{1:d}"
+		"en"		"Ultimate {1}"
+	}
+	"UpgradeLevel"
+	{
+		"#format"	"{1:d}"
+		"en"		"Upgrade Level {1}"
+	}
+	"BackToHelp"
+	{
+		"en"		"Back to help commands"
+	}
+	"BackToItems"
+	{
+		"en"		"Back to items"
+	}
+	"BackToOptions"
+	{
+		"en"		"Back to options"
+	}
+	"BackToUpgrades"
+	{
+		"en"		"Back to the upgrades"
+	}
+	"AdministerMenu"
+	{
+		"en"		"Administer SourceCraft"
+	}
+	"SelectPlayer"
+	{
+		"en"		"Select a player to administer"
+	}
+	"AdministerPlayer"
+	{
+		"#format"	"{1:N}"
+		"en"		"Administration options for {1}"
+	}
+	"ViewInfo"
+	{
+		"en"		"View detailed information"
+	}
+	"Reset"
+	{
+		"en"		"Reset upgrades"
+	}
+	"SetRace"
+	{
+		"en"		"Set race"
+	}
+	"GiveShopItem"
+	{
+		"en"		"Give shop item"
+	}
+	"ChangeXP"
+	{
+		"en"		"Increase/Decrease XP"
+	}
+	"ChangeLevel"
+	{
+		"en"		"Increase/Decrease Level"
+	}
+	"ChangeCrystals"
+	{
+		"en"		"Increase/Decrease Crystals"
+	}
+	"ChangeVespene"
+	{
+		"en"		"Increase/Decrease Vespene"
+	}
+	"ChangeEnergy"
+	{
+		"en"		"Increase/Decrease Energy"
+	}
+	"EnablePlayer"
+	{
+		"en"		"Enable Player (levels DO get saved)"
+	}
+	"DisablePlayer"
+	{
+		"en"		"Disable Player (levels are NOT saved)"
+	}
+	"DeletePlayer"
+	{
+		"en"		"Delete from Database"
+	}
+	"AdminResetPlayer"
+	{
+		"#format"	"{1:N}"
+		"en"		"Admin {1} reset your upgrades."
+	}
+	"AdminResetConfirm"
+	{
+		"#format"	"{1:N}"
+		"en"		"You reset player {1}'s upgrades."
+	}
+	"AdminOption"
+	{
+		"#format"	"{1:N}"
+		"en"		"Select an option for {1}"
+	}
+	"sc_setxp"
+	{
+		"en"		"The syntax of the command is: sc_setxp <player> <xp>"
+	}
+	"AdminSetXP"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"You just set {1}'s XP to {2}."
+	}
+	"PlayersXPWasSet"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Admin {1} set your XP to {2}."
+	}
+	"sc_givexp"
+	{
+		"en"		"The syntax of the command is: sc_givexp <player> <xp>"
+	}
+	"Give100XP"
+	{
+		"en"		"Give 100 XP"
+	}
+	"Give1000XP"
+	{
+		"en"		"Give 1000 XP"
+	}
+	"Give10000XP"
+	{
+		"en"		"Give 10000 XP"
+	}
+	"sc_removexp"
+	{
+		"en"		"The syntax of the command is: sc_removexp <player> <xp>"
+	}
+	"Remove100XP"
+	{
+		"en"		"Remove 100 XP"
+	}
+	"Remove1000XP"
+	{
+		"en"		"Remove 1000 XP"
+	}
+	"Remove10000XP"
+	{
+		"en"		"Remove 10000 XP"
+	}
+	"AdminGaveXP"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"You gave {olive}{1}{default} {custom}{2} experience{default}."
+	}
+	"PlayerReceivedXP"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Admin {olive}{1}{default} gave you {custom}{2} experience{default}."
+	}
+	"AdminRemovedXP"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You removed {custom}{1} experience{default} from {olive}{2}{default}."
+	}
+	"PlayerForfeitedXP"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Admin {olive}{1}{default} removed {custom}{2} experience{default} from you."
+	}
+	"SelectItem"
+	{
+		"#format"	"{1:N}"
+		"en"		"Select an item to give to {1}"
+	}
+	"AdminGaveItem"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"You gave {olive}{1}{default} a {blue}{2}{default}."
+	}
+	"PlayerReceivedItem"
+	{
+		"#format"	"{1:s},{2:N}"
+		"en"		"You received a {blue}{1}{default} from admin {olive}{2}{default}."
+	}
+	"PlayerOwnsItem"
+	{
+		"en"		"The player already owns this item."
+	}
+	"SelectRace"
+	{
+		"#format"	"{1:s},{2:N}"
+		"en"		"Select a {1} race for {2}"
+	}
+	"AdminSetRace"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"You set player {olive}{1}{default} to race {blue}{2}{default}."
+	}
+	"PlayersRaceWasSet"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"Admin {olive}{1}{default} set you to race {blue}{2}{default}."
+	}
+	"sc_setlevel"
+	{
+		"en"		"The syntax of the command is: sc_setlevel <player> <level>"
+	}
+	"AdminSetLevel"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"You just set {olive}{1}{default}'s {custom}level{default} to {custom}{2}{default}."
+	}
+	"PlayersLevelWasSet"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Admin {olive}{1}{default} set your {custom}level{default} to {custom}{2}{default}, reselect your upgrades."
+	}
+	"sc_givelevel"
+	{
+		"en"		"The syntax of the command is: sc_givelevel <player>"
+	}
+	"GiveLevel"
+	{
+		"en"		"Give a level"
+	}
+	"sc_removelevel"
+	{
+		"en"		"The syntax of the command is: sc_removelevel <player>"
+	}
+	"RemoveLevel"
+	{
+		"en"		"Remove a level"
+	}
+	"PlayerAtMaxLevel"
+	{
+		"#format"	"{1:N}"
+		"en"		"Player {olive}{1}{default} is already at the {custom}max level{default}."
+	}
+	"PlayerHasNoLevels"
+	{
+		"#format"	"{1:N}"
+		"en"		"Player {olive}{1}{default} is already {custom}level 0{default}."
+	}
+	"AdminGaveLevel"
+	{
+		"#format"	"{1:N}"
+		"en"		"You gave player {olive}{1}{default} a {custom}level{default}."
+	}
+	"PlayerReceivedLevel"
+	{
+		"#format"	"{1:N}"
+		"en"		"Admin {olive}{1}{default} gave you a {custom}level{default}."
+	}
+	"AdminRemovedLevel"
+	{
+		"#format"	"{1:N}"
+		"en"		"You removed a {custom}level{default} from player {olive}{1}{default}."
+	}
+	"PlayerForfeitedLevel"
+	{
+		"#format"	"{1:N}"
+		"en"		"Admin {olive}{1}{default} removed a {custom}level{default} from you, reselect your upgrades."
+	}
+	"sc_setcrystals"
+	{
+		"en"		"The syntax of the command is: sc_setcrystals <player> <amount>"
+	}
+	"AdminSetCrystals"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"You just set {olive}{1}{default}'s {green}crystals{default} to {green}{2}{default}."
+	}
+	"PlayersCrystalsWereSet"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Admin {olive}{1}{default} set your {green}crystals{default} to {green}{2}{default}."
+	}
+	"sc_givecrystals"
+	{
+		"en"		"The syntax of the command is: sc_givecrystals <player> <amount>"
+	}
+	"Give1Crystal"
+	{
+		"en"		"Give 1 crystal"
+	}
+	"Give5Crystals"
+	{
+		"en"		"Give 5 crystals"
+	}
+	"Give10Crystals"
+	{
+		"en"		"Give 10 crystals"
+	}
+	"Give25Crystals"
+	{
+		"en"		"Give 25 crystals"
+	}
+	"sc_removecrystals"
+	{
+		"en"		"The syntax of the command is: sc_removecrystals <player> <amount>"
+	}
+	"Remove1Crystal"
+	{
+		"en"		"Remove 1 crystal"
+	}
+	"Remove5Crystals"
+	{
+		"en"		"Remove 5 crystals"
+	}
+	"Remove10Crystals"
+	{
+		"en"		"Remove 10 crystals"
+	}
+	"Remove25Crystals"
+	{
+		"en"		"Remove 25 crystals"
+	}
+	"AdminGaveCrystals"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"You gave {olive}{1}{default} {2} crystals."
+	}
+	"PlayerReceivedCrystals"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You received {green}{1} crystals{default} from admin {olive}{2}{default}."
+	}
+	"AdminRemovedCrystals"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You removed {green}{1} crystals{default} from player {olive}{2}{default}."
+	}
+	"PlayerForfeitedCrystals"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Admin {olive}{1}{default} removed {green}{2} crystals{default} from you."
+	}
+	"sc_setvespene"
+	{
+		"en"		"The syntax of the command is: sc_setvespene <player> <amount>"
+	}
+	"AdminSetVespene"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"You just set {olive}{1}{default}'s {lightgreen}vespene{default} to {lightgreen}{2}{default}."
+	}
+	"PlayersVespeneWasSet"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Admin {olive}{1}{default} set your {lightgreen}vespene{default} to {lightgreen}{2}{default}."
+	}
+	"sc_givevespene"
+	{
+		"en"		"The syntax of the command is: sc_givevespene <player> <amount>"
+	}
+	"Give1Vespene"
+	{
+		"en"		"Give 1 vespene"
+	}
+	"Give5Vespene"
+	{
+		"en"		"Give 5 vespene"
+	}
+	"Give10Vespene"
+	{
+		"en"		"Give 10 vespene"
+	}
+	"Give50Vespene"
+	{
+		"en"		"Give 50 vespene"
+	}
+	"Give100Vespene"
+	{
+		"en"		"Give 100 vespene"
+	}
+	"sc_removevespene"
+	{
+		"en"		"The syntax of the command is: sc_removevespene <player> <amount>"
+	}
+	"Remove1Vespene"
+	{
+		"en"		"Remove 1 vespene"
+	}
+	"Remove5Vespene"
+	{
+		"en"		"Remove 5 vespene"
+	}
+	"Remove50Vespene"
+	{
+		"en"		"Remove 50 vespene"
+	}
+	"Remove100Vespene"
+	{
+		"en"		"Remove 100 vespene"
+	}
+	"AdminGaveVespene"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"You gave {1} {2} vespene."
+	}
+	"PlayerReceivedVespene"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You received {lightgreen}{1} vespene{default} from admin {olive}{2}{default}."
+	}
+	"AdminRemovedVespene"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You removed {lightgreen}{1} vespene{default} from player {olive}{2}{default}."
+	}
+	"PlayerForfeitedVespene"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Admin {olive}{1}{default} removed {lightgreen}{2} vespene{default} from you."
+	}
+	"sc_setenergy"
+	{
+		"en"		"The syntax of the command is: sc_setenergy <player> <amount>"
+	}
+	"AdminSetEnergy"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"You just set {olive}{1}{default}'s {blue}energy{default} to {blue}{2}{default}."
+	}
+	"PlayersEnergyWasSet"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Admin {olive}{1}{default} set your {blue}energy{default} to {blue}{2}{default}."
+	}
+	"sc_giveenergy"
+	{
+		"en"		"The syntax of the command is: sc_giveenergy <player> <amount>"
+	}
+	"Give1Energy"
+	{
+		"en"		"Give 1 energy"
+	}
+	"Give5Energy"
+	{
+		"en"		"Give 5 energy"
+	}
+	"Give10Energy"
+	{
+		"en"		"Give 10 energy"
+	}
+	"Give50Energy"
+	{
+		"en"		"Give 50 energy"
+	}
+	"Give100Energy"
+	{
+		"en"		"Give 100 energy"
+	}
+	"sc_removeenergy"
+	{
+		"en"		"The syntax of the command is: sc_removeenergy <player> <amount>"
+	}
+	"Remove1Energy"
+	{
+		"en"		"Remove 1 energy"
+	}
+	"Remove5Energy"
+	{
+		"en"		"Remove 5 energy"
+	}
+	"Remove10Energy"
+	{
+		"en"		"Remove 10 energy"
+	}
+	"Remove50Energy"
+	{
+		"en"		"Remove 50 energy"
+	}
+	"Remove100Energy"
+	{
+		"en"		"Remove 100 energy"
+	}
+	"AdminGaveEnergy"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"You gave {olive}{1}{default} {blue}{2} energy{default}."
+	}
+	"PlayerReceivedEnergy"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You received {blue}{1} energy{default} from admin {olive}{2}{default}."
+	}
+	"AdminRemovedEnergy"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You removed {blue}{1} energy{default} from player {olive}{2}{default}."
+	}
+	"PlayerForfeitedEnergy"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Admin {olive}{1}{default} removed {blue}{2} energy{default} from you."
+	}
+	"ConfirmEnable"
+	{
+		"#format"	"{1:N}"
+		"en"		"Are you SURE you want to {green}enable{default} {olive}{1}{default}?"
+	}
+	"ConfirmDisable"
+	{
+		"#format"	"{1:N}"
+		"en"		"Are you SURE you want to {red}disable{default} {olive}{1}{default}?"
+	}
+	"AdminEnabled"
+	{
+		"#format"	"{1:N}"
+		"en"		"You {green}enabled{default} {olive}{1}{default}'s account."
+	}
+	"PlayerEnabled"
+	{
+		"#format"	"{1:N}"
+		"en"		"Admin {olive}{1}{default} has {green}enabled{default} your account!"
+	}
+	"AdminDisabled"
+	{
+		"#format"	"{1:N}"
+		"en"		"You {red}disabled{default} {olive}{1}{default}'s account."
+	}
+	"PlayerDisabled"
+	{
+		"#format"	"{1:N}"
+		"en"		"Admin {olive}{1}{default} has {red}disabled{default} your account!"
+	}
+	"ConfirmDelete"
+	{
+		"#format"	"{1:N}"
+		"en"		"Are you SURE you want to {red}delete{default} {olive}{1}{default} from the Database?"
+	}
+	"AdminDeleted"
+	{
+		"#format"	"{1:N}"
+		"en"		"You {red}deleted{default} {olive}{1}{default} from the database."
+	}
+	"PlayerDeleted"
+	{
+		"#format"	"{1:N}"
+		"en"		"Admin {olive}{1}{default} has removed ALL of your levels!"
+	}
+	"FixLevels"
+	{
+		"en"		"You have run the fix_levels script"
+	}
+	"ChooseSetting"
+	{
+		"en"		"Choose a setting."
+	}
+	"DisplayDefense"
+	{
+		"en"		"Display defense"
+	}
+	"DisplayDamageDone"
+	{
+		"en"		"Display damage done"
+	}
+	"DisplayKills"
+	{
+		"en"		"Display kills"
+	}
+	"DisplayUltimate"
+	{
+		"en"		"Display ultimate results"
+	}
+	"DisplayMiscMessage"
+	{
+		"en"		"Display misc. messages"
+	}
+	"DisplayEnemyDefended"
+	{
+		"en"		"Display enemies defense"
+	}
+	"DisplayDamageTaken"
+	{
+		"en"		"Display damage taken"
+	}
+	"DisplayDeaths"
+	{
+		"en"		"Display deaths"
+	}
+	"DisplayEnemyUltimate"
+	{
+		"en"		"Display enemies ultimates"
+	}
+	"DisplayEnemyMessage"
+	{
+		"en"		"Display enemies misc. messages"
+	}
+	"DisplayXP"
+	{
+		"en"		"Display experience gained"
+	}
+	"DisplayCrystals"
+	{
+		"en"		"Display crystals earned"
+	}
+	"DisplayVespene"
+	{
+		"en"		"Display vespene earned"
+	}
+	"DisplayEnergy"
+	{
+		"en"		"Display energy notices"
+	}
+	"DisplayDetails"
+	{
+		"en"		"Display details"
+	}
+	"ReduceQueasiness"
+	{
+		"en"		"Reduce queasiness (reduced flashing effects)"
+	}
+	"RemoveQueasiness"
+	{
+		"en"		"Remove queasiness (no flashing effects and hallucination converts to blindness)"
+	}
+	"DisableBeacons"
+	{
+		"en"		"Disable beacons"
+	}
+	"DisableOBeacons"
+	{
+		"en"		"Disable offensive beacons"
+	}
+	"DisableEffects"
+	{
+		"en"		"Disable effects"
+	}
+	"DisplayWidescreen"
+	{
+		"en"		"Display widescreen HUD"
+	}
+	"EnableAltHUD"
+	{
+		"en"		"Enable Alternate HUD (for DoD)"
+	}
+	"DisableHUD"
+	{
+		"en"		"Disable HUD"
+	}
+	"DebugCondition"
+	{
+		"en"		"Debug Condition"
+	}
+	"DebugSpeed"
+	{
+		"en"		"Debug Speed"
+	}
+	"Yes"
+	{
+		"en"		"Yes"
+	}
+	"No"
+	{
+		"en"		"No"
+	}
+	"NoPoints"
+	{
+		"en"		"You don't have any upgrade points to spend, if you want to reset your upgrades use reset."
+	}
+	"NoRaces"
+	{
+		"en"		"{red}There are no races!{default}"
+	}
+	"NoItems"
+	{
+		"en"		"{red}There are no items in the shopmenu!{default}"
+	}
+	"NoInventory"
+	{
+		"en"		"No items in Inventory!"
+	}
+	"NoPlayer"
+	{
+		"en"		"{red}The player has disconnected from the server!{default}"
+	}
+	"NoTarget"
+	{
+		"en"		"{red}Unable to target!{default}"
+	}
+	"NoRacesOrUpgrades"
+	{
+		"en"		"{red}There are no races or upgrades!{default}"
+	}
+	"StillLoadingUnableToUpgrade"
+	{
+		"en"		"{blue}Your data is still loading, you must wait for it to complete before upgrading!{default}"
+	}
+	"StillLoadingUnableToReset"
+	{
+		"en"		"{blue}Your data is still loading, you must wait for it to complete before resetting!{default}"
+	}
+	"NoDatabaseForLoad"
+	{
+		"en"		"{red}Sorry, the database is not available to load your levels!{default}"
+	}
+	"NoDatabaseForSave"
+	{
+		"en"		"{red}Sorry, the database is not available to save your levels!{default}"
+	}
+	"UnableToLoad"
+	{
+		"#format"	"{1:s}"
+		"en"		"{red}Unable to load your SourceCraft Data! {1}{default}"
+	}
+	"UnableToLoadRace"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{red}Unable to load your {1} Data! {2}{default}"
+	}
+	"UnableToSave"
+	{
+		"#format"	"{1:s}"
+		"en"		"{red}Unable to save your SourceCraft Data! {1}{default}"
+	}
+	"UnableToSaveRace"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{red}Unable to save your {1} Data! {2}{default}"
+	}
+	"NoUpgrades"
+	{
+		"en"		"There are no eligible upgrades!"
+	}
+	"NeedMoreLevels"
+	{
+		"en"		"You can not select an upgrade without gaining another level!"
+	}
+	"InsufficientTechLevels"
+	{
+		"#format"	"{1:d},{2:s},{3:s},{4:d}"
+		"en"		"You need to have at least {1} levels in {olive}{2}{default} to use {blue}{3}{default} and you only have {4}!"
+	}
+	"InsufficientLevels"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You need to be at least level {1} to use {blue}{2}{default}!"
+	}
+	"UltimateTaken"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"You have already chosen {blue}{1}{default} as your ultimate {2}, to reset your upgrades use reset!"
+	}
+	"UpgradeMaxed"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{blue}{1}{default} has already been leveled to it's max of {2}!"
+	}
+	"LeveledUp"
+	{
+		"#format"	"{1:d},{2:s},{3:d}"
+		"en"		"You are now a level {1} {blue}{2}{default} (level {3} overall)."
+	}
+	"PendingRaceChange"
+	{
+		"#format"	"{1:s}"
+		"en"		"You will be a {blue}{1}{default} the next time you spawn."
+	}
+	"RaceChanged"
+	{
+		"#format"	"{1:s}"
+		"en"		"You are now a {blue}{1}{default}"
+	}
+	"UpgradesPendingReset"
+	{
+		"en"		"The upgrades for your current race will be reset the next time you spawn."
+	}
+	"UpgradesReset"
+	{
+		"en"		"The upgrades have been reset for your current race."
+	}
+	"AnotherItemPurchased"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"You have successfully purchased another {blue}{1}{default}, you now have {2}."
+	}
+	"ItemPurchased"
+	{
+		"#format"	"{1:s}"
+		"en"		"You have successfully purchased the {blue}{1}{default}."
+	}
+	"AlreadyOwnMax"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You already own the maximum allowed {1} {blue}{2}{default}s."
+	}
+	"AlreadyOwn"
+	{
+		"#format"	"{1:d}"
+		"en"		"You already own the {blue}{1}{default}."
+	}
+	"ShowCrystals"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have {green}{1} crystals{default}."
+	}
+	"ShowVespene"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have {lightgreen}{1} vespene gas{default}."
+	}
+	"ShowEnergy"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"You have {blue}{1} energy{default} & {blue}{2} accumulated energy{default}."
+	}
+	"ShowXP"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:d},{5:d},{6:d}"
+		"en"		"{blue}{1}{default} - Level {2} of {3} - Experience {4} / {5}. (Overall Level {6})"
+	}
+	"ShowMaxXP"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:d}"
+		"en"		"{blue}{1}{default} - Level {2} - Experience {3}. (Overall Level {4})"
+	}
+	"HeadshotBonus"
+	{
+		"#format"	"{1:d}"
+		"en"		"You get {custom}{1} additional experience{default} for a {green}headshot{default}."
+	}
+	"BackstabBonus"
+	{
+		"#format"	"{1:d}"
+		"en"		"You get {custom}{1} additional experience{default} for a {green}backstab{default}."
+	}
+	"MeleeBonus"
+	{
+		"#format"	"{1:d}"
+		"en"		"You get {custom}{1} additional experience{default} for a {green}melee{default} (knife/shovel/wrench/etc) kill."
+	}
+	"DominationBonus"
+	{
+		"#format"	"{1:d}"
+		"en"		"You get {custom}{1} additional experience{default} for {green}domination{default}!"
+	}
+	"RevengeBonus"
+	{
+		"#format"	"{1:d}"
+		"en"		"You get {custom}{1} additional experience{default} for a {green}revenge{default} kill!"
+	}
+	"AssistBonus"
+	{
+		"#format"	"{1:d}"
+		"en"		"You get {custom}{1} additional experience{default} for {green}assist{default}ing a kill."
+	}
+	"Kill"
+	{
+		"en"		"getting a kill"
+	}
+	"Assist"
+	{
+		"en"		"assisting a kill"
+	}
+	"PickUpIntel"
+	{
+		"en"		"picking up the intelligence"
+	}
+	"DropIntel"
+	{
+		"en"		"dropping the intelligence"
+	}
+	"CapIntel"
+	{
+		"en"		"capturing the intelligence"
+	}
+	"DefendIntel"
+	{
+		"en"		"defending the intelligence"
+	}
+	"CapPoint"
+	{
+		"en"		"capturing a point"
+	}
+	"BlockPoint"
+	{
+		"en"		"blocking a point"
+	}
+	"TouchPoint"
+	{
+		"en"		"touching a point"
+	}
+	"Escort"
+	{
+		"en"		"escorting the cart"
+	}
+	"DeployUber"
+	{
+		"en"		"deploying Ubercharge"
+	}
+	"Building"
+	{
+		"#format"	"{1:s}"
+		"en"		"building a {1}"
+	}
+	"Upgrading"
+	{
+		"#format"	"{1:s}"
+		"en"		"upgrading a {1}"
+	}
+	"Destroying"
+	{
+		"#format"	"{1:s}"
+		"en"		"destroying a {1}"
+	}
+	"DestroyingOwn"
+	{
+		"#format"	"{1:s}"
+		"en"		"destroying your own {1}"
+	}
+	"PlantBomb"
+	{
+		"en"		"planting the bomb"
+	}
+	"DefuseBomb"
+	{
+		"en"		"defusing the bomb"
+	}
+	"ExplodeBomb"
+	{
+		"en"		"the bomb exploding"
+	}
+	"KillBomber"
+	{
+		"en"		"killing the bomb planter"
+	}
+	"KillDefuser"
+	{
+		"en"		"killing the bomb defuser"
+	}
+	"RescueHostage"
+	{
+		"en"		"rescuing a hostage"
+	}
+	"WinRound"
+	{
+		"en"		"winning a round"
+	}
+	"WinGame"
+	{
+		"en"		"winning the game"
+	}
+	"BeingMVP"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"being MVP #{1} with {2} points"
+	}
+	"GainedXP"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You have gained {custom}{1} experience{default} for {2}."
+	}
+	"LostXP"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You have lost {custom}{1} experience{default} for {2}."
+	}
+	"GainedCrystals"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You have gained {green}{1} crystals{default} for {2}."
+	}
+	"GainedMaxCrystals"
+	{
+		"#format"	"{1:d},{2:d},{3:s}"
+		"en"		"You have gained {green}{1} crystals{default} (to the max of {2}) for {3}."
+	}
+	"LostCrystals"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You have lost {green}{1} crystals{default} for {2}."
+	}
+	"GainedVespene"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You have gained {lightgreen}{1} vespene{default} for {2}."
+	}
+	"GainedMaxVespene"
+	{
+		"#format"	"{1:d},{2:d},{3:s}"
+		"en"		"You have gained {lightgreen}{1} vespene{default} (to the max of {2}) for {3}."
+	}
+	"LostVespene"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You have lost {lightgreen}{1} vespene{default} for {2}."
+	}
+	"GainedAccumulatedEnergy"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You have gained {blue}{1} accumulated energy{default} for {2}."
+	}
+	"LostAccumulatedEnergy"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You have lost {blue}{1} accumulated energy{default} for {2}."
+	}
+}

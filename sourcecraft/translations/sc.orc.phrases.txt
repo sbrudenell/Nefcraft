@@ -1,0 +1,76 @@
+"Phrases"
+{
+	"orc"
+	{
+		"en"		"Orcish Horde"
+	}
+
+	"orc_switch"
+	{
+		"en"		""
+	}
+
+	"orc_pending"
+	{
+		"en"		""
+	}
+
+	"orc_image"
+	{
+		"en"		"Horde/FarSeerAnim.gif"
+	}
+
+	"orc_desc"
+	{
+		"en"		"The Orcs, who once cultivated a quiet Shamanistic society upon the world of Draenor, were corrupted by the chaos magics of the Burning Legion and formed into a voracious, unstoppable Horde. Lured to the world of Azeroth through a dimensional gateway, the Horde was manipulated into waging war against the human nations of Azeroth and Lordaeron. Hoping that the Horde would conquer the mortal armies of Azeroth, the Burning Legion made ready for its final invasion of the unsuspecting world."
+	}
+
+	"orc_acute_strike"
+	{
+		"en"		"Acute Strike"
+	}
+	"orc_acute_strike_desc"
+	{
+		"en"		"Gives you a 25%% chance of doing 40-120%% more damage."
+	}
+	"sc_acute_strike"
+	{
+		"en"		"Acute Strike"
+	}
+
+	"orc_acute_grenade"
+	{
+		"en"		"Acute Grenade"
+	}
+	"orc_acute_grenade_desc"
+	{
+		"en"		"Grenades and Rockets have a 15%% chance of doing 35-100%% more damage."
+	}
+	"sc_acute_grenade"
+	{
+		"en"		"Acute Grenade"
+	}
+
+	"orc_reincarnation"
+	{
+		"en"		"Reincarnation"
+	}
+	"orc_reincarnation_desc"
+	{
+		"en"		"Gives you a 15-80%% chance of respawning respawning where you died. Up to 4 times in succession, depending on level."
+	}
+
+	"orc_lightning"
+	{
+		"en"		"Chain Lightning"
+	}
+	"orc_lightning_desc"
+	{
+		"en"		"Discharges a bolt of lightning that jumps to nearby enemies 300-800 units in range, dealing each 20-120 damage."
+	}
+
+	"sc_chain_lightning"
+	{
+		"en"		"Chain Lightning"
+	}
+}
