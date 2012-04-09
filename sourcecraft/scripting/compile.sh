@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SPCOMP="../../sourcemod-1.4.1/addons/sourcemod/scripting/spcomp"
+SPCOMP="../../sourcemod-1.4.1/addons/sourcemod/scripting/spcomp.exe"
 FLAGS="-i../../sdkhooks/addons/sourcemod/scripting/include/ -iinclude -iSourceCraft"
 
 test -e compiled || mkdir -p compiled/SourceCraft
