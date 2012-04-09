@@ -16,7 +16,7 @@
 
 #include "sc/RecallSounds"
 #include "sc/ShopItems"
-#include "sc/Burrow"
+#include "sc/burrow"
 
 stock RecallTeam(client, raceId, upgradeId)
 {
