@@ -6,6 +6,11 @@ Author(s): Naris
 
 // The types of visibility.
 
+#if defined _Visibility_included
+ #endinput
+#endif
+#define _Visibility_included
+
 enum VisibilityType
 {
 	DefaultVisibility=-1,	// Indicates no visibility effects have been altered, should not be used outside of the engine

@@ -5,6 +5,11 @@
  * Author(s): -=|JFH|=-Naris
  */
 
+#if defined _cooldowntype_included
+ #endinput
+#endif
+#define _cooldowntype_included
+
 enum CooldownType (<<= 1)
 {
     Cooldown_None = 0,

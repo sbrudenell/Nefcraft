@@ -5,6 +5,11 @@
  * Author(s): -=|JFH|=-Naris
  */
  
+#if defined _Detector_included
+ #endinput
+#endif
+#define _Detector_included
+
 #if !defined m_SidewinderAvailable
     stock bool:m_SidewinderAvailable  = false;
 #endif
